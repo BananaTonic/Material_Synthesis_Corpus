@@ -1,0 +1,22 @@
+T1	Material-final 46 55	PEDOT:PSS
+T2	Argument-others 56 61	films
+T3	Material-final 670 679	PEDOT:PSS
+T4	Argument-others 680 684	film
+T5	Material-final 396 405	PEDOT:PSS
+T6	Argument-others 406 411	films
+T7	Material-final 706 715	PEDOT:PSS
+T8	Argument-others 716 721	films
+T9	Material-final 914 923	PEDOT:PSS
+T10	Material-final 1088 1097	PEDOT:PSS
+T11	Argument-others 924 929	films
+T12	Argument-others 1098 1102	film
+T13	Material-final 1600 1609	PEDOT:PSS
+T14	Argument-others 1610 1615	films
+T15	Material-final 1944 1953	PEDOT:PSS
+T16	Argument-others 1954 1959	layer
+T17	Material-final 2159 2168	PEDOT:PSS
+T18	Material-final 161 170	PEDOT:PSS
+T19	Material-start 62 71	PEDOT:PSS
+T20	Argument-others 72 88	aqueous solution
+T21	Material-start 90 110	Clevios P VP Al 4083
+T22	Material-start 2016 2036	Clevios P VP Al 4083

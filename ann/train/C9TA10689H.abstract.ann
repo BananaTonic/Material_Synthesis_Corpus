@@ -1,0 +1,8 @@
+T1	Value-conductivity 757 760	0.1
+T2	Unit-conductivity 761 768	mS cm−1
+T3	Argument-temp 769 777	at 25 °C
+T4	Material-final 723 727	SPE1
+T5	Material-final 524 528	SPE1
+T6	Material-final 932 936	SPE1
+T7	Argument-others 1134 1141	battery
+T8	Material-final 1118 1133	LiFePO4/SPE1/Li

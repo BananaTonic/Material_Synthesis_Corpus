@@ -1,0 +1,18 @@
+T1	Material-final 71 81	(Sn, Ti)O2
+T2	Argument-others 65 70	black
+T3	Material-final 434 444	(Sn, Ti)O2
+T4	Argument-others 428 433	black
+T5	Argument-others 445 459	solid solution
+T6	Argument-others 261 266	black
+T7	Material-final 267 277	(Sn, Ti)O2
+T8	Value-conductivity 347 350	0.1
+T9	Argument-others 366 371	white
+T10	Material-final 372 382	(Sn, Ti)O2
+T11	Unit-conductivity 351 358	μS cm−1
+T12	Unit-conductivity 293 300	μS cm−1
+T13	Value-conductivity 288 292	35.7
+T14	Material-final 973 983	(Sn, Ti)O2
+T15	Material-final 576 586	(Sn, Ti)O2
+T16	Argument-others 570 575	black
+T17	Argument-others 82 109	with a core–shell structure
+T18	Material-final 111 136	SnxTi1−xO2@SnxTi1−xO2−yHy

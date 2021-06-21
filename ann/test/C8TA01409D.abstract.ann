@@ -1,0 +1,10 @@
+T1	Value-conductivity 966 974	2 × 10−4
+T2	Unit-conductivity 975 981	S cm−1
+T3	Argument-temp 982 1001	at room temperature
+T4	Unit-conductivity 1299 1305	S cm−1
+T5	Argument-temp 1306 1314	at 80 °C
+T6	Value-conductivity 1290 1298	&gt;10−3
+T7	Material-final 714 735	poly(VDF-co-MAF-cyCB)
+T8	Argument-others 736 745	copolymer
+T9	Argument-others 1017 1042	cyCB/Li+ molar ratio of 5
+T10	Argument-others 746 776	with various amounts of LiClO4

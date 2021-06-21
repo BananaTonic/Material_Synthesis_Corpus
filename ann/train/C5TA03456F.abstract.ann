@@ -1,0 +1,17 @@
+T1	Material-final 853 862	PEDOT:PSS
+T2	Value-conductivity 894 898	10−3
+T3	Value-conductivity 902 905	101
+T4	Unit-conductivity 906 912	S cm−1
+T5	Material-final 104 159	poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate)
+T6	Material-final 1043 1052	PEDOT:PSS
+T7	Argument-others 1053 1058	films
+T8	Material-final 538 593	poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate)
+T9	Material-final 595 604	PEDOT:PSS
+T10	Material-final 763 772	PEDOT:PSS
+T11	Argument-others 773 778	films
+T12	Material-final 1185 1194	PEDOT:PSS
+T13	Material-final 1215 1224	PEDOT:PSS
+T14	Argument-others 1225 1230	films
+T15	Material-final 1461 1470	PEDOT:PSS
+T16	Material-final 1387 1396	PEDOT:PSS
+T17	Material-start 606 626	Clevios P VP Al 4083

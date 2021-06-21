@@ -1,0 +1,14 @@
+T1	Unit-conductivity 1610 1616	S cm−1
+T2	Value-conductivity 1605 1609	0.02
+T3	Argument-temp 1640 1646	500 °C
+T4	Argument-others 1617 1621	bulk
+T5	Material-final 1556 1573	Gd1.6Sr0.4Ga3O7.3
+T6	Material-final 1422 1439	Gd1.6Sr0.4Ga3O7.3
+T7	Material-final 1444 1461	Tb1.4Sr0.6Ga3O7.2
+T8	Material-final 1400 1420	Eu1.54Sr0.46Ga3O7.27
+T9	Material-final 1275 1294	La1+xSr1−xGa3O7+x/2
+T10	Material-final 152 169	Ln1+xSr1−xGa3O7+δ
+T11	Argument-others 171 207	Ln = Eu, Gd and Tb; with 0 ≤ x ≤ 0.6
+T12	Material-final 459 479	Tb1+xSr1−xGa3O7+x/2)
+T13	Argument-others 1295 1307	compositions
+T14	Argument-others 209 221	compositions

@@ -1,0 +1,18 @@
+T1	Material-final 52 56	LSGM
+T2	Material-final 490 494	LSGM
+T3	Material-final 626 630	LSGM
+T4	Material-final 1052 1056	LSGM
+T5	Material-final 966 970	LSGM
+T7	Material-final 1324 1328	LSGM
+T8	Value-conductivity 1212 1218	∼0.075
+T9	Unit-conductivity 1219 1225	S cm−1
+T10	Argument-temp 1226 1235	at 800 °C
+T11	Argument-others 1057 1068	electrolyte
+T12	Argument-others 1069 1078	membranes
+T13	Argument-others 971 982	electrolyte
+T14	Argument-others 983 992	membranes
+T15	Argument-others 1382 1393	electrolyte
+T16	Argument-others 1394 1403	membranes
+T17	Argument-others 57 69	electrolytes
+T18	Argument-others 495 502	deposit
+T19	Argument-others 1329 1336	deposit

@@ -1,0 +1,23 @@
+T1	Value-conductivity 1771 1775	1.24
+T2	Unit-conductivity 1776 1783	mS cm−1
+T3	Value-conductivity 1762 1766	0.72
+T4	Argument-temp 1784 1803	at room temperature
+T5	Argument-temp 1808 1813	60 °C
+T7	Material-final 1062 1066	LLZO
+T8	Material-final 1703 1710	LGLBZTO
+T9	Material-final 1503 1507	LLZO
+T10	Material-final 1662 1701	Li6.65Ga0.05La2.95Ba0.05Zr1.75Ta0.25O12
+T11	Material-final 2050 2057	LGLBZTO
+T12	Material-final 2102 2109	LGLBZTO
+T13	Material-final 896 908	Li7La3Zr2O12
+T14	Argument-others 888 895	undoped
+T15	Argument-others 1050 1061	garnet-type
+T16	Argument-others 1631 1661	ternary-doped garnet structure
+T17	Argument-others 2036 2049	ternary-doped
+T18	Argument-others 2058 2064	garnet
+T19	Argument-others 2088 2101	ternary-doped
+T20	Material-final 103 115	Li7La3Zr2O12
+T21	Material-final 601 613	Li7La3Zr2O12
+T22	Argument-others 589 600	Garnet-type
+T23	Argument-others 73 102	garnet-type solid electrolyte
+T24	Argument-others 916 940	cubic garnet electrolyte

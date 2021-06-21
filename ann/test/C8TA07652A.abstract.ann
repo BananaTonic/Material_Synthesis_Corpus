@@ -1,0 +1,17 @@
+T1	Unit-conductivity 348 354	S cm−1
+T2	Value-conductivity 343 347	10−3
+T3	Material-final 207 219	Li7La3Zr2O12
+T4	Argument-others 220 237	solid electrolyte
+T5	Argument-others 195 206	Garnet-type
+T6	Material-final 1070 1074	LLZA
+T7	Material-final 1047 1068	Li6.28La3Zr2Al0.24O12
+T8	Material-final 1152 1164	NMC||LS-LLZA
+T9	Material-final 1783 1804	NMC||LS-LLZA||GPE||Li
+T10	Material-final 1246 1266	NMC||LS-LLZA-LS||NMC
+T11	Material-final 1102 1109	Li2SiO3
+T12	Material-final 1111 1113	LS
+T13	Argument-others 1165 1174	interface
+T14	Material-final 1305 1312	Li2SiO3
+T15	Argument-others 1313 1325	buffer layer
+T19	Material-final 1563 1571	Li||LLZA
+T21	Argument-others 1572 1581	interface

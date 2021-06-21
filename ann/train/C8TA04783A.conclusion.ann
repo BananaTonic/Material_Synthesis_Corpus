@@ -1,0 +1,6 @@
+T1	Value-conductivity 194 197	200
+T2	Unit-conductivity 198 205	mS cm−1
+T3	Argument-temp 206 214	at 80 °C
+T4	Argument-air 215 253	in a 100% relative humidity atmosphere
+T5	Material-final 76 128	LDPE-based radiation-grafted anion-exchange membrane
+T6	Material-final 130 136	RG-AEM

@@ -1,0 +1,7 @@
+T1	Material-final 28 38	Li6Y(BO3)3
+T2	Material-final 620 630	Li6Y(BO3)3
+T3	Material-final 1220 1230	Li6Y(BO3)3
+T4	Material-final 1634 1644	Li6Y(BO3)3
+T5	Argument-temp 831 837	400 °C
+T6	Unit-conductivity 817 823	S cm−1
+T7	Value-conductivity 806 816	2.2 × 10−3

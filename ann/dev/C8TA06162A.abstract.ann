@@ -1,0 +1,8 @@
+T1	Unit-conductivity 1253 1259	S cm−1
+T2	Value-conductivity 1248 1252	10−3
+T3	Material-final 30 41	Na3V2(PO4)3
+T4	Material-final 483 499	Na3V2−xMnx(PO4)3
+T5	Argument-others 501 514	x = 0 and 0.1
+T6	Material-final 1860 1880	C/Na3V1.9Mn0.1(PO4)3
+T7	Argument-others 1881 1888	cathode
+T8	Argument-others 474 482	Mn-doped

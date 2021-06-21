@@ -1,0 +1,12 @@
+T2	Value-conductivity 729 733	3828
+T3	Unit-conductivity 734 740	S cm−1
+T4	Unit-conductivity 816 822	S cm−1
+T5	Material-final 778 787	PEDOT:PSS
+T6	Argument-others 788 792	film
+T7	Argument-others 711 727	∼15 micron fiber
+T8	Material-final 459 516	poly(3,4-ethylenedioxythiophene):poly(4-styrenesulfonate)
+T9	Material-final 518 527	PEDOT:PSS
+T10	Argument-others 529 535	fibers
+T11	Material-final 52 61	PEDOT:PSS
+T12	Argument-others 62 68	fibers
+T1	Value-conductivity 811 815	4380

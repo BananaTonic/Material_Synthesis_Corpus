@@ -1,0 +1,10 @@
+T1	Value-conductivity 787 797	6.1 × 10−5
+T2	Unit-conductivity 798 804	S cm−1
+T3	Argument-temp 805 813	at 25 °C
+T4	Value-conductivity 818 828	5.7 × 10−4
+T5	Unit-conductivity 829 835	S cm−1
+T6	Argument-temp 836 844	at 80 °C
+T7	Material-final 549 563	PVDF-HFP/LiBOB
+T8	Argument-others 564 567	PSE
+T9	Material-final 732 746	PVDF-HFP/LiBOB
+T10	Argument-others 747 750	PSE

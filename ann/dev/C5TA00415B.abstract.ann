@@ -1,0 +1,14 @@
+T1	Material-final 25 66	poly(ether sulfones)/polyvinylpyrrolidone
+T2	Argument-others 0 24	Submicro-pore containing
+T3	Argument-others 67 76	membranes
+T4	Material-final 642 649	PES/PVP
+T5	Argument-others 650 659	membranes
+T6	Argument-others 635 641	porous
+T7	Value-conductivity 882 886	0.09
+T8	Unit-conductivity 887 893	S cm−1
+T9	Argument-temp 979 988	at 180 °C
+T10	Argument-air 989 1015	under anhydrous conditions
+T11	Argument-others 945 978	with a PA doping level of 350 wt%
+T12	Material-final 1513 1536	PA doped porous PES/PVP
+T13	Material-final 1758 1772	PES/PVP blends
+T14	Argument-others 1733 1757	submicro-pore containing

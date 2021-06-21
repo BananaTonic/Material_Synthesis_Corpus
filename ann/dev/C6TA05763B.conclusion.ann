@@ -1,0 +1,18 @@
+T1	Material-final 61 82	Ca0.04Ce0.96−xSmxO2−δ
+T2	Argument-others 91 118	x = 0, 0.09, 0.16, and 0.24
+T3	Material-final 257 280	Ca0.04Ce0.80Sm0.16O1.73
+T4	Value-conductivity 337 342	0.039
+T5	Unit-conductivity 343 349	S cm−1
+T6	Argument-temp 350 359	at 600 °C
+T7	Material-final 446 450	SCDC
+T8	Value-conductivity 501 506	0.188
+T9	Unit-conductivity 507 513	S cm−1
+T10	Material-final 522 532	LSCF–SCDC2
+T11	Argument-others 533 542	composite
+T12	Argument-temp 543 552	at 600 °C
+T13	Material-final 638 647	LSCF–SCDC
+T14	Material-final 706 715	LSCF–SCDC
+T15	Material-final 849 858	LSCF–SCDC
+T16	Argument-others 859 869	composites
+T17	Material-final 903 913	LSCF–SCDC2
+T18	Argument-others 914 923	composite

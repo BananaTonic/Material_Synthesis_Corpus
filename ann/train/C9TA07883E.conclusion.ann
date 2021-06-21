@@ -1,0 +1,19 @@
+T2	Unit-conductivity 764 770	S cm−1
+T3	Value-conductivity 896 900	0.40
+T4	Unit-conductivity 901 907	S cm−1
+T5	Argument-temp 735 744	at 100 °C
+T6	Argument-air 749 755	40% RH
+T7	Material-final 722 734	NPGOM-10-CNF
+T8	Material-final 987 1009	NPGOM-10-CNF-based MEA
+T9	Material-final 1149 1161	NPGOM-10-CNF
+T10	Material-final 909 921	NPGOM-10-CNF
+T11	Material-final 1083 1095	NPGOM-10-CNF
+T12	Material-final 1239 1251	NPGOM-10-CNF
+T13	Material-final 20 29	NPGOM-CNF
+T14	Argument-others 30 48	solid electrolytes
+T15	Material-final 352 361	NPGOM-CNF
+T16	Argument-others 362 371	membranes
+T17	Material-final 609 618	NPGOM-CNF
+T18	Argument-others 619 628	membranes
+T19	Material-final 844 856	NPGOM-10-CNF
+T1	Value-conductivity 759 763	0.13

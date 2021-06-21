@@ -1,0 +1,8 @@
+T1	Value-conductivity 1115 1126	1.93 × 10−6
+T2	Unit-conductivity 1127 1133	S cm−1
+T3	Value-conductivity 1059 1070	8.91 × 10−8
+T4	Unit-conductivity 1071 1077	S cm−1
+T5	Material-final 997 1009	LLO@LATP@CNT
+T6	Material-final 662 674	LLO@LATP@CNT
+T7	Argument-others 1095 1100	ionic
+T8	Argument-others 1034 1044	electronic

@@ -1,0 +1,23 @@
+T1	Value-conductivity 26953 26957	0.01
+T2	Unit-conductivity 26958 26964	S cm−1
+T3	Argument-others 26965 26969	bulk
+T4	Value-conductivity 28481 28486	≈0.02
+T5	Unit-conductivity 28487 28493	S cm−1
+T6	Argument-temp 28494 28503	at 500 °C
+T7	Value-activation 29326 29333	0.80(2)
+T8	Value-activation 29338 29346	0.729(7)
+T9	Value-activation 29354 29362	0.824(6)
+T10	Unit-activation 29363 29365	eV
+T11	Unit-activation 29347 29349	eV
+T12	Unit-activation 29334 29336	eV
+T13	Material-final 29247 29264	Tb1.4Sr0.6Ga3O7.2
+T14	Material-final 29266 29286	Eu1.54Sr0.46Ga3O7.27
+T15	Material-final 29291 29308	Gd1.6Sr0.4Ga3O7.3
+T16	Argument-temp 29309 29321	below 500 °C
+T17	Material-final 28361 28378	Gd1.6Sr0.4Ga3O7.3
+T18	Material-final 26424 26441	Gd1.6Sr0.4Ga3O7.3
+T19	Material-final 26443 26463	Eu1.54Sr0.46Ga3O7.27
+T20	Material-final 26468 26485	Tb1.4Sr0.6Ga3O7.2
+T21	Argument-others 26486 26506	ceramic compositions
+T22	Argument-temp 27046 27065	470, 550 and 650 °C
+T23	Material-final 26512 26532	Eu1.54Sr0.46Ga3O7.27

@@ -1,0 +1,14 @@
+T1	Value-conductivity 1082 1090	8 × 10−3
+T2	Unit-conductivity 1091 1097	S cm−1
+T3	Argument-temp 1098 1117	at room temperature
+T4	Material-final 388 391	MPE
+T5	Material-final 777 780	MPE
+T6	Material-final 1035 1038	MPE
+T7	Material-final 1240 1243	MPE
+T8	Material-final 1514 1517	MPE
+T9	Material-final 1901 1904	MPE
+T10	Material-final 354 386	micro-porous polymer electrolyte
+T11	Argument-others 400 591	poly(arylene ether ketone) (PAEK)/poly(ethylene glycol) grafted poly(arylene ether ketone) (PAEK-g-PEG) polymer composite membrane matrix incorporating a chitosan based LiClO4 gel electrolyte
+T12	Material-final 71 103	micro-porous polymer electrolyte
+T13	Argument-others 8 70	poly(ethylene glycol)–grafted poly(arylene ether ketone) blend
+T14	Argument-others 163 200	incorporating a chitosan-based LiClO4

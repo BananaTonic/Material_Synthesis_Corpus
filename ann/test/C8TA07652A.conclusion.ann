@@ -1,0 +1,11 @@
+T1	Material-final 106 115	NMC||LLZA
+T2	Material-final 225 229	LLZA
+T3	Material-final 413 417	LLZA
+T4	Argument-others 418 424	pellet
+T5	Material-final 849 853	LLZA
+T6	Argument-others 854 860	pellet
+T7	Material-final 159 166	Li2SiO3
+T8	Material-final 804 811	Li2SiO3
+T9	Argument-others 812 817	layer
+T10	Argument-others 167 179	buffer layer
+T11	Argument-others 116 125	interface

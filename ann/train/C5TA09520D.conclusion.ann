@@ -1,0 +1,15 @@
+T1	Material-final 188 192	TiO2
+T2	Material-final 197 200	ZnO
+T3	Argument-others 201 220	electron conductors
+T4	Value-conductivity 225 232	0.00006
+T5	Unit-conductivity 233 240	mS cm−1
+T6	Value-conductivity 245 251	0.0031
+T7	Unit-conductivity 252 259	mS cm−1
+T8	Material-final 509 512	ZnO
+T9	Material-final 518 522	TiO2
+T10	Material-final 719 722	ZnO
+T11	Argument-others 723 741	electron conductor
+T12	Material-final 603 606	ZnO
+T13	Argument-others 607 625	electron conductor
+T14	Material-final 1022 1025	ZnO
+T15	Argument-others 1026 1044	electron conductor

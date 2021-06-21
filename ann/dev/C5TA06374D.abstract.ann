@@ -1,0 +1,15 @@
+T1	Material-final 1417 1429	LiPON/A-LLTO
+T2	Material-final 1230 1242	LiPON/A-LLTO
+T3	Argument-others 1243 1251	ceramics
+T4	Material-final 1599 1611	LiPON/A-LLTO
+T5	Argument-others 1612 1620	ceramics
+T6	Value-conductivity 1657 1668	1.65 × 10−4
+T7	Unit-conductivity 1669 1675	S cm−1
+T8	Value-conductivity 1152 1163	2.25 × 10−4
+T9	Unit-conductivity 1164 1170	S cm−1
+T10	Material-final 9 88	lithium phosphorous oxynitride/aluminium substituted lithium lanthanum titanate
+T11	Argument-others 0 8	Bi-layer
+T12	Material-final 527 606	lithium phosphorous oxynitride/aluminium substituted lithium lanthanum titanate
+T13	Argument-others 607 624	solid electrolyte
+T14	Argument-others 519 526	bilayer
+T15	Material-final 1715 1727	LiPON/A-LLTO

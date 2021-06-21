@@ -1,0 +1,11 @@
+T1	Value-conductivity 939 942	139
+T2	Unit-conductivity 943 949	S cm−1
+T3	Material-final 811 823	Te-PEDOT:PSS
+T4	Argument-others 824 846	with 0.3 wt% of SSWNTs
+T5	Material-final 687 711	SSWNT-mixed Te-PEDOT:PSS
+T6	Material-final 1060 1084	SSWNT-mixed Te-PEDOT:PSS
+T7	Material-final 321 345	SSWNT-mixed Te-PEDOT:PSS
+T8	Material-final 985 1018	Te-PEDOT:PSS with 0.8 wt% of GNPs
+T9	Material-final 1164 1186	GNP-mixed Te-PEDOT:PSS
+T10	Material-final 400 422	GNP-mixed Te-PEDOT:PSS
+T11	Material-final 757 779	GNP-mixed Te-PEDOT:PSS

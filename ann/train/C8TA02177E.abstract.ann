@@ -1,0 +1,17 @@
+T1	Value-conductivity 955 959	37.2
+T2	Unit-conductivity 960 967	mS cm−1
+T3	Argument-temp 968 976	at 20 °C
+T4	Unit-conductivity 1283 1290	mS cm−1
+T5	Value-conductivity 1280 1282	28
+T6	Argument-temp 1291 1299	at 20 °C
+T7	Material-final 1107 1117	sIPN-75/20
+T8	Material-final 866 876	sIPN-62/30
+T9	Material-final 1379 1389	sIPN-75/20
+T10	Argument-others 877 880	AEM
+T11	Material-final 1877 1887	sIPN-62/30
+T12	Material-final 2088 2098	sIPN-62/30
+T13	Argument-others 2099 2107	membrane
+T14	Material-final 2242 2252	sIPN-62/30
+T15	Argument-others 2253 2261	membrane
+T16	Material-final 1643 1653	sIPN-62/30
+T17	Argument-others 1654 1657	AEM

@@ -1,0 +1,22 @@
+T1	Value-conductivity 101 105	0.01
+T2	Unit-conductivity 106 112	S cm−1
+T3	Value-conductivity 649 654	∼10−4
+T4	Unit-conductivity 655 661	S cm−1
+T5	Argument-temp 662 681	at room temperature
+T6	Unit-conductivity 846 852	S cm−1
+T7	Value-conductivity 837 845	5 × 10−3
+T8	Unit-conductivity 1017 1023	S cm−1
+T9	Value-conductivity 1006 1016	1.5 × 10−2
+T10	Material-final 389 409	Na3+xZr2Si2+xP1−xO12
+T11	Material-final 686 706	Na3+xZr2Si2+xP1−xO12
+T12	Argument-others 707 715	ceramics
+T13	Material-final 791 811	Na3+xZr2Si2+xP1−xO12
+T14	Material-final 870 890	Na3.4Zr2Si2.4P0.6O12
+T15	Argument-temp 891 899	at 25 °C
+T16	Argument-others 985 989	bulk
+T17	Argument-others 815 820	total
+T18	Material-final 1169 1189	Na3.4Zr2Si2.4P0.6O12
+T19	Material-final 1281 1307	Na/Na3.4Zr2Si2.4P0.6O12/Na
+T20	Argument-temp 1193 1198	25 °C
+T21	Material-final 36 63	sodium superionic conductor
+T22	Argument-others 1308 1322	symmetric cell

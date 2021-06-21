@@ -1,0 +1,11 @@
+T1	Value-activation 697 701	0.11
+T2	Unit-activation 702 704	eV
+T3	Value-conductivity 646 649	0.1
+T4	Unit-conductivity 650 656	S cm−1
+T5	Material-final 85 100	FJU-66·[EVIm]OH
+T6	Material-final 227 233	FJU-66
+T7	Material-final 507 522	FJU-66·[EVIm]OH
+T8	Material-final 815 821	FJU-66
+T9	Material-final 823 839	FJU-66·0.9NBu4OH
+T10	Material-final 844 855	FJU-66·3KOH
+T11	Material-final 896 911	FJU-66·[EVIm]OH

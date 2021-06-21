@@ -1,0 +1,9 @@
+T1	Material-final 304 310	carbon
+T2	Material-final 312 316	BHNC
+T3	Value-conductivity 405 408	4.5
+T4	Unit-conductivity 409 415	S cm−1
+T5	Material-final 50 56	carbon
+T6	Argument-others 13 49	beehive-like hierarchical nanoporous
+T7	Argument-others 267 303	beehive-like hierarchical nanoporous
+T8	Material-final 499 503	BHNC
+T9	Material-final 1088 1114	BHNC-based supercapacitors

@@ -1,0 +1,32 @@
+T1	Material-final 1936 1943	n-Au-CF
+T2	Material-final 3862 3870	20-Au-CF
+T3	Value-conductivity 1765 1768	261
+T4	Unit-conductivity 1769 1775	S cm−1
+T5	Material-intermedium 1723 1731	COOH-CFs
+T6	Material-final 3309 3337	(TOA-Au NP/TREN)20-coated CF
+T8	Material-final 5356 5396	(TOABr-Au NP/TREN)n multilayer-coated CF
+T10	Material-final 3160 3166	Au-CFs
+T11	Material-intermedium 1423 1446	COOH-functionalized CFs
+T12	Material-final 1682 1689	COOH-CF
+T13	Material-intermedium 1657 1680	COOH-functionalized CFs
+T14	Material-intermedium 1809 1817	COOH-CFs
+T15	Material-intermedium 1959 1981	COOH-functionalized CF
+T16	Material-intermedium 2409 2417	COOH-CFs
+T17	Material-intermedium 2320 2342	COOH-functionalized CF
+T18	Material-final 3814 3819	Au-CF
+T19	Material-final 3839 3851	20-GOx/Au-CF
+T20	Material-final 4698 4703	Au-CF
+T21	Material-final 5921 5936	Au-CF-based BFC
+T22	Material-final 6221 6230	GOx/Au-CF
+T23	Material-final 6187 6192	Au-CF
+T24	Material-final 6563 6578	Au-CF-based BFC
+T25	Argument-others 3852 3857	anode
+T26	Argument-others 3871 3878	cathode
+T27	Material-final 3717 3753	(GOx/TREN)20/(TOABr-Au NP/TREN)20/CF
+T28	Argument-others 6231 6240	electrode
+T30	Argument-others 6193 6202	electrode
+T31	Argument-others 5397 5406	electrode
+T32	Argument-others 4704 4713	electrode
+T33	Argument-others 3292 3301	electrode
+T34	Argument-others 3338 3347	electrode
+T35	Argument-others 3820 3823	BFC

@@ -1,0 +1,166 @@
+Experimental section
+Materials
+All chemicals required for synthesis were purchased from Aldrich and used without further purification. 1-Bromododecane (Fluka; &gt;99.5%), lithium aluminium hydride (95%, Aldrich), sodium borohydride (98%, Aldrich), thionyl chloride (99%, Aldrich), triethylphosphite (95%, Fluka), triethyl silyl bromide (98%, Aldrich), triethyl amine (Fluka; p.a. &gt; 99.5%), methanol (Fisher Scientific; HPLC, 99.8%), toluene (Sigma Aldrich; 99.8%), aqueous HCl (Prolabo; p.a. 37%), and NaOH (Sigma Aldrich; 98%) were used as received.
+Characterization
+1H NMR and 13C NMR spectra were recorded on 250 MHz Bruker spectrometers. 1H NMR chemical shifts are reported in ppm vs. residual protons in deuterated solvents as follows: δ = 7.27; CDCl3 and δ = 2.50; (CD3)2SO. Solvent proton or carbon signals were used as the internal standard for 1H NMR and 13C NMR measurements, respectively, while triphenylphosphine (TPP) was applied for the calibration of the 31P NMR measurements.
+Thermal stability of all block copolymers was evaluated by thermogravimetric analysis (TGA) on a Perkin Elmer TGA 7 thermogravimetric analyzer (10 K min−1 heating rate in a nitrogen atmosphere). All TGA trace data were obtained from 30 °C to 500 °C.
+Wide angle X-ray (WAX) measurements
+The samples for 2D wide angle X-ray experiments were prepared by a filament extrusion method where the material is heated to its deformable state in order to extrude it as a thin filament. In this process, the deformed samples are processed mechanically through a piston along the cylinder by a constant-rate motion.
+A number of parameters such as the velocity of the piston, diameter of the cylinder and orifice, and the shape of the die govern this process. The macroscopic draw ratio (λ = (R/r)2) can be described by the ratio of the cylinder to orifice diameters whereas the drawing rate profile can be defined by the shape of the die used.
+The drawing rate remains constant in the conical die, whereas it becomes zero inside the cylinder and at the orifice of the die. The inner diameters of the cylinder and the orifice were 2.0 mm and 0.7 mm, respectively. The thickness of the filaments prepared by this method was about 0.7 mm. The movement of the pistol was controlled at the rate of 5 mm s−1 in order to have a high drawing rate of dλ/dt = 20 s−1. All X-ray diffraction measurements have shown no effect of drawing rate on the columns that were oriented in the direction of the extrusion. A 2D wide-angle X-ray scattering (WAXS) setup was used to perform structure and self-assembly investigations. In all cases, the position of the samples was maintained perpendicular to the incident X-ray beam. The reflection positions obtained in the 2D WAXS pattern can provide information about the intra- and inter-columnar supramolecular organization of the desired sample.
+Anhydrous proton conductivity
+The temperature dependent proton conductivity under dry conditions was investigated by using a Schlumberger SI 1260 impedance/gain phase analyzer with a dielectric interface in the frequency range from 10−1 to 106 Hz with the temperature ranging from 20 °C to 160 °C with increments of 10 °C. The measurements were carried out on a Novocontrol cryostat (Novocontrol, Hundsangen, Germany) in which the sample was sandwiched between two Pt electrodes under a nitrogen gas atmosphere. All samples were pressed in the form of pellets using a pellet making instrument and dried in a vacuum oven at 60 °C for 24 h prior to carrying out the proton conductivity experiments.
+General synthesis of compounds 6a–e (Scheme 1 and 2)
+3,4,5-Tris(dodecyloxy)benzyl phosphonic acid (6a)
+3,4,5-Tris(dodecyloxy)benzoate (6a)
+To a solution of 3,4,5-trihydroxy benzoate (3.30 g, 17.92 mmol) in DMF (25 mL) in a round bottom flask, 250 mL was added 1-bromododecane (14.9 g, 59.78 mmol) and K2CO3 (9.9 g, 71.63 mmol). The reaction mixture was refluxed at 70 °C under argon for 15 h. The crude mixture was extracted with EtOAc. The organic layer was washed with water, saturated aqueous NH4Cl and saturated aqueous NaCl successively. After this, the organic phase was dried over MgSO4 and filtered. All solvents were removed under vacuum. A brownish crude mixture was obtained which was further purified by crystallization.
+Yield: 8.2 g, 94%.
+1H NMR (250 MHz, CD2Cl2, δ): 88 (m, 9H), 1.25–147 (br m, 54H), 1.76 (m, 6H), 3.88 (s, 3H), 4.00 (m, 6H), 7.25 (s, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 14.10, 22.68, 23.50, 26.06, 29.28, 29.38, 29.55, 29.62, 29.64, 29.68, 30.31, 31.91, 52.08, 69.13, 73.47, 107.94, 124.62, 142.32, 152.80, 166.94.
+FD-MASS: Cal. 519; found 519.
+3,4,5-tris(dodecyloxy)benzyl alcohol (3a)
+To a suspension of LiAlH4 (9.22 mmol, 350 mg) in THF (10 mL) was added a solution of 3,4,5-tris(dodecyloxy)benzoate (2a) (7.10 mmol, 4.90 g) in THF (5 mL) at 0 °C under argon. The reaction mixture was stirred at room temperature for 3 h. The progress of the reaction was monitored by TLC. The reaction was quenched by the slow addition of propanol (5 mL) followed by the addition of water (5 mL) and 30% solution of NaOH. The aqueous phase obtained was extracted with 400 mL of EtOAc. A colorless solid was afforded after column chromatography (1 : 10 hexane : EtOAc).
+Yield: 3.87, 87%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.88 (m, 9H), 1.26 (br m, 48H) 1.77 (m, 6H), 3.95 (m, 6H), 4.59 (s, 2H), 6.55 (s, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 14.10, 22.68, 26.09, 26.13, 29.36, 29.40, 29.65, 26.69, 26.75, 30.31, 31.92, 65.67, 69.09, 73.42, 105.32, 136.00, 137.57, 153.27.
+FD-MASS: Cal. 659; found 658.3.
+3,4,5-Tris(dodecyloxy)benzyl chloride (4a)
+To a solution of 3,4,5-tris(dodecyloxy)benzyl alcohol (3a) (3.22 mmol), 2.13 g in DCM (50 mL) was added thionyl chloride (1 mL, 9.98 mmol) at 0 °C. The reaction mixture was stirred at room temperature for 4 h. The progress of the reaction was monitored by TLC. After 4 h, the reaction was quenched with a saturated solution of NaHCO3. The aqueous phase was extracted with 400 mL of EtOAc. The organic phase was washed three times with a saturated solution of NaCl, dried over MgSO4, and filtered. All solvents were removed under vacuum. A viscous liquid was afforded which was the purified by column chromatography.
+Yield: 1.77 g, 87%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.88 (m, 9H), 1.26 (br m, 48H) 1.77 (m, 6H), 3.95 (m, 6H), 4.47 (s, 2H), 6.55 (s, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 14.10, 22.68, 26.09, 26.69, 26.75, 29.36, 29.40, 29.65, 30.31, 31.92, 42.12, 65.67, 73.42, 105.32, 136.00, 137.57, 153.27.
+FD-MASS: Cal. 680; found 679.8.
+3,4,5-Tris(dodecyloxy)benzyl phosphonate (5a)
+In a round bottom flask of 250 mL, 3,4,5-tris(dodecyloxy)benzyl chloride (4a) (1.78 g, 4.33 mmol) and triethylphosphite were refluxed at 135 °C for 48 h. After this period, the excess triethylphosphite was removed by vacuum. The obtained crude mixture was purified by column chromatography. A colorless solid was afforded after the evaporation of all solvents under vacuum.
+Yield: 1.42 g, 86%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.88 (m, 9H), 1.26 (br m, 48H), 1.43 (br m, 6H), 1.73 (br m, 6H), 2.88 (d, 2H), 3.89 (m, 6H), 6.41 (s, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 14.25, 16.58, 16.68, 23.07, 26.44, 30.03, 30.09, 32.32, 32.45, 34.28, 62.24, 62.32, 69.63, 69.72, 114.32, 114.36, 115.94, 116.04, 122.37, 122.47, 124.67, 124.79, 143.53, 143.58, 149.45, 149.49.
+FD-MASS: Cal. 781.8; found 781.0.
+3,4,5-Tris(dodecyloxy)benzyl phosphonic acid (6a)
+To a solution of 3,4,5-tris(dodecyloxy)benzyl phosphonate (5a) (2.233 mmol, 1.74 g) in DCM in a round bottom flask of 250 mL was added trimethyl silane bromide (13.67 mmol, 1.17 mL) at room temperature. The solution was stirred at room temperature for 14 h. After this, the solvent of the reaction mixture was removed under vacuum. The obtained crude mixture was treated with an excess of MeOH, in order to carry out methanolysis. The reaction mixture was stirred at room temperature for another 14 h. After this period, the solvent was removed from the reaction mixture under vacuum. A colorless solid compound was obtained.
+Yield: 1.048 g, 98%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.88 (m, 9H) 1.26 (br m, 48H), 1.43 (br m, 6H), 1.73 (br m, 6H), 2.88 (d, 2H), 3.89 (m, 6H), 6.41 (s, 2H), 9.40 (br s, 2H).
+13C NMR (75 MHz, CD2Cl2): δ 14.10, 22.69, 26.13, 26.21, 29.34, 29.48, 29.56, 29.66, 29.72, 29.78, 30.31, 31.94, 69.10, 73.55, 108.34, 126.66, 136.70, 152.88.
+FD-MASS: Cal. 725.0; found 725.3.
+3,4,5(Octyloxy)benzyl phosphonic acid (6b)
+3,4,5-Tris(octyloxy)benzoate (2b)
+To a solution of 3,4,5-trihydroxybenzoate (3.80 g, 21.16 mmol) and DMF (20 mL) in a round bottom flask, 250 mL, was added 1-iodooctane (17.78 g, 74.04 mmol) and K2CO3 (11.69 g, 84.58 mmol). The reaction mixture was refluxed at 70 °C under argon for 15 h. The crude mixture was extracted with EtOAc. The organic layer was washed with water, saturated aqueous NH4Cl and saturated aqueous NaCl successively. After this, the organic phase was dried over MgSO4 and filtered. All solvents were removed under vacuum. A brownish crude mixture was obtained which was further purified by crystallization.
+Yield: 8.6 g, 95%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.81 (m, 9H), 1.21–1.40 (br m, 30H), 1.60–1.75 (m, 6H), 3.76 (s, 3H), 3.80–3.93 (m, 6H), 7.15 (s, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 14.26, 23.08, 26.48, 26.21, 29.69, 29.75, 29.90, 30.72, 32.24, 32.31, 69.47, 73.77, 107.98, 125.17, 142.51, 153.24, 167.03.
+FD-MASS: Cal. 520.0; found 519.0.
+3,4,5-Tris(octyloxy)benzyl alcohol (3b)
+To a suspension of LiAlH4 (17.26 mmol, 655 mg) in THF (10 mL) was added a solution of 3,4,5-tris(octyloxy)benzoate (2b) (13.29 mmol, 6.92 g) in THF (5 mL) under argon. The reaction mixture was stirred at room temperature for 3 h. The progress of the reaction was monitored by TLC. The reaction was quenched by the slow addition of propanol (5 mL) followed by the addition of water (5 mL) and 30% solution of NaOH. The aqueous phase obtained was extracted with 400 mL of EtOAc. A colorless solid was afforded after column chromatography (1 : 10 hexane : EtOAc).
+Yield: 5.40, 88%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.77–0.83 (m, 9H), 1.21–1.41 (br m, 30H), 1.56–1.76 (m, 6H), 3.78–3.90 (m, 6H), 4.46 (s, 2H), 6.46 (s, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 14.20, 22.7, 25.9, 29.3, 31.9, 65.5, 69, 105.6, 134, 137.5, 153.3.
+FD-MASS: Cal. 492.79.0; found 491.53.0.
+3,4,5-Tris(octyloxy)benzyl chloride (4b)
+To a solution of 3,4,5-tris(octyloxy)benzyl alcohol (3b) (9.308 mmol, 4.58 g) in DCM (50 mL) was added thionyl chloride (2 mL, 28.85 mmol) at 0 °C. The reaction mixture was stirred at room temperature for 4 h. The progress of the reaction was monitored by TLC. After 4 h, the reaction was quenched with a saturated solution of NaHCO3. The aqueous phase was extracted with 400 mL of EtOAc. The organic phase was washed three times with a saturated solution of NaCl, dried over MgSO4, and filtered. All solvents were removed under vacuum. A viscous liquid was afforded and was purified by column chromatography.
+Yield: 2.74 g, 76%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.77–0.83 (m, 9H), 1.21–1.43 (br m, 30H), 1.59–1.73 (m, 6H), 3.80–3.90 (m, 6H), 4.44 (s, 2H), 6.49 (s, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 14.1, 22.7, 25.9, 29.3, 29.6, 31.9, 46.8, 105, 130.6, 138.6, 153.3.
+FD-MASS: Cal. 511.24; found 510.3.
+3,4,5-Tris(octyloxy)benzyl phosphonate (5b)
+In a round bottom flask of 250 mL, 3,4,5-tris(octyloxy)benzyl chloride (4b) (2.209 g, 4.33 mmol) and triethylphosphite (43.39 mmol, excess) were refluxed at 135 °C for 48 h. After this period, the excess triethylphosphite was removed by vacuum. The obtained crude mixture was purified by column chromatography. A colorless solid was afforded after the evaporation of all solvents under vacuum. The crude mixture was purified by column chromatography (30% EtOAc : hexane).
+Yield: 1.42 g, 68%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.79–0.85 (m, 12H), 1.25–1.46 (br m, 30H), 1.59–1.75 (m, 6H), 3.90–4.0 (m, 6H), 6.49 (s, 2H).
+13C NMR (75 MHz, CD2Cl2): δ 14.1, 16.3, 22.7, 25.9, 29.3, 29.6, 31.9, 40.3, 62.2, 105.4, 125.5, 130.6, 135.6, 153.3.
+FD-MASS: Cal. 612.88; found 611.1.
+3,4,5-Tris(octyloxy)benzyl phosphonic acid (6b)
+To a solution of 3,4,5-tris(octyloxy)benzyl phosphonate (5b) (2.48 mmol, 1.52 g) in DCM in a round bottom flask of 250 mL was added trimethyl silane bromide (13.67 mmol, 1.17 mL) at room temperature. The solution was stirred at room temperature for 15 h. After this, the solvent of the reaction mixture was removed under vacuum. The obtained crude mixture was treated with an excess of MeOH, in order to carry out methanolysis. The reaction mixture was stirred at room temperature for another 15 h. After this period, the solvent was removed from the reaction mixture under vacuum. A colorless solid compound was obtained.
+Yield: 1.42 g, 97%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.79–0.85 (m, 9H), 1.17–1.29 (br m, 30H), 1.69–1.72 (m, 6H), 3.90–4.0 (m, 6H), 6.49 (s, 2H), 8.90 (s, H).
+13C NMR (300 MHz, CD2Cl2): δ 14.3, 22.9, 26, 29.7, 29.9, 32.0, 40.7, 105.8, 125.9, 130.8, 135.8, 153.7.
+3,4,5-Tris(ethylhexyloxy)phosphonic acid (6c)
+3,4,5-Tris(ethylhexyloxy)benzoate (2c)
+Alkylation of 3,4,5-tri-hydroxybenzoate was carried out as reported above for 3,4,5-tris(octyloxy)benzoate. 2-Ethylhexylbromide was used as an alkylating reagent.
+Yield: 98%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.77–0.88 (m, 18H), 1.24–130 (m, 27H), 3.77 (s, 3H), 3.79–3.82 (m, 6H), 7.16 (s, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 11.62, 23.69, 23.74, 14.51, 29.7, 29.92, 31.10, 31.15, 40.27, 41.29, 76.34, 107.95, 125.23, 142.91, 153.62, 167.14.
+FD-MASS: Cal. 521.2; found 520.0.
+3,4,5-Tris(ethylhexyloxy)benzyl alcohol (3c)
+LiAlH4 was used to carry out the reduction of the benzoate precursor as described for 3,4,5-tris(octyloxy)benzyl alcohol.
+Yield: 88%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.77–0.88 (m, 18H), 1.24–130 (m, 27H), 3.6–3.7 (m, 6H), 4.47 (d, 2H), 6.47 (s, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 11.53, 14.41, 14.45, 23.64, 23.69, 24.30, 24.34, 29.63, 29.86, 31.04, 40.21, 41.14, 65.67, 71.68, 76.39, 105.0, 136.9, 137.6, 153.8.
+FD-MASS: Cal. 492.79; found 492.7.
+3,4,5-Tris(ethylhexyloxy)benzyl chloride (4c)
+SOCl2 was used to carry out the chlorination of the benzyl alcohol precursor as described for 3,4,5-tris(octyloxy)benzyl chloride.
+Yield: 75%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.82–0.87 (m, 18H), 1.23–145 (m, 27H), 3.7–3.77 (m, 6H), 4.45 (s, 2H), 6.50 (s, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 11.38, 11.50, 14.37, 14.41, 23.59, 23.65, 24.25, 24.32, 29.59, 29.81, 31.0, 40.1, 47.6, 71.7, 76.3, 106.9, 132.8, 138.6, 153.8.
+FD-MASS: Cal. 511.24; found 510.5.
+3,4,5-Tris(ethylhexyloxy)benzyl phosphonate (5c)
+The phosphonation was carried out using the Arbuzov reaction as described for 3,4,5-tris(octyloxy)benzyl phosphonate.
+Yield: 72%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.81–0.87 (m, 18H), 1.16 (t, 6H), 1.22–1.45 (m, 27H), 2.93 (d, 2H), 3.69–3.75 (m, 6H), 3.85–4 (m, 4H), 6.38 (d, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 14.28, 14.32, 16.62, 23.52, 23.57, 24.21, 29.50, 29.74, 30.9, 30.95, 33.24, 35.07, 40.08, 41.01, 62.33, 62.42, 71.62, 76.25, 108.03, 108.11, 127.0, 127.12, 137.28, 137.33, 153.61, 153.66.
+FD-MASS: Cal. 613.0; found 612.9.
+3,4,5-Tris(ethylhexyloxy)benzyl phosphonic acid (6c)
+The hydrolysis was carried out using a similar procedure as described for 3,4,5-tris(octyloxy)benzyl phosphonic acid.
+Yield: 98%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.81–0.87 (m, 18H), 1.22–1.45 (m, 27H), 2.93 (d, 2H), 3.69–3.75 (m, 6H), 6.8 (d, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 22.53, 23.25, 30.46, 30.74, 30.9, 30.95, 33.24, 35.07, 40.08, 41.01, 62.33, 62.42, 71.62, 76.25, 108.03, 108.11, 127.0, 128.12, 135.28, 136.33, 151.61, 152.66.
+3,4-Bis(dodecyloxy)phosphonic acid (6d)
+3,4-Bis(dodecyloxy)benzaldehyde (2d) (Scheme 2)
+To a solution of 3,4-dihydroxybenzaldehyde (1.55 g, 11.22 mmol) in DMF (25 mL) in a round bottom flask of 250 mL was added 1-bromododecane (6.99 g, 28.04 mmol) and K2CO3 (4.65 g, 33.64 mmol). The above reaction mixture was refluxed at 70 °C for 6 h. Afterwards, to this DCM, 400 mL, was added in order to extract organic products. The organic phase was washed with water and a saturated solution of NaCl. The resulting organic phase was dried over MgSO4 and filtered. All solvents were removed under vacuum. An off-white product was obtained after crystallization with EtOAc.
+Yield: 2.46 g, 65%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.80 (t, 6H), 1.19–1.33 (m, 36H), 1.70–177 (br m, 4H), 3.90 (q, 4H), 6.90 (d, 1H), 7.28 (d, 1H), 7.32 (d, 1H), 9.72 (s, 1H).
+13C NMR (75 MHz, CD2Cl2, δ): 15.28, 15.32, 16.66, 23.48, 23.54, 24.22, 29.47, 29.74, 30.9, 30.95, 33.24, 35.07, 40.08, 41.01, 62.33, 62.42, 71.62, 76.25, 108.03, 108.11, 127.0, 126.12, 134.23, 136.35, 150.56, 152.26.
+FD-MASS: Cal. 474.77; found 475.12.
+3,4-Bis(dodecyloxy)benzyl alcohol (3d) (Scheme 2)
+To a suspension of NaBH4 (0.118 g, 3.12 mmol) in THF, 5 mL in a round bottom flask of 250 mL was added a solution of compound 2d (0.74 g, 1.56 mmol) in THF 10 mL at 0 °C. The above reaction mixture was stirred at room temperature for 3 h and afterwards heated up to 70 °C for 8 h. The reaction was quenched with water, 10 mL, and then extracted with DCM, 400 mL. The organic phase was washed with a saturated solution of NaCl and then dried over MgSO4 and filtered. All solvents were removed under vacuum. A colorless product was obtained.
+Yield: 0.740 g, 88%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.80 (t, 6H), 1.19 (m, 32H), 1.42 (br m, 4H), 1.76 (m, 4H), 3.99 (m, 4H), 4.47 (d, 2H), 6.75 (d, 2H), 6.82 (s, 1H).
+13C NMR (75 MHz, CD2Cl2, δ): 14.23, 14.40, 15.64, 22.42, 23.46, 25.26, 28.47, 28.74, 30.9, 30.95, 33.24, 35.07, 40.08, 41.01, 62.33, 62.42, 71.62, 76.25, 108.03, 108.11, 127.0, 127.18, 132.24, 134.46, 146.48, 150.46.
+FD-MASS: Cal. 476.79; found 476.0.
+3,4-Bis(dodecyloxy)benzyl chloride (4d) (Scheme 2)
+To a solution of compound 3d (0.605 g, 1.27 mmol) in DCM, 15 mL thionyl chloride (3.94 mmol) was added at 0 °C. Afterwards, the reaction mixture was stirred at room temperature for 8 h. The reaction was quenched with a saturated solution of NaHCO3 and extracted with DCM, 400 mL. The obtained organic phase was washed with a saturated solution of NaHCO3 and dried over MgSO4 and subsequently filtered. All solvents were removed under vacuum.
+Yield: 0.357 g, 78%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.80 (t, 6H), 1.19 (m, 32H), 1.42 (br m, 4H), 1.76 (m, 4H), 3.89 (m, 4H), 4.47 (s, 2H), 6.75 (td, 2H), 6.82 (s, 1H).
+13C NMR (75 MHz, CD2Cl2, δ): 15.24, 15.40, 15.70, 22.42, 23.46, 25.26, 28.47, 28.74, 30.9, 30.95, 33.24, 35.07, 40.08, 41.01, 62.33, 62.42, 71.62, 76.25, 108.03, 110.12, 122.28, 127.15, 132.80, 133.80, 148.50, 153.44.
+FD-MASS: Cal. 494.0; found 493.7.
+3,4-Bis(dodecyloxy)benzyl phosphonate (5d) (Scheme 2)
+A similar synthetic procedure was followed for 3,4-bis(dodecyloxy)benzyl phosphonate 5d as that described for 3,4,5-tris(octyloxy)benzyl phosphonate 5b.
+Yield: 69%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.79 (t, 6H), 1.13 (t, 6H), 1.18–120 (m, 32H), 1.73 (m, 4H), 2.94 (s, 2H), 3.83–3.95 (m, 8H), 6.75 (td, 2H), 6.82 (s, 1H).
+13C NMR (75 MHz, CD2Cl2, δ): 12.26, 13.46, 14.65, 20.42, 23.46, 25.26, 28.47, 28.74, 30.9, 30.95, 33.24, 35.07, 40.08, 41.01, 62.33, 62.42, 71.62, 76.25, 108.03, 108.11, 127.0, 128.15, 130.28, 132.48, 145.40, 153.46.
+FD-MASS: Cal. 596.88; found 595.
+3,4-Bis(dodecyloxy)benzyl phosphonic acid (6d) (Scheme 2)
+A similar procedure was followed for the hydrolysis as described for 3,4,5-tris(octyloxy)benzyl phosphonic acid 6b.
+Yield: 98%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.78 (t, 6H), 1.10–127 (m, 32H), 1.73 (m, 4H), 2.94 (s, 2H), 6.75 (td, 2H), 6.82 (s, 1H).
+13C NMR (75 MHz, CD2Cl2, δ): 16.76, 18.67, 22.50, 24.67, 27.46, 28.75, 32.9, 32.95, 33.56, 35.70, 40.08, 41.01, 62.33, 62.42, 71.62, 76.25, 108.03, 110.11, 125.24, 127.15, 128.36, 128.96, 138.40, 150.46.
+FD-MASS: Cal. 540.77; found 541.0.
+3,4-Bis(octyloxy)benzyl phosphonic acid (6e) (Scheme 2)
+3,4-Bis(octyloxy)benzaldehyde (2e) (Scheme 2)
+A similar synthetic procedure was followed for obtaining 2e (as described for 2a) from its precursor.
+Yield: 92%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.79 (t, 6H), 1.21–1.33 (m, 20H), 1.67–177 (m, 4H), 3.22 (s, 2H), 3.90–4.0 (m, 4H), 6.88 (d, 1H), 7.28–7.35 (td, 2H), 9.72 (s, 1H).
+13C NMR (75 MHz, CD2Cl2, δ): 12.62, 22.69, 22.74, 23.51, 29.7, 29.92, 31.10, 31.15, 40.27, 41.29, 76.34, 107.95, 125.23, 142.91, 153.62, 167.14.
+FD-MASS: Cal. 362.56; found 361.5.
+3,4-Bis(octyloxy)benzyl alcohol (3e) (Scheme 2)
+The reduction of 3,4-bis(octyloxy)benzaldehyde into its corresponding alcohol was carried out as described for 3,4-bis(dodecyloxy)benzyl alcohol.
+Yield: 86%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.77–0.83 (m, 6H), 1.21–1.4 (m, 20H), 1.61–1.73 (m, 4H), 3.8–3.9 (m, 4H), 4.46 (s, 2H), 6.75 (d, 1H), 6.81 (td, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 13.64, 20.67, 22.84, 23.64, 29.7, 29.92, 31.10, 31.15, 40.27, 41.29, 76.34, 108.95, 126.23, 138.91, 148.62, 159.14.
+FD-MASS: Cal. 364.57; found 363.9.
+3,4-Bis(octyloxy)benzyl chloride (4e) (Scheme 2)
+The chlorination was carried out similarly as described for other benzyl alcohol derivatives.
+Yield: 87%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.77–0.83 (m, 6H), 1.21–140 (m, 20H), 1.64–1.76 (m, 4H), 3.86–3.91 (m, 4H), 4.47 (s, 2H), 6.71 (d, 1H), 6.76–6.83 (td, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 14.54, 16.56, 19.84, 22.64, 26.7, 27.92, 30.10, 31.15, 40.27, 41.29, 76.34, 108.95, 126.23, 138.91, 148.62, 159.14.
+FD-MASS: Cal. 383.02; found 381.8.
+3,4-Bis(octyloxy)benzyl phosphonate (5e) (Scheme 2)
+The phosphonation was carried out as mentioned before for 3,4-bis(dodecyloxy)benzyl phosphonate (5d).
+Yield: 85%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.77–0.83 (m, 6H), 1.15 (t, 4H), 1.21–1.32 (m, 20H), 1.63–175 (m, 4H), 3.83–3.95 (m, 8H), 6.72 (d, 1H), 6.78–6.81 (td, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 13.84, 16.18, 16.26, 22.65, 26.03, 29.27, 29.38, 31.83, 33.88, 61.84, 61.93, 69.22, 69.31, 113.91, 113.95, 115.53, 115.61, 121.97, 122.07, 124.25, 124.37, 148.13, 148.18, 149.04, 149.08.
+FD-MASS: Cal. 484.66; found 484.1.
+3,4-Bis(octyloxy)benzyl phosphonic acid (6e) (Scheme 2)
+The hydrolysis was carried out by treatment with TMSiBr and MeOH as described for 3,4-bis(dodecyloxy)benzyl phosphonic acid 6d.
+Yield: 97%.
+1H NMR (250 MHz, CD2Cl2, δ): 0.77–0.83 (m, 6H), 1.21–1.32 (m, 20H), 1.63–175 (m, 4H), 3.83–3.95 (m, 4H), 6.72 (d, 1H), 6.78–6.81 (td, 2H).
+13C NMR (75 MHz, CD2Cl2, δ): 11.37, 11.94, 12.65, 12.86, 18.65, 19.56, 20.65, 25.56, 26.12, 28.56, 28.78, 29.46, 30.45, 30.95, 35.56, 40.24, 58.67, 110.56, 124.65, 133.67, 144.56, 157.45.
+FD-MASS: Cal. 383.2; found 382.1.

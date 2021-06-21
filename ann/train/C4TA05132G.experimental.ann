@@ -1,0 +1,4 @@
+T1	Material-final 3077 3107	[La1+xCa1−x]2[Ga]2[Ga2O7+x/2]2
+T2	Argument-others 3109 3122	0.1 ≤ x ≤ 0.6
+T3	Material-final 613 643	[Ca1−xLa1+x]2[Ga]2[Ga2O7+x/2]2
+T4	Argument-others 645 659	0 ≤ x &lt; 0.6

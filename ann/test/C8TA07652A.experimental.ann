@@ -1,0 +1,80 @@
+T1	Material-final 1171 1187	lithium silicate
+T2	Material-final 31 52	Li6.28La3Zr2Al0.24O12
+T3	Material-final 54 58	LLZA
+T4	Material-final 986 990	LLZA
+T5	Material-final 102 123	Li6.28La3Zr2Al0.24O12
+T6	Material-final 125 129	LLZA
+T7	Argument-others 131 145	lithium garnet
+T8	Argument-others 991 998	pellets
+T9	Material-final 4579 4599	NMC||LS-LLZA-LS||NMC
+T10	Material-final 2990 2997	LS-LLZA
+T11	Material-final 3691 3695	LLZA
+T12	Material-final 3996 4000	LLZA
+T13	Material-final 3719 3739	NMC(P)||LLZA||NMC(P)
+T14	Material-final 3174 3197	composite cathode||LLZA
+T15	Material-final 3442 3446	LLZA
+T16	Material-final 4176 4190	NMC||LLZA||NMC
+T17	Material-final 4346 4350	LLZA
+T18	Argument-others 4351 4357	pellet
+T19	Material-final 4883 4893	LS-LLZA-LS
+T20	Material-final 4808 4812	LLZA
+T21	Material-final 4542 4562	NMC||LS-LLZA-LS||NMC
+T22	Material-final 4664 4668	LLZA
+T23	Material-final 8926 8930	LLZA
+T24	Argument-others 8931 8937	pellet
+T25	Material-final 9173 9195	Li||GPE||LLZA||GPE||Li
+T26	Material-final 8016 8023	LS-LLZA
+T27	Material-final 7988 7992	LLZA
+T28	Material-final 7835 7856	Li||GPE||LLZA-LS||NMC
+T29	Material-final 7547 7554	theLLZA
+T30	Argument-others 7555 7561	pellet
+T31	Material-final 7777 7781	LLZA
+T32	Argument-others 7782 7788	pellet
+T33	Material-final 7317 7321	LLZA
+T34	Material-final 6642 6654	NMC||LS-LLZA
+T35	Material-final 6510 6517	LS-LLZA
+T36	Material-final 6481 6500	Li2SiO3 coated LLZA
+T37	Material-final 7081 7085	LLZA
+T38	Argument-others 7086 7092	pellet
+T39	Material-final 6821 6825	LLZA
+T40	Argument-others 6826 6832	pellet
+T41	Material-final 6708 6720	NMC||LS-LLZA
+T42	Material-final 6549 6556	LS-LLZA
+T43	Argument-others 4600 4614	symmetric cell
+T44	Material-final 5173 5183	LS-LLZA-LS
+T45	Material-final 5734 5738	LLZA
+T46	Argument-others 5739 5745	pellet
+T49	Material-final 5498 5519	Li||GPE|LLZA||GPE||Li
+T50	Material-final 5277 5284	LS-LLZA
+T51	Material-final 5019 5023	LLZA
+T52	Material-final 5312 5327	NMC||LS-LLZA-LS
+T53	Material-final 5462 5482	NMC||LS-LLZA-LS||NMC
+T54	Material-final 6147 6151	LLZA
+T55	Material-final 6275 6279	LLZA
+T56	Argument-others 6280 6286	pellet
+T57	Material-final 6352 6356	LLZA
+T58	Material-final 6026 6030	LLZA
+T59	Argument-others 6031 6038	pellets
+T60	Material-final 2969 2988	Li2SiO3 coated LLZA
+T61	Material-final 1192 1199	Li2SiO3
+T62	Material-final 2699 2706	Li2SiO3
+T63	Material-final 7151 7170	NMC||LS-LLZ||Au||Li
+T64	Argument-others 7857 7862	cells
+T65	Argument-others 9196 9210	symmetric cell
+T68	Material-final 4639 4646	Li2SiO3
+T69	Material-final 4942 4949	Li2SiO3
+T70	Argument-others 4950 4953	sol
+T73	Argument-others 3447 3454	pellets
+T74	Argument-others 2707 2710	sol
+T75	Argument-others 1200 1204	sols
+T76	Material-final 4762 4769	Li2SiO3
+T77	Argument-others 4770 4773	sol
+T78	Material-final 4998 5005	Li2SiO3
+T79	Material-final 5084 5091	Li2SiO3
+T80	Material-final 5105 5112	Li2SiO3
+T88	Material-final 6311 6318	Li2SiO3
+T89	Material-final 6335 6342	Li2SiO3
+T97	Material-final 3240 3247	Li2SiO3
+T98	Argument-others 3248 3260	buffer layer
+T99	Material-final 4719 4726	Li2SiO3
+T100	Material-final 4264 4272	NMC : LS

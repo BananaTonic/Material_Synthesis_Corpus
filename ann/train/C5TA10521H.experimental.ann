@@ -1,0 +1,32 @@
+T1	Value-conductivity 18833 18843	1.4 × 10−2
+T2	Unit-conductivity 18844 18850	S cm−1
+T3	Material-final 19550 19561	PA@TpBpy-MC
+T4	Material-final 13491 13502	PA@TpBpy-ST
+T5	Material-final 13507 13518	PA@TpBpy-MC
+T9	Value-activation 13607 13611	0.11
+T10	Unit-activation 13612 13614	eV
+T11	Material-others 13597 13605	PA@TpAzo
+T12	Value-conductivity 12725 12736	1.98 × 10−3
+T13	Value-conductivity 12741 12751	2.5 × 10−3
+T14	Unit-conductivity 12752 12758	S cm−1
+T15	Argument-temp 12772 12780	at 393 K
+T16	Material-final 12785 12796	PA@TpBpy-ST
+T17	Material-final 12801 12812	PA@TpBpy-MC
+T18	Material-final 12871 12882	PA@TpBpy-ST
+T19	Material-others 12937 12947	PA@MIL-101
+T20	Value-conductivity 12949 12959	1.3 × 10−3
+T21	Unit-conductivity 12960 12966	S cm−1
+T22	Argument-temp 12967 12976	at 120 °C
+T23	Argument-air 12977 12982	0% RH
+T24	Material-others 13064 13073	PA@Tp-Azo
+T25	Value-conductivity 13075 13085	6.7 × 10−5
+T26	Unit-conductivity 13086 13092	S cm−1
+T27	Argument-temp 13093 13102	at 120 °C
+T28	Argument-air 13104 13109	0% RH
+T29	Value-conductivity 13361 13372	9.04 × 10−5
+T30	Unit-conductivity 13373 13379	S cm−1
+T31	Material-others 13347 13359	Im@Td-PNDI 1
+T32	Material-others 13385 13396	Im@Td-PPI 2
+T33	Value-conductivity 13398 13409	3.49 × 10−4
+T34	Unit-conductivity 13410 13416	S cm−1
+T35	Argument-others 19562 19568	pellet

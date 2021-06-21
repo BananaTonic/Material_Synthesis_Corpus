@@ -1,0 +1,9 @@
+T1	Material-final 41 45	ScSZ
+T2	Argument-others 46 56	nanofibers
+T3	Material-final 170 194	10 mol% Sc2O3-doped ZrO2
+T4	Argument-others 204 214	nanofibers
+T5	Material-final 950 956	10ScSZ
+T6	Argument-others 945 949	bulk
+T7	Material-final 196 202	10ScSZ
+T8	Value-conductivity 840 845	0.023
+T9	Unit-conductivity 846 852	S cm−1

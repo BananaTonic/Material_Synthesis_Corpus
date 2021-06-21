@@ -1,0 +1,42 @@
+T1	Value-conductivity 5529 5540	0.10 × 10−3
+T2	Unit-conductivity 5541 5547	S cm−1
+T3	Argument-temp 5509 5525	room temperature
+T4	Value-conductivity 5566 5577	0.12 × 10−3
+T5	Unit-conductivity 5578 5584	S cm−1
+T6	Material-others 5588 5594	Li3ClO
+T7	Argument-others 5595 5615	with the Li+ vacancy
+T8	Material-final 5496 5505	Li3O(BH4)
+T9	Value-conductivity 5849 5860	0.85 × 10−3
+T10	Unit-conductivity 5861 5867	S cm−1
+T11	Material-others 5839 5845	Li3ClO
+T12	Argument-temp 5806 5822	room-temperature
+T13	Unit-conductivity 17407 17413	S cm−1
+T14	Argument-temp 17414 17433	at room temperature
+T15	Value-conductivity 17395 17406	1.94 × 10−3
+T16	Material-final 17292 17306	Li3OCl0.5Br0.5
+T17	Value-conductivity 17751 17762	0.21 × 10−3
+T18	Unit-conductivity 17763 17769	S cm−1
+T19	Argument-temp 17718 17734	room-temperature
+T20	Material-final 17472 17489	Li3O(BH4)0.5Cl0.5
+T21	Value-conductivity 18263 18267	10−3
+T22	Unit-conductivity 18268 18274	S cm−1
+T23	Material-final 18278 18292	Li3OCl0.5Br0.5
+T24	Value-conductivity 18579 18589	2.6 × 10−2
+T25	Unit-conductivity 18590 18596	S cm−1
+T26	Value-conductivity 18557 18567	1.3 × 10−2
+T27	Unit-conductivity 18568 18574	S cm−1
+T28	Argument-temp 18539 18544	400 K
+T29	Value-activation 18363 18368	0.299
+T30	Unit-activation 18369 18371	eV
+T31	Value-activation 18397 18402	0.288
+T32	Unit-activation 18403 18405	eV
+T33	Material-others 18409 18423	Li3OCl0.5Br0.5
+T34	Material-final 18472 18489	Li3O(BH4)0.5Cl0.5
+T35	Material-final 18458 18467	Li3O(BH4)
+T36	Value-activation 5349 5354	0.301
+T37	Unit-activation 5355 5357	eV
+T38	Value-activation 5412 5417	0.303
+T39	Unit-activation 5418 5420	eV
+T40	Material-final 18342 18359	Li3O(BH4)0.5Cl0.5
+T41	Material-final 5424 5432	Li3OCl12
+T42	Material-final 18203 18220	Li3O(BH4)0.5Cl0.5

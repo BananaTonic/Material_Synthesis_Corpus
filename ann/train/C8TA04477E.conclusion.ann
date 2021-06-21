@@ -1,0 +1,9 @@
+T1	Value-conductivity 360 371	2.85 × 10−4
+T2	Unit-conductivity 372 378	S cm−1
+T3	Argument-temp 379 387	at 60 °C
+T4	Material-final 275 280	SPE-1
+T5	Material-final 551 556	SPE-1
+T6	Material-final 1076 1081	SPE-1
+T7	Material-final 2053 2056	SPE
+T8	Material-final 682 694	LFP-SPE-1/Li
+T9	Argument-others 695 699	cell

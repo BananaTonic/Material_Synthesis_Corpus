@@ -1,0 +1,12 @@
+T1	Value-conductivity 977 988	3.75 × 10−5
+T2	Unit-conductivity 989 995	S cm−1
+T3	Argument-temp 996 1001	at rt
+T4	Value-conductivity 1523 1533	1.1 × 10−5
+T5	Unit-conductivity 1534 1540	S cm−1
+T6	Argument-temp 1541 1546	at rt
+T7	Value-conductivity 1548 1552	10−4
+T8	Unit-conductivity 1553 1559	S cm−1
+T9	Argument-temp 1560 1568	at 60 °C
+T10	Material-final 1415 1437	self-standing membrane
+T11	Material-final 836 856	poly(oxo-carbonate)s
+T12	Argument-others 1014 1065	with 30 wt% bis(trifluoromethanesulfonyl)imide salt

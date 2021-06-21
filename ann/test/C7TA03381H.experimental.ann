@@ -1,0 +1,19 @@
+T1	Value-conductivity 7762 7767	100.3
+T2	Unit-conductivity 7768 7774	S cm−1
+T3	Argument-temp 7775 7784	at 550 °C
+T4	Value-conductivity 7747 7751	99.3
+T5	Unit-conductivity 7752 7758	S cm−1
+T6	Value-conductivity 7962 7965	100
+T7	Unit-conductivity 7966 7972	S cm−1
+T8	Material-final 8045 8051	LSN–Bi
+T9	Material-final 7908 7914	LSN–Bi
+T11	Argument-temp 8083 8110	at a temperature of ∼570 °C
+T12	Material-final 6995 6998	LSN
+T13	Material-final 7003 7009	LSN–Bi
+T14	Material-final 7525 7528	LSN
+T15	Material-final 7668 7671	LSN
+T16	Material-final 7086 7100	La2−xSrxNiO4+δ
+T17	Material-final 7358 7372	La2−xSrxNiO4+δ
+T18	Argument-others 7374 7389	x = 0, 0.2, 0.4
+T19	Argument-others 7936 7958	conductivity threshold
+T20	Argument-others 7989 8038	for the design of intermediate-temperature SOFCs.

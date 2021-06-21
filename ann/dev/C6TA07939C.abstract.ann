@@ -1,0 +1,8 @@
+T1	Material-final 84 88	MROF
+T2	Material-final 471 477	MROF-1
+T3	Material-final 440 469	metalloring organic framework
+T4	Material-final 53 82	metalloring organic framework
+T5	Argument-air 685 691	97% RH
+T6	Argument-temp 672 680	at 70 °C
+T7	Unit-conductivity 665 671	S cm−1
+T8	Value-conductivity 653 664	1.72 × 10−2

@@ -1,0 +1,22 @@
+T1	Material-final 93 106	FeF2.2(OH)0.8
+T2	Material-final 184 208	FeF2.2(OH)0.64O0.08□0.08
+T3	Material-final 510 523	FeF2.2(OH)0.8
+T4	Material-final 572 596	FeF2.2(OH)0.64O0.08□0.08
+T5	Material-final 625 638	FeF2.2(OH)0.8
+T6	Material-final 811 824	FeF2.2(OH)0.8
+T7	Material-final 974 998	FeF2.2(OH)0.64O0.08□0.08
+T8	Material-final 1013 1037	FeF2.2(OH)0.64O0.08□0.08
+T9	Material-final 1080 1093	FeF2.2(OH)0.8
+T10	Material-final 1204 1228	FeF2.2(OH)0.64O0.08□0.08
+T11	Material-final 1276 1289	FeF2.2(OH)0.8
+T13	Value-conductivity 1095 1106	6.88 × 10−2
+T14	Unit-conductivity 1107 1113	S cm−1
+T15	Value-conductivity 1117 1128	2.03 × 10−2
+T16	Unit-conductivity 1129 1135	S cm−1
+T17	Argument-others 1136 1142	for Na
+T18	Value-conductivity 1144 1155	5.16 × 10−4
+T19	Unit-conductivity 1156 1162	S cm−1
+T20	Value-conductivity 1166 1174	1 × 10−6
+T21	Unit-conductivity 1175 1181	S cm−1
+T22	Argument-others 1182 1188	for Li
+T23	Material-final 1403 1440	FeF2.2(OH)0.8-based cathode materials

@@ -1,0 +1,18 @@
+T1	Value-conductivity 765 770	∼1340
+T2	Unit-conductivity 771 777	S cm−1
+T3	Material-final 784 789	PEDOT
+T4	Argument-others 790 797	NW film
+T5	Material-final 36 41	PEDOT
+T6	Argument-others 42 56	nanowire films
+T7	Material-final 699 704	PEDOT
+T8	Argument-others 705 713	nanowire
+T9	Argument-others 715 717	NW
+T10	Argument-others 719 724	films
+T11	Material-final 281 286	PEDOT
+T12	Material-final 477 482	PEDOT
+T13	Argument-others 483 488	films
+T14	Argument-others 463 476	free-standing
+T15	Argument-others 685 698	free-standing
+T16	Material-final 986 1008	PEDOT NW film-based SC
+T18	Material-final 1433 1438	PEDOT
+T19	Argument-others 1439 1446	NW film

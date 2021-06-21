@@ -1,0 +1,6 @@
+T1	Value-conductivity 749 751	26
+T2	Value-conductivity 756 760	0.31
+T3	Unit-conductivity 761 768	mS cm−1
+T4	Argument-temp 769 785	at 20 and −70 °C
+T5	Material-final 0 11	EMIMBF4–GBL
+T6	Argument-others 12 30	binary electrolyte

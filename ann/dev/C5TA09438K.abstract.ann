@@ -1,0 +1,18 @@
+T1	Material-final 961 1008	self-aggregated quaternary ammonium polysulfone
+T2	Material-intermedium 1010 1016	aQAPSF
+T3	Material-final 1022 1061	pendant quaternary ammonium polysulfone
+T4	Material-final 1063 1069	pQAPSF
+T5	Value-conductivity 1532 1537	108.3
+T6	Unit-conductivity 1538 1545	mS cm−1
+T7	Argument-temp 1546 1554	at 80 °C
+T8	Material-final 1448 1454	aQAPSF
+T9	Material-final 1210 1216	aQAPSF
+T10	Material-final 1221 1227	pQAPSF
+T11	Material-final 1232 1238	aQAPSF
+T12	Material-final 1565 1571	pQAPSF
+T13	Material-final 1834 1840	pQAPSF
+T14	Material-final 1973 1979	pQAPSF
+T15	Unit-conductivity 1901 1908	mS cm−1
+T16	Value-conductivity 1896 1900	75.1
+T17	Argument-temp 1909 1917	at 80 °C
+T18	Argument-others 1455 1463	membrane

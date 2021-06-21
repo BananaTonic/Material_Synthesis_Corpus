@@ -1,0 +1,8 @@
+T1	Material-final 122 133	LiTi2(PO4)3
+T2	Material-final 138 159	Li1+xAlxTi2−x(PO4)3 s
+T3	Value-conductivity 347 373	3.12 × 10−6 to 1.73 × 10−3
+T4	Unit-conductivity 374 380	S cm−1
+T5	Value-conductivity 928 939	5.63 × 10−3
+T6	Unit-conductivity 940 946	S cm−1
+T7	Material-final 951 955	LATP
+T8	Argument-others 969 980	x = 0.1–0.4

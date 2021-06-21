@@ -1,0 +1,6 @@
+T1	Value-conductivity 1136 1137	1
+T2	Unit-conductivity 1138 1145	mS cm−1
+T3	Argument-temp 1146 1154	at 30 °C
+T4	Argument-air 1155 1176	between 65 and 95% RH
+T6	Material-final 1342 1345	CNF
+T7	Argument-others 1346 1355	membranes

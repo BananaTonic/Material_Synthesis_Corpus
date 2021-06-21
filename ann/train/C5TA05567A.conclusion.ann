@@ -1,0 +1,19 @@
+T1	Material-final 12 21	PEEK-PEMs
+T2	Value-conductivity 99 110	0.001–0.009
+T3	Unit-conductivity 111 117	S cm−1
+T4	Argument-air 123 146	under low RH conditions
+T5	Argument-air 148 154	30% RH
+T6	Material-final 202 211	PEEK-PEMs
+T7	Material-final 304 313	PEEK-PEMs
+T8	Value-conductivity 399 404	0.009
+T9	Unit-conductivity 405 411	S cm−1
+T10	Material-others 387 397	Nafion 212
+T11	Argument-air 418 427	at 30% RH
+T12	Material-final 584 592	PEEK-PEM
+T13	Material-final 905 913	PEEK-PEM
+T14	Material-final 1056 1064	PEEK-PEM
+T15	Material-final 1319 1328	PEEK-PEMs
+T16	Argument-others 22 66	with IECs in the range of 1.73–3.08 mmol g−1
+T17	Argument-others 314 342	with an IEC of 3.08 mmol g−1
+T18	Argument-others 914 942	with an IEC of 2.45 mmol g−1
+T19	Material-final 1490 1516	PEEK-based graft-type PEMs

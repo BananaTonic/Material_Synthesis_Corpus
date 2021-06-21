@@ -1,0 +1,11 @@
+T1	Material-final 3077 3096	Li7.25Si0.25P0.75S6
+T2	Material-final 3101 3120	Li7.25Ge0.25P0.75S6
+T3	Material-final 1122 1142	Li7+(5−n)xMxn+P1−xS6
+T4	Argument-others 1144 1187	Mn+ = Al3+, B3+, Si4+, Ge4+; 0 ≤ x &lt; 0.4
+T5	Material-final 1500 1520	Li7+(5−n)xMxn+P1−xS6
+T6	Argument-others 1522 1572	Mn+ = Al3+, B3+, Si4+, and Ge4+; 0 &lt; x &lt; 0.4
+T7	Material-final 1022 1037	Li7P0.75X0.25S6
+T8	Argument-others 1039 1056	X = Si, Ge, B, Al
+T9	Material-final 160 166	Li7PS6
+T10	Argument-others 141 159	cation-substituted
+T11	Argument-others 168 198	cations: B, Al, Si, Ge, and Sn

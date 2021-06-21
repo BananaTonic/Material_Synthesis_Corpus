@@ -1,0 +1,8 @@
+T1	Material-final 45 61	BaSn0.6Sc0.4O3−δ
+T2	Material-final 715 729	BaSn1−xScxO3−δ
+T3	Argument-others 731 758	x = 0.0, 0.1, 0.2, 0.3, 0.4
+T4	Material-final 1541 1555	BaSn1−xScxO3−δ
+T5	Material-final 1721 1737	BaSn0.6Sc0.4O3−δ
+T6	Value-conductivity 2073 2097	1.8 × 10−4 to 1.1 × 10−3
+T7	Unit-conductivity 2098 2104	S cm−1
+T8	Argument-temp 2105 2127	between 300 and 600 °C

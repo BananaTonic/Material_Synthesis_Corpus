@@ -1,0 +1,12 @@
+T1	Unit-conductivity 950 956	S cm−1
+T2	Argument-temp 957 965	at 30 °C
+T3	Argument-others 966 984	with 40% UIO/Li-IL
+T4	Value-conductivity 939 949	1.3 × 10−4
+T5	Material-final 875 884	PEO-n-UIO
+T6	Argument-others 885 903	solid electrolytes
+T7	Material-final 749 758	PEO-n-UIO
+T8	Argument-others 759 789	composite polymer electrolytes
+T9	Material-final 1045 1054	PEO-n-UIO
+T10	Argument-others 1055 1073	solid electrolytes
+T11	Material-final 1154 1163	PEO-n-UIO
+T12	Argument-others 1164 1181	solid electrolyte

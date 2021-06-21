@@ -1,0 +1,11 @@
+T1	Value-conductivity 1161 1164	0.4
+T2	Unit-conductivity 1165 1171	S cm−1
+T3	Material-start 1126 1132	PH1000
+T4	Value-conductivity 1175 1181	1457.7
+T5	Unit-conductivity 1182 1188	S cm−1
+T6	Material-final 1193 1211	PH1000/[C16MIm]PF6
+T7	Value-conductivity 1216 1222	1243.8
+T8	Unit-conductivity 1223 1229	S cm−1
+T9	Material-final 1234 1252	PH1000/[C16MIm]BF4
+T10	Material-final 1512 1530	PH1000/[C16MIm]BF4
+T11	Material-final 1489 1507	PH1000/[C16MIm]PF6

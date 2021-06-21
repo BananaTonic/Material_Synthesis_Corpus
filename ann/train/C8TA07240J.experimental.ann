@@ -1,0 +1,62 @@
+T1	Value-conductivity 12391 12395	0.28
+T2	Argument-temp 12404 12412	at 25 °C
+T3	Unit-conductivity 12396 12403	mS cm−1
+T4	Material-final 12378 12386	Li6PS5Cl
+T5	Value-conductivity 12435 12436	1
+T6	Unit-conductivity 12437 12444	mS cm−1
+T7	Value-activation 17131 17135	0.16
+T8	Unit-activation 17136 17138	eV
+T9	Value-activation 16956 16961	0.148
+T10	Unit-activation 16962 16965	eV.
+T11	Material-final 16834 16852	Li6.25PS5.25Cl0.75
+T12	Material-final 17023 17049	Li6.25PTe0.125S5.125Cl0.75
+T13	Value-activation 15830 15834	0.52
+T14	Unit-activation 15835 15837	eV
+T15	Material-final 15707 15715	Li6PS5Cl
+T18	Material-others 15916 15936	Li6.25PTeS4.25Cl0.75
+T19	Argument-temp 12646 12654	at 25 °C
+T20	Unit-conductivity 12638 12645	mS cm−1
+T21	Value-conductivity 12633 12637	1.03
+T22	Argument-others 12445 12457	marker value
+T23	Material-final 12543 12561	Li6.25PS5.25Cl0.75
+T24	Material-final 12708 12716	Li6PS5Cl
+T25	Argument-temp 12717 12749	at a higher temperature of 40 °C
+T26	Material-final 12768 12794	Li6.25PTe0.125S5.125Cl0.75
+T27	Value-conductivity 12898 12901	4.5
+T28	Unit-conductivity 12902 12909	mS cm−1
+T29	Argument-temp 12910 12918	at 25 °C
+T30	Material-final 12949 12967	Li6.25PS5.25Cl0.75
+T31	Material-final 13151 13159	Li6PS5Cl
+T32	Argument-others 15880 15894	AIMD predicted
+T33	Value-conductivity 13215 13218	4.5
+T34	Unit-conductivity 13219 13226	mS cm−1
+T35	Argument-temp 13325 13366	at the lower temperatures of 0 and −20 °C
+T36	Material-final 13382 13408	Li6.25PTe0.125S5.125Cl0.75
+T37	Value-conductivity 13473 13477	2.45
+T38	Value-conductivity 13482 13485	1.6
+T39	Unit-conductivity 13486 13493	mS cm−1
+T40	Value-conductivity 14125 14129	1.03
+T41	Value-conductivity 14133 14137	2.99
+T42	Unit-conductivity 14138 14145	mS cm−1
+T43	Argument-temp 14048 14065	from 25 to 120 °C
+T44	Material-final 13979 13997	Li6.25PS5.25Cl0.75
+T45	Material-final 14151 14177	Li6.25PTe0.125S5.125Cl0.75
+T46	Value-conductivity 14217 14220	4.5
+T47	Unit-conductivity 14221 14228	mS cm−1
+T48	Argument-temp 14229 14237	at 25 °C
+T49	Value-conductivity 14241 14245	18.0
+T50	Unit-conductivity 14246 14253	mS cm−1
+T51	Argument-temp 14254 14263	at 120 °C
+T52	Value-conductivity 17366 17370	2.56
+T53	Unit-conductivity 17371 17378	mS cm−1
+T54	Argument-temp 17379 17386	at 0 °C
+T55	Value-conductivity 17391 17396	1.612
+T56	Unit-conductivity 17397 17404	mS cm−1
+T57	Argument-temp 17405 17414	at −20 °C
+T58	Value-conductivity 17457 17458	1
+T59	Unit-conductivity 17459 17466	mS cm−1
+T60	Argument-others 17438 17453	benchmark value
+T61	Material-final 17290 17316	Li6.25PTe0.125S5.125Cl0.75
+T62	Argument-others 17317 17322	alloy
+T63	Argument-others 16853 16858	alloy
+T64	Argument-others 13409 13414	alloy

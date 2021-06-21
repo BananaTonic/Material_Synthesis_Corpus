@@ -1,0 +1,11 @@
+T1	Material-final 444 475	[Nd(mpca)2Nd(H2O)6Mo(CN)8]·nH2O
+T2	Argument-others 483 521	mpca is 5-methyl-2-pyrazinecarboxylate
+T3	Unit-conductivity 839 845	S cm−1
+T4	Value-conductivity 834 838	10−3
+T5	Value-conductivity 1389 1399	from ∼10−9
+T6	Unit-conductivity 1400 1406	S cm−1
+T7	Value-conductivity 1410 1415	∼10−3
+T8	Unit-conductivity 1416 1422	S cm−1
+T9	Argument-air 1423 1474	when the relative humidity increases from 0% to 98%
+T10	Value-activation 1698 1700	37
+T11	Unit-activation 1701 1709	kJ mol−1

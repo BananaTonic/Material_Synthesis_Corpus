@@ -1,0 +1,12 @@
+T1	Material-final 807 821	JUC-200@PVA-10
+T2	Material-final 658 672	JUC-200@PVA-10
+T3	Value-conductivity 391 402	1.62 × 10−3
+T4	Unit-conductivity 403 409	S cm−1
+T5	Argument-temp 410 418	at 80 °C
+T6	Argument-others 419 427	in water
+T7	Value-conductivity 707 718	1.25 × 10−3
+T8	Unit-conductivity 719 725	S cm−1
+T9	Argument-temp 726 734	at 50 °C
+T10	Material-final 316 323	JUC-200
+T11	Material-final 177 184	JUC-200
+T12	Material-final 63 70	JUC-200

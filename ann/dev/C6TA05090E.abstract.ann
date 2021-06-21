@@ -1,0 +1,12 @@
+T1	Value-conductivity 1464 1468	62.7
+T2	Unit-conductivity 1469 1476	mS cm−1
+T3	Argument-temp 1499 1507	at 80 °C
+T4	Material-final 1319 1327	PES-n-QA
+T5	Argument-others 1328 1336	membrane
+T6	Argument-others 1337 1369	with hexyleneoxy spacers (n = 6)
+T7	Material-final 1646 1655	PES-12-QA
+T8	Argument-others 1656 1664	membrane
+T9	Argument-others 1665 1699	with a flexible dodeceneoxy spacer
+T10	Material-final 1931 1939	PES-6-QA
+T11	Material-final 971 1010	quaternized poly(ether sulfone)s (PESs)
+T13	Argument-others 1011 1053	with different lengths of flexible spacers

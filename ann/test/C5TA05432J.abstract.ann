@@ -1,0 +1,16 @@
+T1	Material-final 23 29	Li9S3N
+T2	Material-final 111 117	Li9S3N
+T3	Material-final 448 451	LSN
+T4	Value-activation 562 566	0.52
+T5	Unit-activation 567 569	eV
+T6	Value-conductivity 495 505	8.3 × 10−7
+T7	Unit-conductivity 506 512	S cm−1
+T8	Argument-temp 513 532	at room temperature
+T9	Material-final 275 278	LSN
+T10	Value-conductivity 1344 1347	2.3
+T11	Unit-conductivity 1348 1355	mS cm−1
+T12	Argument-others 1299 1323	predicted conductivities
+T13	Argument-temp 1335 1341	σ300 K
+T14	Material-final 1245 1258	Li8.5M0.25S3N
+T15	Argument-others 1260 1283	M = Ca2+, Zn2+, or Mg2+
+T16	Material-final 119 122	LSN

@@ -1,0 +1,24 @@
+T1	Material-final 4473 4477	LAGP
+T2	Material-final 4479 4495	PAALi/LAGP/PAALi
+T3	Material-final 4501 4515	LNMO/LAGP/RuO2
+T4	Material-final 1574 1590	PAALi/LAGP/PAALi
+T6	Material-final 106 110	LAGP
+T7	Material-final 83 104	Li1.5Al0.5Ge1.5(PO4)3
+T8	Material-final 723 727	LAGP
+T9	Material-final 815 819	LAGP
+T10	Material-final 1023 1027	LAGP
+T11	Argument-others 728 734	powder
+T12	Argument-others 852 858	powder
+T13	Argument-others 1028 1035	pellets
+T14	Argument-others 820 829	particles
+T15	Argument-others 112 142	solid-state electrolyte pellet
+T16	Argument-others 1671 1677	powder
+T17	Material-final 1666 1670	LAGP
+T18	Material-final 1811 1815	LAGP
+T19	Argument-others 1816 1822	pellet
+T20	Material-final 2497 2501	LAGP
+T21	Argument-others 2502 2508	pellet
+T22	Material-final 3555 3559	LAGP
+T23	Material-final 4194 4210	PAALi/LAGP/PAALi
+T24	Material-final 4185 4189	LAGP
+T25	Material-final 4821 4837	PAALi/LAGP/PAALi

@@ -1,0 +1,4 @@
+Conclusion
+Stable halide compounds Na3AO4X (A = S/Se, X = F/Cl) with either anti-perovskite or double anti-perovskite structures have been identified as superb Na+ ion conductors. The theoretical Na+ conductivity for the best electrolyte from this work, Na3SeO4F0.5Cl0.5, is 8.167 mS cm−1 at 300 K and 1.31 mS cm−1 at 223 K (−50 °C) with a very small activation barrier of 0.137 eV.
+The currently identified Na3AO4X electrolytes have an outstanding oxidation potential well over 3.5 V, which is essential to enable use of high voltage cathodes for high energy density cells.
+The solid electrolytes formulated in this work are insensitive to both oxygen and water, so that they can be processed without strict ambient control. Such extremely stable electrolytes are truly desirable as the basis for practical realisation of high-performance solid sodium batteries.

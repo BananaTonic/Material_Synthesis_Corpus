@@ -1,0 +1,12 @@
+T1	Value-conductivity 752 755	1.0
+T2	Unit-conductivity 756 763	mS cm−1
+T3	Material-final 55 67	Na11Sn2PSe12
+T4	Material-final 230 242	Na11Sn2PSe12
+T5	Argument-others 243 260	solid electrolyte
+T6	Material-final 735 747	Na11Sn2PSe12
+T7	Material-final 960 980	Na/Na11Sn2PSe12/C–Se
+T8	Material-final 882 894	Na11Sn2PSe12
+T9	Material-final 1137 1160	Na3Sn/Na11Sn2PSe12/C–Se
+T10	Material-final 985 1008	Na3Sn/Na11Sn2PSe12/C–Se
+T11	Argument-others 29 54	fast sodium ion conductor
+T12	Argument-others 1161 1168	battery

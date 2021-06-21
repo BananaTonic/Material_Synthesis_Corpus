@@ -1,0 +1,11 @@
+T1	Value-conductivity 12751 12756	∼10−3
+T2	Unit-conductivity 12757 12763	S cm−1
+T3	Value-activation 12833 12839	∼ 0.41
+T4	Unit-activation 12840 12842	eV
+T5	Value-activation 13157 13163	∼ 1.61
+T6	Unit-activation 13164 13166	eV
+T7	Value-activation 13719 13725	∼ 2.59
+T8	Unit-activation 13726 13728	eV
+T9	Argument-temp 12741 12749	≈ 550 °C
+T10	Argument-temp 12867 12905	in the temperature range of 350–450 °C
+T11	Material-final 13448 13463	BaCe0.9Y0.1O3−δ

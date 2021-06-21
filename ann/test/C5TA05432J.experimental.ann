@@ -1,0 +1,29 @@
+T1	Value-conductivity 2240 2250	8.3 × 10−7
+T2	Unit-conductivity 2251 2257	S cm−1
+T3	Value-activation 2289 2293	0.52
+T4	Unit-activation 2294 2296	eV
+T5	Material-final 3022 3025	LSN
+T6	Argument-temp 2190 2206	room temperature
+T7	Value-activation 4612 4616	0.55
+T8	Unit-activation 4617 4619	eV
+T9	Argument-others 4595 4605	calculated
+T10	Argument-temp 4637 4653	room temperature
+T11	Value-conductivity 4686 4696	2.4 × 10−6
+T12	Unit-conductivity 4697 4703	S cm−1
+T13	Value-activation 7693 7713	from 0.53 eV to 0.44
+T14	Unit-activation 7714 7716	eV
+T15	Argument-temp 7721 7737	room temperature
+T16	Value-conductivity 7785 7795	5.9 × 10−5
+T17	Unit-conductivity 7796 7802	S cm−1
+T19	Argument-temp 8795 8811	room temperature
+T20	Unit-conductivity 8851 8858	mS cm−1
+T21	Value-activation 8605 8625	from 0.41 eV to 0.27
+T22	Unit-activation 8626 8628	eV
+T23	Argument-others 8629 8713	as Ca substitution is increased from 0.125 Ca per formula unit (pfu) to 0.625 Ca pfu
+T24	Argument-others 8519 8534	AIMD simulation
+T25	Material-final 2690 2693	LSN
+T26	Argument-others 7562 7574	AIMD results
+T27	Argument-others 7989 7992	Cl-
+T28	Material-final 8020 8023	LSN
+T29	Material-final 8746 8764	Ca-substituted LSN
+T18	Value-conductivity 8848 8850	10

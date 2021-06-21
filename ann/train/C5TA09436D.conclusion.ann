@@ -1,0 +1,7 @@
+T1	Value-activation 786 790	0.20
+T2	Unit-activation 791 793	eV
+T3	Material-final 96 106	Li6Y(BO3)3
+T4	Material-final 942 952	Li6Y(BO3)3
+T5	Value-conductivity 207 217	2.2 × 10−3
+T6	Unit-conductivity 218 224	S cm−1
+T7	Argument-temp 225 261	until temperatures as high as 400 °C

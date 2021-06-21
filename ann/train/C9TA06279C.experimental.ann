@@ -1,0 +1,13 @@
+T1	Material-final 88 100	Na11Sn2PSe12
+T2	Material-final 3718 3742	Sodium/Na11Sn2PSe12/C–Se
+T3	Material-final 4268 4285	C/Se/Na11Sn2PSe12
+T4	Material-final 4536 4558	Na11Sn2PSe12/composite
+T5	Material-final 5051 5079	Na3Sn/Na11Sn2PSe12/SnSe–C–SE
+T6	Material-final 5192 5220	Na3Sn/Na11Sn2PSe12/SnSe–C–SE
+T7	Material-final 5316 5341	Na/Na11Sn2PSe12/SnSe–C–SE
+T8	Argument-others 3743 3750	battery
+T9	Argument-others 5342 5347	cells
+T10	Argument-others 5221 5226	cells
+T11	Argument-others 5080 5087	battery
+T12	Argument-others 4525 4535	co-pressed
+T13	Argument-others 4559 4584	solid electrolyte pellets

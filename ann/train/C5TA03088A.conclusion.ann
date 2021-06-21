@@ -1,0 +1,11 @@
+T1	Material-final 23 59	octa-sulfonated poly(arylene ether)s
+T2	Material-final 61 67	SPAE-x
+T3	Value-conductivity 752 753	3
+T4	Unit-conductivity 754 761	mS cm−1
+T5	Material-others 768 778	Nafion 117
+T6	Value-conductivity 780 783	3.6
+T7	Unit-conductivity 784 791	mS cm−1
+T8	Argument-air 794 821	even under reduced humidity
+T9	Argument-air 823 829	33% RH
+T10	Material-final 682 689	SPAE-18
+T11	Material-final 916 922	SPAE-x

@@ -1,0 +1,14 @@
+T1	Material-final 31 52	Sr0.8Ln0.2V1−yNbyO3−δ
+T2	Argument-others 54 78	Ln = La or Y, y = 0–0.10
+T3	Argument-others 18 30	Single-phase
+T4	Argument-others 80 88	ceramics
+T5	Material-final 228 249	Sr0.8Ln0.2V1−yNbyO3−δ
+T6	Argument-others 250 258	ceramics
+T7	Material-final 923 938	Sr0.8La0.2VO3−δ
+T8	Material-final 872 886	Sr0.8Y0.2VO3−δ
+T9	Material-final 1557 1577	SrVO3−δ-based anodes
+T10	Material-final 1778 1799	Sr0.8Ln0.2V1−yNbyO3−δ
+T11	Argument-others 1800 1818	ceramic electrodes
+T12	Value-conductivity 510 513	100
+T13	Unit-conductivity 514 520	S cm−1
+T14	Argument-temp 521 544	at temperatures ≤950 °C

@@ -1,0 +1,12 @@
+T1	Value-activation 10884 10888	0.27
+T2	Unit-activation 10889 10891	eV
+T3	Value-activation 10602 10606	0.42
+T4	Unit-activation 10607 10609	eV
+T5	Argument-others 10862 10882	Si-doped cubic phase
+T6	Argument-others 10533 10549	tetragonal phase
+T7	Argument-others 10180 10210	molecular dynamics simulations
+T8	Material-others 10230 10246	Na392P120Si8S512
+T9	Argument-others 10218 10229	cubic phase
+T10	Argument-others 10311 10327	tetragonal phase
+T11	Material-others 10328 10341	Na384P128S512
+T12	Argument-temp 10342 10378	over the temperature range 300–450 K

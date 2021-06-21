@@ -1,0 +1,8 @@
+T1	Value-conductivity 220 222	30
+T2	Unit-conductivity 223 229	S cm−1
+T3	Material-final 158 162	Mo2C
+T4	Argument-others 146 157	filter-like
+T5	Argument-others 163 173	nanosheets
+T6	Material-start 97 101	Mo2C
+T7	Material-final 319 323	Mo2C
+T8	Material-final 786 792	S@Mo2C

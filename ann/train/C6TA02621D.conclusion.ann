@@ -1,0 +1,15 @@
+T1	Value-conductivity 303 307	10−4
+T2	Unit-conductivity 308 314	S cm−1
+T3	Argument-temp 315 337	at ambient temperature
+T4	Material-final 202 221	polymer electrolyte
+T5	Material-final 1167 1195	polymer-in-salt electrolytes
+T6	Value-conductivity 1228 1232	10−4
+T7	Unit-conductivity 1233 1239	S cm−1
+T8	Argument-temp 1240 1262	at ambient temperature
+T9	Value-conductivity 4239 4243	10−4
+T10	Unit-conductivity 4244 4250	S cm−1
+T11	Argument-temp 4251 4270	at room temperature
+T12	Material-final 4152 4194	polymeric lithium salt combined with an IL
+T13	Material-final 5012 5016	GPEs
+T14	Value-conductivity 5046 5050	10−3
+T15	Unit-conductivity 5051 5057	S cm−1

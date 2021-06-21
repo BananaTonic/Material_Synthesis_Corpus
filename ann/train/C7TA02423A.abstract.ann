@@ -1,0 +1,11 @@
+T1	Value-conductivity 810 821	1.64 × 10−4
+T2	Unit-conductivity 822 828	S cm−1
+T3	Argument-temp 829 848	at room temperature
+T4	Material-final 608 616	IPN-PDEC
+T5	Argument-others 617 636	polymer electrolyte
+T6	Argument-others 583 607	interpenetrating network
+T7	Material-final 740 748	IPN-PDEC
+T8	Argument-others 749 768	polymer electrolyte
+T9	Material-final 923 942	LiFePO4/IPN-PDEC/Li
+T10	Material-final 947 974	LiFe0.2Mn0.8PO4/IPN-PDEC/Li
+T11	Material-final 1275 1283	IPN-PDEC

@@ -1,0 +1,25 @@
+T1	Material-final 447 453	aQAPSF
+T2	Material-final 458 464	pQAPSF
+T3	Material-final 835 841	pQAPSF
+T5	Material-final 1220 1226	aQAPSF
+T6	Material-final 1231 1237	pQAPSF
+T7	Argument-others 1238 1243	films
+T8	Material-final 1113 1119	pQAPSF
+T9	Value-conductivity 752 755	0.1
+T10	Unit-conductivity 756 762	S cm−1
+T11	Argument-temp 763 771	at 80 °C
+T12	Value-conductivity 1152 1156	75.1
+T13	Material-final 1350 1356	aQAPSF
+T15	Unit-conductivity 1157 1164	mS cm−1
+T16	Argument-temp 1165 1173	at 80 °C
+T18	Material-final 556 562	aQAPSF
+T19	Material-final 208 213	QAPSF
+T20	Material-final 1301 1306	QAPSF
+T21	Argument-others 1307 1315	membrane
+T22	Material-final 1690 1695	QAPSF
+T23	Argument-others 1391 1410	IEC = 2.04 mmol g−1
+T24	Argument-others 1358 1377	IEC = 0.98 mmol g−1
+T25	Argument-others 1697 1716	IEC = 1.02 mmol g−1
+T26	Argument-others 1727 1746	IEC = 0.98 mmol g−1
+T27	Argument-others 1761 1780	IEC = 2.04 mmol g−1
+T28	Argument-others 215 234	IEC = 1.02 mmol g−1

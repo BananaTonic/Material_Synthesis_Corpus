@@ -1,0 +1,14 @@
+T1	Material-final 47 66	Li1+xAlxTi2−x(PO4)3
+T2	Argument-others 68 79	0 ≤ x ≤ 0.5
+T3	Argument-others 34 46	NASICON-type
+T4	Material-final 275 286	LiTi2(PO4)3
+T5	Material-final 288 291	LTP
+T6	Material-final 297 316	Li1+xAlxTi2−x(PO4)3
+T7	Material-final 318 322	LATP
+T8	Argument-others 324 339	single crystals
+T9	Value-conductivity 678 704	3.16 × 10−6 to 1.73 × 10−3
+T10	Unit-conductivity 705 711	S cm−1
+T11	Value-conductivity 1302 1313	5.63 × 10−3
+T12	Unit-conductivity 1314 1320	S cm−1
+T13	Argument-others 1351 1358	x = 0.4
+T14	Argument-others 729 781	incorporating 0.1 mol Al3+ per formula unit into LTP

@@ -1,0 +1,9 @@
+Experimental methods
+Materials
+All starting reagents and solvents used in the synthesis were obtained from commercial companies and utilized without further purification.
+Synthesis of 1E
+A mixture of 1,3,5-trihydroxyphenol (0.5 g, 3.96 mmol) and 4,4′-biphenyldicarboxaldehyde (0.625 g, 2.98 mmol) was completely dissolved in 15 mL of 1,4-dioxane in a 35 mL Pyrex cell. Subsequently, 1 mL of 35% HCl was added to the mixture and the inlet of the cell was sealed with a PTFE cap. Following irradiation of the cell in a microwave reactor at 220 °C for 2 h, the obtained brownish precipitate was transferred into 200 mL of tetrahydrofuran (THF)/water and stirred for 2 h. After collection by filtration and washing several times with THF, water, methanol, and acetone, 1E was desiccated overnight in an oven at 100 °C. To measure adsorption, solvents in the pores were removed under vacuum for 12 h at 120 °C. Yield: 68.4%. Elemental analysis (%) found for 1E: C, 68.21; H, 4.07.
+Synthesis of 1ES
+CH2Cl2 (24 mL) was placed in a 100 mL round bottom flask containing around 200 mg of 1E and the mixture was stirred for 2 hours. Chlorosulfonic acid (2.5 mL) was then carefully added dropwise into the dispersed mixture in a 0 °C bath. After stirring at room temperature for 4 days, the resultant mixture was transferred into 1 L of ice water and stirred for 6 hours. After collection by filtration and neutralization by washing with water, methanol, and acetone, 1ES was desiccated overnight in an oven at 100 °C. To measure adsorption, solvents in the pores were removed under vacuum for 12 h at 120 °C.
+Synthesis of D2O-substituted 1ES
+To record solid-state 2H NMR and impedance spectra, D2O-substituted 1ES was prepared by soaking around 100 mg of 1ES in D2O for 24 h under stirring. Subsequently, the product was filtered and dried under N2 flow.

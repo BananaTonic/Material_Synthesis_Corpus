@@ -1,0 +1,8 @@
+T1	Unit-conductivity 906 912	S cm−1
+T2	Argument-temp 913 932	at room temperature
+T3	Value-conductivity 888 905	10−4 to over 10−3
+T4	Value-conductivity 956 960	10−2
+T5	Unit-conductivity 961 967	S cm−1
+T6	Argument-temp 968 1014	at higher temperatures below the melting point
+T7	Material-final 592 601	Li3O(BH4)
+T8	Material-final 749 766	Li3O(BH4)0.5Cl0.5

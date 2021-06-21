@@ -1,0 +1,11 @@
+T1	Value-conductivity 7013 7017	10−2
+T2	Unit-conductivity 7018 7024	S cm−1
+T3	Value-conductivity 4374 4378	0.06
+T4	Unit-conductivity 4379 4385	S cm−1
+T5	Argument-temp 4386 4394	at 20 °C
+T6	Value-conductivity 4398 4402	0.45
+T7	Unit-conductivity 4403 4409	S cm−1
+T8	Argument-temp 4410 4418	at 80 °C
+T9	Material-final 4078 4099	vermiculite membranes
+T10	Argument-others 4105 4121	Li+ intercalated
+T11	Material-others 6672 6728	conventional electrolyte-in-gel composite ion conductors

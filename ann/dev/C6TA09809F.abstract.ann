@@ -1,0 +1,7 @@
+T1	Value-conductivity 737 741	10−4
+T2	Unit-conductivity 742 748	S cm−1
+T3	Argument-temp 749 768	at room temperature
+T4	Value-conductivity 919 929	2.5 × 10−4
+T5	Unit-conductivity 930 936	S cm−1
+T6	Material-final 0 13	Na3+xMxP1−xS4
+T7	Argument-others 15 35	M = Ge4+, Ti4+, Sn4+

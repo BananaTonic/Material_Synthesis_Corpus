@@ -1,0 +1,12 @@
+T1	Material-final 0 8	LiTa2PO8
+T2	Material-final 324 332	LiTa2PO8
+T3	Material-final 480 488	LiTa2PO8
+T4	Material-final 846 854	LiTa2PO8
+T5	Argument-others 855 862	pellets
+T6	Unit-conductivity 943 949	S cm−1
+T7	Value-conductivity 932 942	1.6 × 10−3
+T8	Unit-conductivity 987 993	S cm−1
+T9	Value-conductivity 976 986	2.5 × 10−4
+T10	Argument-temp 994 1002	at 25 °C
+T11	Argument-others 911 915	bulk
+T12	Argument-others 954 959	total

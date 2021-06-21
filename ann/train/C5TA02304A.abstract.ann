@@ -1,0 +1,8 @@
+T1	Value-conductivity 1085 1090	0.044
+T2	Value-conductivity 1095 1100	0.065
+T3	Unit-conductivity 1101 1107	S cm−1
+T4	Argument-temp 1108 1123	at 20 and 60 °C
+T5	Material-final 801 820	CNC-based composite
+T6	Argument-others 821 826	films
+T7	Argument-others 827 854	with 40% hydrophobic binder
+T8	Argument-others 862 886	PVA : silica gel = 1 : 2

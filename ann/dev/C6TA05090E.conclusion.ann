@@ -1,0 +1,9 @@
+T1	Material-final 577 585	PES-6-QA
+T2	Argument-others 586 610	with hexyleneoxy spacers
+T3	Material-final 988 997	PES-12-QA
+T4	Argument-others 998 1006	membrane
+T5	Material-final 1166 1174	PES-6-QA
+T6	Argument-others 1175 1183	membrane
+T7	Value-conductivity 539 543	62.7
+T8	Unit-conductivity 544 551	mS cm−1
+T9	Argument-temp 553 558	80 °C

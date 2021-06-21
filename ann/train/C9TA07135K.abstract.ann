@@ -1,0 +1,14 @@
+T1	Value-conductivity 916 926	1.3 × 10−2
+T2	Unit-conductivity 927 933	S cm−1
+T3	Argument-air 934 957	under an air atmosphere
+T4	Argument-air 959 965	3% H2O
+T5	Argument-temp 967 976	at 600 °C
+T6	Material-final 103 128	BaZr0.1Ce0.7Y0.1Yb0.1O3−δ
+T7	Material-final 130 140	BZCYYb1711
+T8	Argument-others 142 153	electrolyte
+T9	Material-final 705 715	BZCYYb1711
+T10	Material-final 678 703	BaZr0.1Ce0.7Y0.1Yb0.1O3−δ
+T11	Material-final 1710 1720	BZCYYb1711
+T12	Material-final 1456 1466	BZCYYb1711
+T13	Argument-others 1467 1478	electrolyte
+T14	Argument-others 666 677	electrolyte

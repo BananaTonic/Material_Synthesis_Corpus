@@ -1,0 +1,7 @@
+T1	Material-final 86 97	Na10GeP2S12
+T2	Value-conductivity 624 634	4.7 × 10−3
+T3	Unit-conductivity 635 641	S cm−1
+T4	Argument-temp 586 602	room-temperature
+T5	Value-activation 897 900	0.2
+T6	Unit-activation 901 903	eV
+T7	Argument-temp 604 606	RT

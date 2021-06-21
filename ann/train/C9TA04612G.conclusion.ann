@@ -1,0 +1,8 @@
+T1	Value-conductivity 284 294	6.1 × 10−5
+T2	Unit-conductivity 295 301	S cm−1
+T3	Argument-temp 302 310	at 25 °C
+T4	Value-conductivity 315 325	5.7 × 10−4
+T5	Unit-conductivity 326 332	S cm−1
+T6	Argument-temp 333 341	at 80 °C
+T7	Material-final 252 266	PVDF-HFP/LiBOB
+T8	Argument-others 226 251	polymer solid electrolyte

@@ -1,0 +1,16 @@
+T1	Value-conductivity 689 691	99
+T2	Unit-conductivity 692 699	mS cm−1
+T3	Argument-temp 700 708	at 80 °C
+T4	Argument-others 709 717	in water
+T5	Material-final 479 486	QPAF-Cx
+T6	Material-final 533 540	QPAF-C3
+T7	Material-final 820 827	QPAF-C3
+T8	Argument-others 828 836	membrane
+T9	Material-final 995 1002	QPAF-C3
+T10	Argument-others 1003 1011	membrane
+T11	Material-final 1109 1116	QPAF-C3
+T12	Argument-others 1117 1125	membrane
+T13	Material-final 1200 1207	QPAF-C1
+T14	Material-final 1223 1231	QPAF-C1B
+T15	Material-final 1324 1331	QPAF-C3
+T16	Argument-others 494 501	x = 2–6

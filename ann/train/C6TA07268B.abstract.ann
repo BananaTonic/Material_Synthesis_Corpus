@@ -1,0 +1,7 @@
+T1	Value-conductivity 910 920	0.4 × 10−3
+T2	Unit-conductivity 921 927	S cm−1
+T3	Material-final 873 876	HSE
+T4	Material-final 0 24	Hybrid solid electrolyte
+T6	Material-final 535 543	LLZO–ILE
+T7	Argument-others 544 550	matrix
+T8	Material-final 1115 1128	Li/HSE/LiCoO2

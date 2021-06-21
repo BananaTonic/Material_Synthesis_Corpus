@@ -1,0 +1,9 @@
+T1	Value-activation 1205 1209	0.12
+T2	Unit-activation 1210 1212	eV
+T3	Value-conductivity 1245 1248	6.3
+T4	Unit-conductivity 1249 1256	mS cm−1
+T5	Argument-temp 1257 1285	at standard room temperature
+T6	Argument-temp 1287 1292	298 K
+T7	Material-final 1085 1100	Na3LiS0.5O0.5I2
+T8	Material-final 932 943	Na4−cLicAX4
+T9	Argument-others 945 976	A = O and/or S; X = I and/or Cl

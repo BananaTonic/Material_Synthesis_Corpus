@@ -1,0 +1,13 @@
+T1	Value-conductivity 1110 1121	1.41 × 10−3
+T2	Unit-conductivity 1122 1128	S cm−1
+T3	Argument-temp 1129 1137	at 30 °C
+T4	Argument-air 1139 1160	98% relative humidity
+T5	Argument-air 1162 1164	RH
+T6	Value-activation 1197 1202	0.225
+T7	Unit-activation 1203 1205	eV
+T8	Material-final 1067 1071	MOPs
+T9	Material-final 285 317	Zr-based metal–organic polyhedra
+T10	Material-final 319 323	MOPs
+T11	Material-final 584 588	MOPs
+T12	Material-final 702 706	MOPs
+T13	Material-final 900 904	MOPs

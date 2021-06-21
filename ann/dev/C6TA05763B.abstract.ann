@@ -1,0 +1,21 @@
+T1	Material-final 36 85	Sm and Ca co-doped ceria–La0.6Sr0.4Co0.2Fe0.8O3−δ
+T2	Material-final 279 300	Ca0.04Ce0.96−xSmxO2−δ
+T3	Argument-others 302 329	x = 0, 0.09, 0.16, and 0.24
+T4	Material-final 332 336	SCDC
+T5	Argument-others 86 116	semiconductor–ionic composites
+T6	Material-final 669 691	Ca0.04Ce0.80Sm0.16O2−δ
+T7	Value-conductivity 734 739	0.039
+T8	Unit-conductivity 740 746	S cm−1
+T9	Argument-temp 747 756	at 600 °C
+T10	Material-final 1284 1288	SCDC
+T11	Material-final 1061 1065	SCDC
+T12	Material-final 1401 1410	LSCF–SCDC
+T13	Material-final 1467 1476	LSCF–SCDC
+T14	Material-final 1616 1625	LSCF–SCDC
+T15	Argument-others 1626 1636	composites
+T16	Material-final 1848 1853	SCDC2
+T17	Material-final 1819 1846	LSCF–Ca0.04Ce0.80Sm0.16O2−δ
+T18	Material-final 1206 1215	LSCF–SCDC
+T19	Argument-others 1216 1226	composites
+T20	Material-final 1702 1711	LSCF–SCDC
+T21	Argument-others 1712 1740	semiconductor–ionic membrane

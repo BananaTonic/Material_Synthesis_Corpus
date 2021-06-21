@@ -1,0 +1,12 @@
+T1	Value-conductivity 825 829	4149
+T2	Unit-conductivity 830 836	S cm−1
+T3	Material-final 12 20	graphene
+T4	Argument-others 21 25	foil
+T5	Material-final 355 363	graphene
+T6	Material-final 571 579	graphene
+T7	Argument-others 580 584	foil
+T8	Material-final 586 588	GF
+T9	Material-final 737 739	GF
+T10	Argument-others 723 736	free-standing
+T11	Argument-others 341 354	Free-standing
+T12	Argument-others 554 570	microscale-thick

@@ -1,0 +1,2 @@
+Conclusions
+In summary, we fabricated flexible MSCs with the SMIE technique. The whole fabrication process was completed in the open air and did not involve any complicated clean-room processes such as RF-sputtering and lithography. The MSCs from this study offer high power density, high flexibility and long endurance, especially ultrahigh mechanical strength. This study provides a facile, scalable, and low-cost approach to fabricate MSCs with promising application as integrated on-chip energy storage units for flexible devices.

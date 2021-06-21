@@ -1,0 +1,15 @@
+T1	Value-conductivity 1237 1241	1.43
+T2	Unit-conductivity 1242 1249	mS cm−1
+T3	Value-conductivity 1257 1261	2.58
+T4	Unit-conductivity 1262 1269	mS cm−1
+T5	Value-conductivity 1280 1282	15
+T6	Unit-conductivity 1283 1290	mS cm−1
+T7	Argument-temp 1297 1305	at 95 °C
+T8	Argument-air 1310 1316	97% RH
+T9	Material-final 892 914	[Cu(Hsfpip)(H2O)2]·H2O
+T10	Material-final 920 940	[CuH2(Hsfpip)2(H2O)]
+T11	Material-final 949 969	[CuH(Hsfpip)Cl(H2O)]
+T12	Argument-others 981 1047	Hsfpip is 2-(2,4-disulfophenyl)imidazo(4,5-f)(1,10)-phenanthroline
+T13	Material-final 916 917	1
+T14	Material-final 942 943	2
+T15	Material-final 971 972	3

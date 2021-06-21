@@ -1,0 +1,22 @@
+T1	Value-conductivity 1022 1025	0.1
+T2	Unit-conductivity 1026 1032	S cm−1
+T3	Material-final 916 919	UCM
+T4	Argument-others 920 928	aerogels
+T5	Material-final 374 377	UCM
+T6	Argument-others 378 386	aerogels
+T7	Material-final 357 363	carbon
+T8	Material-final 641 644	UCM
+T9	Material-final 1401 1404	UCM
+T10	Argument-others 1405 1413	aerogels
+T11	Argument-others 645 653	aerogels
+T12	Material-final 1298 1301	UCM
+T13	Argument-others 1302 1310	aerogels
+T14	Argument-others 364 372	aerogels
+T15	Material-final 530 533	UCM
+T16	Argument-others 534 542	aerogels
+T17	Material-final 1149 1152	UCM
+T18	Argument-others 1153 1161	aerogels
+T19	Material-final 45 51	carbon
+T20	Argument-others 52 60	aerogels
+T21	Argument-others 312 356	Ultralight, compressible and multifunctional
+T22	Argument-others 0 44	Ultralight, compressible and multifunctional

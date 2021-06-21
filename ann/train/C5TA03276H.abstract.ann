@@ -1,0 +1,9 @@
+T1	Unit-conductivity 1288 1294	S cm−1
+T2	Value-conductivity 1276 1287	1.19 × 10−1
+T3	Argument-temp 1296 1301	30 °C
+T4	Argument-air 1303 1310	100% RH
+T5	Material-final 1209 1234	HMS-Cys embedded membrane
+T6	Argument-others 1180 1203	filler content of 4 wt%
+T7	Material-final 441 448	HMS-Cys
+T8	Material-final 481 489	HMS-Phos
+T9	Material-final 525 532	HMS-Asp

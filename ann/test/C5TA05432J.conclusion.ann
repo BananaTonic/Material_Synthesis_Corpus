@@ -1,0 +1,10 @@
+T1	Material-final 36 42	Li9S3N
+T2	Material-final 141 144	LSN
+T3	Material-final 218 221	LSN
+T4	Value-activation 340 344	0.52
+T5	Unit-activation 345 347	eV
+T6	Value-conductivity 273 283	8.3 × 10−7
+T7	Unit-conductivity 284 290	S cm−1
+T8	Argument-temp 291 310	at room temperature
+T9	Material-final 625 639	Li8.5Ca0.25S3N
+T10	Material-final 730 733	LSN

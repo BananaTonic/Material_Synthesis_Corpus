@@ -1,0 +1,9 @@
+T1	Unit-conductivity 867 873	S cm−1
+T2	Value-conductivity 855 866	2.20 × 10−5
+T3	Argument-temp 874 883	at 280 °C
+T4	Value-activation 888 892	62.3
+T5	Unit-activation 893 901	kJ mol−1
+T6	Material-final 787 795	Nd2LiHO3
+T7	Material-final 92 100	Ln2LiHO3
+T8	Argument-others 132 153	Ln = La, Pr, Nd or Sm
+T9	Argument-others 101 112	oxyhydrides

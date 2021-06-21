@@ -1,0 +1,43 @@
+T1	Value-activation 11929 11941	0.2 ± 0.0095
+T2	Unit-activation 11942 11944	eV
+T3	Value-activation 11997 12001	0.21
+T4	Unit-activation 12002 12004	eV
+T5	Argument-temp 11725 11744	at room temperature
+T6	Argument-temp 11746 11751	300 K
+T7	Value-conductivity 11756 11759	4.7
+T8	Unit-conductivity 11760 11767	mS cm−1
+T9	Material-others 12140 12170	other ceramic ionic conductors
+T10	Value-activation 12200 12214	from 0.25 to 1
+T11	Unit-activation 12215 12217	eV
+T12	Material-final 12088 12092	NGPS
+T13	Material-others 11991 11995	LGPS
+T14	Material-final 13285 13289	NGPS
+T15	Value-activation 13326 13339	0.127 ± 0.022
+T16	Value-activation 13344 13357	0.251 ± 0.019
+T17	Unit-activation 13358 13360	eV
+T18	Value-activation 13381 13385	0.17
+T19	Value-activation 13390 13394	0.28
+T20	Unit-activation 13395 13398	eV)
+T21	Material-others 13402 13406	LGPS
+T22	Argument-others 13238 13277	diffusion considered (axial and planar)
+T23	Material-others 14151 14161	β″-alumina
+T24	Argument-others 14136 14150	single crystal
+T25	Value-conductivity 14205 14211	40–100
+T26	Unit-conductivity 14212 14219	mS cm−1
+T27	Material-others 14246 14256	β″-alumina
+T28	Argument-others 14235 14245	Commercial
+T29	Value-conductivity 14329 14330	2
+T30	Unit-conductivity 14331 14338	mS cm−1
+T31	Argument-temp 14296 14312	room temperature
+T32	Value-conductivity 14624 14627	3–4
+T33	Unit-conductivity 14628 14635	mS cm−1
+T34	Argument-temp 14636 14655	at room temperature
+T35	Material-others 14579 14586	NASICON
+T36	Argument-others 14599 14620	Ceramatec, Inc. (USA)
+T37	Value-conductivity 15243 15246	0.2
+T38	Unit-conductivity 15247 15254	mS cm−1
+T39	Material-others 15200 15206	Na3PS4
+T40	Argument-others 15194 15199	cubic
+T41	Value-conductivity 15671 15675	0.74
+T42	Unit-conductivity 15676 15683	mS cm−1
+T43	Material-others 15688 15705	94Na3PS4–6Na4SiS4

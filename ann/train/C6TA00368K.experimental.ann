@@ -1,0 +1,32 @@
+T1	Material-final 3130 3150	poly([NH122][STFSI])
+T2	Value-conductivity 3270 3280	3.1 × 10−4
+T3	Unit-conductivity 3281 3287	S cm−1
+T4	Argument-temp 3288 3297	at 120 °C
+T5	Value-conductivity 3372 3384	10−2 to 10−1
+T6	Unit-conductivity 3385 3391	S cm−1
+T7	Material-others 3315 3331	Nafion membranes
+T8	Argument-air 3419 3453	at a humidity of 5% or lower their
+T9	Argument-air 3397 3411	fully hydrated
+T10	Value-conductivity 3477 3489	10−9 to 10−5
+T11	Unit-conductivity 3490 3496	S cm−1
+T12	Value-conductivity 4085 4094	1 × 10−10
+T13	Unit-conductivity 4095 4101	S cm−1
+T14	Argument-temp 4102 4111	at 120 °C
+T15	Material-others 4071 4083	P4VI-co-AMPS
+T16	Material-others 4033 4037	P4VI
+T17	Value-conductivity 4039 4048	2 × 10−11
+T18	Unit-conductivity 4049 4055	S cm−1
+T19	Argument-temp 4056 4065	at 120 °C
+T20	Value-conductivity 4843 4851	3 × 10−4
+T21	Unit-conductivity 4852 4858	S cm−1
+T22	Argument-temp 4859 4868	at 120 °C
+T23	Value-conductivity 5357 5365	6 × 10−6
+T24	Unit-conductivity 5366 5372	S cm−1
+T25	Argument-temp 5373 5447	as the temperature approaches a glass transition temperature of Tg = 62 °C
+T26	Material-others 5507 5580	poly(ethylene glycol) based ammonium, phosphonium and imidazolium samples
+T27	Value-conductivity 5634 5639	10−12
+T28	Unit-conductivity 5640 5646	S cm−1
+T29	Argument-temp 5656 5665	at T = Tg
+T30	Material-final 8526 8546	poly([NH122][STFSI])
+T31	Value-conductivity 8551 8561	2.4 × 10−6
+T32	Unit-conductivity 8562 8568	S cm−1

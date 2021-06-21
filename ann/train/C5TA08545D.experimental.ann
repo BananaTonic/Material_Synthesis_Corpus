@@ -1,0 +1,54 @@
+T3	Value-activation 11083 11090	0.46(5)
+T4	Value-activation 10856 10860	0.19
+T6	Material-final 11073 11076	LTP
+T7	Material-final 6984 6988	LATP
+T8	Material-final 6976 6979	LTP
+T9	Argument-others 6989 7004	single crystals
+T10	Material-final 7030 7034	LATP
+T11	Material-final 7022 7025	LTP
+T12	Argument-others 7035 7050	single crystals
+T13	Value-conductivity 7322 7333	2.81 × 10−6
+T14	Unit-conductivity 7334 7340	S cm−1
+T15	Material-final 7315 7318	LTP
+T16	Value-conductivity 7448 7458	1.6 × 10−3
+T17	Unit-conductivity 7459 7465	S cm−1
+T18	Argument-others 7466 7492	as reported by Arbi et al.
+T19	Material-final 7545 7549	LATP
+T20	Material-final 7710 7714	LATP
+T21	Value-conductivity 9452 9463	1.73 × 10−3
+T22	Unit-conductivity 9464 9470	S cm−1
+T23	Argument-others 9360 9389	incorporation of 0.1 Al3+ pfu
+T24	Material-final 9313 9317	LATP
+T25	Argument-others 9318 9333	single crystals
+T26	Material-final 9031 9035	LATP
+T27	Material-final 8857 8861	LATP
+T28	Material-final 9684 9688	LATP
+T29	Material-final 10122 10130	LTP/LATP
+T30	Argument-others 10131 10139	ceramics
+T31	Material-final 11116 11120	LATP
+T32	Material-final 11108 11111	LTP
+T33	Material-final 11247 11250	LTP
+T34	Material-final 11707 11711	LATP
+T35	Material-final 11785 11789	LATP
+T36	Material-final 12109 12113	LATP
+T37	Material-final 12532 12536	LATP
+T38	Material-final 12941 12945	LATP
+T39	Material-final 13062 13066	LATP
+T40	Material-final 14246 14254	LTP–LATP
+T41	Value-conductivity 13226 13236	3.4 × 10−3
+T42	Unit-conductivity 13237 13243	S cm−1
+T43	Argument-temp 13211 13213	RT
+T44	Argument-others 13072 13079	x = 0.5
+T45	Argument-others 12960 12967	x = 0.5
+T46	Argument-others 12946 12954	crystals
+T47	Unit-conductivity 13014 13020	S cm−1
+T48	Value-conductivity 12994 13013	4.70 (±0.80) × 10−3
+T49	Argument-others 12841 12848	x = 0.4
+T50	Value-conductivity 12856 12875	5.63 (±0.68) × 10−3
+T51	Unit-conductivity 12876 12882	S cm−1
+T52	Value-conductivity 12570 12580	7.7 × 10−3
+T53	Unit-conductivity 12581 12587	S cm−1
+T54	Argument-others 12619 12626	x = 0.4
+T55	Material-final 11629 11640	LTP-NASICON
+T56	Argument-others 10799 10845	diffusion mechanism is limited as a 1D pathway
+T57	Argument-others 10913 10952	to rearrange Li+ in corresponding sites

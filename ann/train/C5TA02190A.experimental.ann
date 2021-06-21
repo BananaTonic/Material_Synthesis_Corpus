@@ -1,0 +1,11 @@
+T1	Material-final 30 58	3DOM Nafion/Cs2.5H0.5PW12O40
+T2	Argument-others 59 68	scaffolds
+T3	Material-final 1128 1140	Nafion/CsHPW
+T4	Argument-others 1156 1180	with 5, 10 and 15% CsHPW
+T5	Material-final 2497 2514	3DOM Nafion/CsHPW
+T6	Argument-others 2515 2528	nanocomposite
+T7	Argument-others 1141 1155	nanocomposites
+T8	Material-final 2714 2731	3DOM Nafion/CsHPW
+T9	Material-final 3045 3062	3DOM Nafion/CsHPW
+T10	Argument-others 3063 3077	catalyst layer
+T11	Material-final 3631 3648	3DOM Nafion/CsHPW

@@ -1,0 +1,12 @@
+T1	Value-conductivity 985 990	8.167
+T2	Unit-conductivity 991 998	mS cm−1
+T3	Argument-temp 999 1018	at room temperature
+T4	Argument-temp 1020 1025	300 K
+T5	Value-activation 933 938	0.137
+T6	Unit-activation 939 941	eV
+T7	Material-final 765 781	Na3SeO4F0.5Cl0.5
+T8	Material-final 691 706	Na3SO4F0.5Cl0.5
+T9	Material-final 27 34	Na3AO4X
+T10	Argument-others 36 53	A = S/Se, X = F/C
+T11	Material-final 555 562	Na3AO4X
+T12	Argument-others 564 590	A = chalcogen, X = halogen

@@ -1,0 +1,5 @@
+T1	Value-conductivity 307 311	0.45
+T2	Unit-conductivity 312 318	S cm−1
+T3	Argument-temp 319 327	at 80 °C
+T4	Material-final 122 126	NICs
+T5	Material-final 85 120	nanoclays of intrinsic conductivity

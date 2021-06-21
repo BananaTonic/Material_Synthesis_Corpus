@@ -1,0 +1,15 @@
+T1	Material-final 170 178	NdBaInO4
+T2	Material-final 180 199	Nd0.9Sr0.1BaInO3.95
+T3	Material-final 249 267	Nd1−xSrxBaInO4−x/2
+T4	Argument-others 269 294	x = 0.0, 0.1, 0.2 and 0.3
+T5	Material-final 332 351	Nd0.9Sr0.1BaInO3.95
+T6	Value-conductivity 356 366	7.7 × 10−4
+T7	Unit-conductivity 367 373	S cm−1
+T8	Argument-temp 374 383	at 858 °C
+T9	Material-final 414 422	NdBaInO4
+T10	Value-conductivity 431 441	3.6 × 10−5
+T11	Unit-conductivity 442 448	S cm−1
+T12	Argument-temp 449 458	at 858 °C
+T13	Material-final 486 505	Nd0.9Sr0.1BaInO3.95
+T14	Material-final 578 597	Nd0.9Sr0.1BaInO3.95
+T15	Material-final 653 661	NdBaInO4

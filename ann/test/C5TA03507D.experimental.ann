@@ -1,0 +1,43 @@
+T1	Value-conductivity 1887 1892	∼10−4
+T2	Unit-conductivity 1893 1899	S cm−1
+T3	Value-conductivity 1839 1844	∼10−2
+T4	Unit-conductivity 1845 1851	S cm−1
+T5	Material-others 1883 1885	GO
+T6	Argument-others 1878 1882	bulk
+T7	Material-others 1787 1789	GO
+T8	Argument-others 1777 1786	monolayer
+T9	Argument-others 1790 1795	sheet
+T10	Material-others 1915 1917	GO
+T11	Argument-others 1904 1914	acidulated
+T12	Value-conductivity 1919 1924	∼10−5
+T13	Unit-conductivity 1925 1931	S cm−1
+T14	Value-conductivity 7533 7545	0.21 ± 0.026
+T15	Unit-conductivity 7546 7552	S cm−1
+T16	Argument-temp 7577 7582	80 °C
+T17	Argument-air 7587 7593	40% RH
+T18	Material-final 7450 7474	ZIF-8@GO/Nafion-1 hybrid
+T19	Argument-others 7475 7483	membrane
+T20	Value-conductivity 14921 14933	0.28 ± 0.058
+T21	Unit-conductivity 14934 14940	S cm−1
+T22	Material-final 14860 14877	ZIF-8@GO/Nafion-1
+T23	Value-conductivity 14997 15002	0.005
+T24	Unit-conductivity 15003 15009	S cm−1
+T25	Material-others 14989 14995	Nafion
+T26	Argument-others 14982 14988	recast
+T27	Argument-temp 14838 14847	at 120 °C
+T28	Argument-air 14852 14858	40% RH
+T29	Value-activation 9745 9749	34.5
+T30	Value-activation 9754 9758	13.2
+T31	Unit-activation 9759 9767	kJ mol−1
+T32	Material-final 9725 9740	ZIF-8@GO/Nafion
+T33	Material-others 9714 9720	Nafion
+T34	Argument-air 9703 9709	40% RH
+T35	Material-final 7883 7900	ZIF-8@GO/Nafion-1
+T36	Value-conductivity 7943 7955	0.28 ± 0.058
+T37	Unit-conductivity 7956 7962	S cm−1
+T38	Argument-temp 7963 7972	at 120 °C
+T39	Argument-air 7977 7983	40% RH
+T40	Material-others 8032 8038	Nafion
+T41	Argument-others 8025 8031	recast
+T42	Value-conductivity 8040 8045	0.005
+T43	Unit-conductivity 8046 8052	S cm−1

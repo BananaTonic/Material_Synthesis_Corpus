@@ -1,0 +1,17 @@
+T1	Value-conductivity 1347 1351	0.01
+T2	Unit-conductivity 1352 1358	S cm−1
+T3	Argument-temp 1376 1385	at 500 °C
+T4	Material-final 27 41	Y-doped BaZrO3
+T5	Argument-others 42 53	electrolyte
+T6	Material-final 217 231	Y-doped BaZrO3
+T7	Material-final 820 833	BaZr1−xYxO3−δ
+T8	Argument-others 835 848	x = 0.10–0.15
+T9	Material-final 859 872	BaZr1−xYxO3−δ
+T10	Argument-others 874 887	x = 0.16–0.25
+T11	Material-final 1081 1086	BZY15
+T12	Material-final 1091 1096	BZY20
+T13	Material-final 1116 1121	BZY10
+T14	Material-final 948 953	BZY10
+T15	Material-final 955 960	BZY15
+T16	Material-final 965 970	BZY20
+T17	Argument-others 1290 1316	Y content is above 15 mol%

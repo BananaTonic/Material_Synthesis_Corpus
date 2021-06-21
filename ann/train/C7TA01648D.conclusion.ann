@@ -1,0 +1,10 @@
+T1	Value-conductivity 273 277	10−4
+T2	Unit-conductivity 278 284	S cm−1
+T3	Argument-temp 285 304	at room temperature
+T4	Value-conductivity 644 648	10−3
+T5	Unit-conductivity 649 655	S cm−1
+T6	Value-activation 333 336	0.3
+T7	Unit-activation 337 339	eV
+T8	Material-final 140 149	Li3O(BH4)
+T10	Material-final 568 585	Li3OCl0.5(BH4)0.5
+T11	Argument-temp 586 605	at room temperature

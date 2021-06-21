@@ -1,0 +1,12 @@
+T1	Value-conductivity 1333 1340	290–510
+T2	Unit-conductivity 1341 1347	S cm−1
+T3	Argument-temp 1348 1361	at 600–900 °C
+T4	Material-final 18 32	Nd2−xSrxNiO4−δ
+T5	Argument-others 34 45	x = 1.0–1.6
+T6	Material-final 734 748	Nd2−xSrxNiO4−δ
+T7	Material-final 1126 1140	Nd2−xSrxNiO4−δ
+T8	Argument-others 1141 1149	ceramics
+T9	Material-final 1405 1419	Nd2−xSrxNiO4−δ
+T10	Material-final 951 965	Nd2−xSrxNiO4−δ
+T11	Argument-others 749 757	ceramics
+T12	Argument-others 1203 1229	under oxidizing conditions

@@ -1,0 +1,9 @@
+T1	Value-conductivity 983 994	1.19 × 10−1
+T2	Unit-conductivity 995 1001	S cm−1
+T3	Argument-air 1002 1015	under 100% RH
+T4	Argument-temp 1016 1025	and 30 °C
+T5	Material-final 915 932	Nafion/HMS-Cys-4%
+T6	Argument-others 933 941	membrane
+T7	Material-final 1114 1131	Nafion/HMS-Asp-4%
+T8	Material-final 1090 1108	Nafion/HMS-Phos-4%
+T9	Material-final 1071 1088	Nafion/HMS-Cys-4%

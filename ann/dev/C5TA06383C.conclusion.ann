@@ -1,0 +1,7 @@
+T1	Material-final 126 137	LW-BaFeO2.5
+T2	Material-final 142 153	HW-BaFeO2.5
+T3	Value-conductivity 339 352	∼10−6 to 10−7
+T4	Unit-conductivity 353 359	S cm−1
+T5	Argument-air 360 378	in dry atmospheres
+T6	Argument-temp 379 406	around ambient temperatures
+T7	Material-final 44 52	BaFeO2.5

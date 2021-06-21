@@ -1,0 +1,15 @@
+T1	Unit-conductivity 883 890	mS cm−1
+T2	Argument-temp 891 900	at 400 °C
+T3	Value-conductivity 880 882	∼2
+T4	Material-final 57 71	Na0.5Bi0.5TiO3
+T5	Argument-others 42 56	acceptor-doped
+T6	Argument-others 72 82	perovskite
+T7	Material-final 485 488	NBT
+T8	Argument-others 470 484	acceptor-doped
+T9	Argument-others 458 465	undoped
+T10	Material-final 580 583	NBT
+T11	Material-final 587 603	Bi-deficient NBT
+T12	Material-final 613 632	Na0.5Bi0.49TiO2.985
+T13	Material-final 634 641	NB0.49T
+T14	Material-final 728 731	NBT
+T15	Argument-others 644 690	Low levels of acceptors (typically &lt; 2 at%)

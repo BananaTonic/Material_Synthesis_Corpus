@@ -1,0 +1,14 @@
+T1	Material-final 98 119	Li1.5Al0.5Ti1.5(PO4)3
+T2	Argument-others 63 97	sol–gel prepared solid electrolyte
+T3	Material-final 120 156	Lithium aluminium titanium phosphate
+T4	Material-final 158 162	LATP
+T5	Unit-conductivity 1213 1219	S cm−1
+T6	Value-conductivity 1202 1212	8.1 × 10−6
+T7	Argument-air 1155 1181	in N2 inert gas atmosphere
+T9	Argument-temp 1112 1117	173 K
+T10	Value-activation 1011 1028	from 0.26 to 0.29
+T11	Unit-activation 1029 1031	eV
+T12	Argument-others 1032 1069	depending on the sintering conditions
+T13	Value-conductivity 1277 1287	3.4 × 10−3
+T14	Unit-conductivity 1288 1294	S cm−1
+T15	Argument-temp 1295 1303	at 293 K

@@ -1,0 +1,10 @@
+T1	Unit-conductivity 350 356	S cm−1
+T2	Value-conductivity 345 349	10−3
+T3	Material-final 1349 1370	Li6.55Ga0.15La3Zr2O12
+T4	Material-final 1438 1459	Li6.55Al0.15La3Zr2O12
+T5	Material-final 1496 1517	Li6.55Al0.15La3Zr2O12
+T6	Material-final 1600 1621	Li6.55Ga0.15La3Zr2O12
+T7	Material-final 1691 1712	Li6.55Al0.15La3Zr2O12
+T8	Material-final 678 707	Al- and Ga-doped Li7La3Zr2O12
+T9	Material-final 1286 1298	Li7La3Zr2O12
+T10	Argument-temp 324 343	at room temperature

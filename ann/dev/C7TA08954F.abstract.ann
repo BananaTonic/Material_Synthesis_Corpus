@@ -1,0 +1,17 @@
+T1	Value-conductivity 994 997	220
+T2	Unit-conductivity 998 1004	S cm−1
+T3	Argument-temp 952 961	At 800 °C
+T4	Material-final 1013 1031	Y0.8Ca0.2BaCo2O5+δ
+T5	Material-final 23 39	Y1−xCaxBaCo2O5+δ
+T6	Material-final 357 373	Y1−xCaxBaCo2O5+δ
+T7	Material-final 375 379	YCBC
+T8	Material-final 892 908	Y1−xCaxBaCo2O5+δ
+T9	Argument-others 381 399	double perovskites
+T10	Material-final 746 750	YCBC
+T11	Material-final 1188 1206	Y0.8Ca0.2BaCo2O5+δ
+T12	Material-final 1532 1548	Y1−xCaxBaCo2O5+δ
+T13	Material-final 1335 1368	Y0.8Ca0.2BaCo2O5+δ/Ce0.9Gd0.1O2−δ
+T14	Argument-others 1369 1386	composite cathode
+T15	Argument-others 1207 1214	cathode
+T16	Argument-others 1523 1531	Ca-doped
+T17	Argument-others 1549 1567	double perovskites

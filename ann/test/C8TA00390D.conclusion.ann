@@ -1,0 +1,7 @@
+T1	Value-activation 505 514	0.09–2.11
+T2	Unit-activation 515 517	eV
+T3	Unit-conductivity 464 470	S cm−1
+T4	Value-conductivity 455 463	8 × 10−2
+T5	Argument-temp 471 480	at 140 °C
+T6	Material-final 342 359	Proton conductors
+T7	Argument-others 360 405	with a low density of insulating alkyl chains

@@ -1,0 +1,5 @@
+T1	Value-conductivity 313 316	2.4
+T2	Unit-conductivity 317 324	mS cm−1
+T3	Argument-temp 341 349	at 80 °C
+T4	Material-final 12 37	Ceramic/polymer composite
+T5	Argument-others 38 56	solid electrolytes

@@ -1,0 +1,14 @@
+T1	Material-final 166 170	LLZO
+T2	Material-final 183 188	LLZTO
+T3	Material-final 201 207	LLBZTO
+T4	Material-final 227 234	LGLBZTO
+T5	Material-final 597 601	LLZO
+T6	Material-final 467 471	LLZO
+T7	Material-final 875 882	LGLBZTO
+T8	Argument-others 861 874	ternary-doped
+T9	Argument-others 190 200	dual-doped
+T10	Argument-others 172 182	mono-doped
+T11	Argument-others 158 165	undoped
+T12	Argument-others 213 226	ternary-doped
+T13	Material-final 933 947	Li|LGLBZTO|LFP
+T14	Material-final 129 141	Li7La3Zr2O12

@@ -1,0 +1,17 @@
+T1	Material-final 63 67	YCBC
+T2	Material-final 37 53	Y1−xCaxBaCo2O5+δ
+T3	Argument-others 54 61	powders
+T4	Argument-others 69 92	x = 0, 0.1, 0.2 and 0.3
+T5	Material-final 105 111	YCBC-0
+T6	Material-final 113 119	YCBC-1
+T7	Material-final 121 127	YCBC-2
+T8	Material-final 133 139	YCBC-3
+T9	Material-final 2013 2017	YCBC
+T10	Material-final 2415 2423	YCBC/GDC
+T11	Material-final 3101 3105	YCBC
+T12	Material-final 3725 3729	YCBC
+T13	Material-final 4138 4142	YCBC
+T14	Material-final 4305 4309	YCBC
+T15	Material-final 5219 5223	YCBC
+T16	Material-final 5633 5637	YCBC
+T17	Argument-others 2424 2441	composite cathode

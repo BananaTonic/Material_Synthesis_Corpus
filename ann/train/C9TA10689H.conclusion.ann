@@ -1,0 +1,13 @@
+T1	Material-final 146 150	SPE1
+T2	Material-final 307 311	SPE1
+T3	Material-final 462 477	LiFePO4/SPEs/Li
+T4	Material-final 503 507	SPE1
+T5	Material-final 906 910	SPE1
+T6	Material-final 593 597	SPEx
+T7	Argument-others 627 634	battery
+T8	Value-conductivity 183 186	0.1
+T9	Unit-conductivity 187 194	mS cm−1
+T10	Argument-temp 195 203	at 25 °C
+T11	Argument-others 478 487	batteries
+T12	Material-final 611 626	LiFePO4/SPE1/Li
+T13	Argument-others 598 605	battery

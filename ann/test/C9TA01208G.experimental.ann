@@ -1,0 +1,17 @@
+T1	Material-final 531 540	P(AA-DAC)
+T2	Material-final 1056 1065	P(AA-DAC)
+T3	Material-final 2709 2718	P(AA-DAC)
+T4	Argument-others 541 557	gel electrolytes
+T5	Material-final 4355 4364	P(AA-DAC)
+T6	Argument-others 4365 4380	gel electrolyte
+T7	Argument-others 1066 1078	electrolytes
+T8	Material-final 1166 1174	PVA/LiCl
+T9	Argument-others 1175 1186	electrolyte
+T10	Material-final 1191 1199	PVA/LiCl
+T11	Argument-others 1200 1215	gel electrolyte
+T12	Material-final 1386 1394	PVA/LiCl
+T13	Argument-others 1395 1406	electrolyte
+T14	Material-final 2723 2731	PVA/LiCl
+T15	Argument-others 2732 2743	electrolyte
+T16	Material-final 4385 4393	PVA/LiCl
+T17	Argument-others 4394 4405	electrolyte

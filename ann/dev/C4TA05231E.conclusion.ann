@@ -1,0 +1,8 @@
+T1	Material-final 67 85	Li10+δGe1+δP2−δS12
+T2	Argument-others 87 99	0 ≤ δ ≤ 0.35
+T3	Value-conductivity 206 217	1.42 × 10−2
+T4	Unit-conductivity 218 224	S cm−1
+T5	Argument-temp 238 246	at 300 K
+T6	Argument-others 291 299	δ = 0.35
+T7	Value-activation 465 467	10
+T8	Unit-activation 468 476	kJ mol−1

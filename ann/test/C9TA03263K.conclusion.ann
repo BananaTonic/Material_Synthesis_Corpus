@@ -1,0 +1,8 @@
+T1	Material-final 680 689	LLZTO/LBO
+T2	Argument-others 690 701	electrolyte
+T3	Material-final 785 807	Li-LLZTO/LBO–LFP + NCM
+T4	Unit-conductivity 763 769	S cm−1
+T5	Value-conductivity 751 762	5.74 × 10−4
+T6	Material-final 509 514	LLZTO
+T7	Material-final 368 372	LLZO
+T8	Argument-others 808 828	hybrid solid battery

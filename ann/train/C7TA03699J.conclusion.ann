@@ -1,0 +1,19 @@
+T1	Unit-conductivity 647 653	S cm−1
+T2	Value-conductivity 635 646	2.32 × 10−4
+T3	Argument-temp 654 662	at 37 °C
+T4	Argument-temp 622 630	at 50 °C
+T5	Unit-conductivity 615 621	S cm−1
+T6	Value-conductivity 603 614	4.95 × 10−4
+T7	Material-final 543 552	PEO–Li–Zr
+T8	Argument-others 553 564	electrolyte
+T9	Material-final 375 384	PEO–Li–Si
+T10	Material-final 386 395	PEO–Li–Ti
+T11	Material-final 401 410	PEO–Li–Zr
+T12	Argument-others 411 423	electrolytes
+T13	Material-final 238 243	SSPEs
+T14	Argument-others 180 237	ionic liquid grafted oxide nanoparticle (IL@NPs) modified
+T15	Material-final 490 497	tPEO–Li
+T16	Argument-others 498 509	electrolyte
+T17	Material-final 704 713	PEO–Li–Zr
+T18	Argument-others 714 725	electrolyte
+T19	Material-final 804 813	PEO–Li–Zr

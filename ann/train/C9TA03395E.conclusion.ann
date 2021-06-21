@@ -1,0 +1,19 @@
+T1	Value-conductivity 675 686	1.15 × 10−4
+T2	Unit-conductivity 687 693	S cm−1
+T3	Material-final 590 599	LLZTO/PEO
+T4	Argument-others 600 621	composite electrolyte
+T5	Material-final 649 662	LLZTO@PDA/PEO
+T6	Material-final 504 517	LLZTO@PDA/PEO
+T7	Argument-others 518 539	composite electrolyte
+T8	Material-final 800 813	LLZTO@PDA/PEO
+T9	Material-final 1518 1531	LLZTO@PDA/PEO
+T10	Argument-others 1532 1565	composite solid-state electrolyte
+T11	Material-final 1628 1637	LLZTO/PEO
+T12	Material-final 1306 1326	LFP|LLZTO@PDA/PEO|Li
+T13	Material-final 837 846	LLZTO/PEO
+T14	Material-final 1095 1114	Li|LLZTO@PDA/PEO|Li
+T15	Material-final 954 963	LLZTO/PEO
+T16	Material-final 888 901	LLZTO@DOP/PEO
+T17	Argument-temp 663 671	at 30 °C
+T18	Material-final 717 726	LLZTO/PEO
+T19	Argument-others 1327 1331	cell

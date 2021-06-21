@@ -1,0 +1,8 @@
+T1	Material-final 416 437	Li7P2.9Mn0.1S10.7I0.3
+T2	Material-final 490 511	Li7P2.9Mn0.1S10.7I0.3
+T3	Argument-others 512 525	glass-ceramic
+T4	Value-conductivity 565 568	5.6
+T5	Unit-conductivity 569 576	mS cm−1
+T6	Argument-temp 577 596	at room temperature
+T7	Material-final 67 88	Li7P2.9Mn0.1S10.7I0.3
+T8	Argument-others 89 109	superionic conductor

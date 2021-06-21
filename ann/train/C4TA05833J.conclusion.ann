@@ -1,0 +1,12 @@
+T1	Material-final 326 421	N-[2-(2-(2-(methacryloyloxy)ethoxy)ethoxy)ethyl]-N-methylpyrrolidinium bis(fluorosulfonyl)imide
+T2	Value-conductivity 794 804	8.0 × 10−7
+T3	Unit-conductivity 805 811	S cm−1
+T4	Argument-temp 812 820	at 25 °C
+T5	Argument-temp 1049 1054	25 °C
+T6	Unit-conductivity 1041 1047	S cm−1
+T7	Value-conductivity 1024 1040	higher than 10−4
+T8	Material-final 622 657	semi-IPN with 20 wt% of NBR content
+T9	Material-final 822 989	Semi-IPNs of the same composition filled with 44 wt% of N-propyl-N-methylpyrrolidinium bis(fluorosulfonyl)imide and 12 wt% of lithium bis(trifluoromethylsulfonyl)imide
+T10	Value-conductivity 1456 1472	up to 1.3 × 10−4
+T11	Unit-conductivity 1473 1479	S cm−1
+T12	Argument-temp 1480 1488	at 25 °C

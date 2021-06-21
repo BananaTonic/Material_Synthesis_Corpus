@@ -1,0 +1,20 @@
+T1	Value-conductivity 834 838	10−4
+T2	Unit-conductivity 839 845	S cm−1
+T3	Value-conductivity 1451 1461	1.6 × 10−4
+T4	Unit-conductivity 1476 1482	S cm−1
+T5	Value-conductivity 1251 1255	10−3
+T6	Unit-conductivity 1256 1262	S cm−1
+T7	Unit-conductivity 3528 3534	S cm−1
+T8	Value-conductivity 3538 3548	1.3 × 10−5
+T9	Unit-conductivity 3549 3555	S cm−1
+T10	Value-conductivity 14437 14441	10−4
+T11	Value-conductivity 3517 3527	1.6 × 10−4
+T12	Unit-conductivity 14442 14448	S cm−1
+T13	Material-final 790 817	organic lithium electrolyte
+T14	Material-final 1057 1065	LiCl·DMF
+T15	Argument-others 1274 1334	upon loss of this liquid binding layer upon excessive drying
+T16	Value-conductivity 1465 1475	1.3 × 10−5
+T17	Argument-temp 14462 14470	at 250 K
+T18	Material-final 13417 13425	LiCl·DMF
+T19	Material-final 3295 3303	DMF·LiCl
+T20	Argument-others 3437 3465	liquid binding layer is lost

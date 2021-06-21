@@ -1,0 +1,23 @@
+T1	Value-conductivity 1421 1432	3.19 × 10−1
+T2	Unit-conductivity 1433 1439	S cm−1
+T3	Argument-temp 1440 1448	at 700 K
+T4	Value-activation 1663 1667	0.30
+T5	Unit-activation 1668 1670	eV
+T6	Value-activation 1675 1679	0.24
+T7	Unit-activation 1680 1682	eV
+T8	Value-activation 1918 1922	0.05
+T9	Unit-activation 1923 1925	eV
+T10	Material-final 1404 1411	Li2SiP2
+T11	Material-final 72 79	Li2SiP2
+T12	Material-final 1585 1592	Li2SiP2
+T13	Material-final 497 504	Li2SiP2
+T14	Material-final 814 821	Li2SiP2
+T15	Material-final 986 993	Li2SiP2
+T16	Material-final 1707 1714	Li2SiP2
+T17	Argument-others 1687 1691	pure
+T18	Argument-others 1696 1706	10%  doped
+T19	Material-final 1785 1792	Li2SiP2
+T20	Argument-others 1780 1784	pure
+T21	Argument-others 1580 1584	pure
+T22	Argument-others 28 71	trivalently doped lithium phosphidosilicate
+T23	Argument-others 472 496	phosphidosilicate system

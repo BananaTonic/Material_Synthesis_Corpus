@@ -1,0 +1,41 @@
+T1	Value-conductivity 7396 7400	4500
+T2	Unit-conductivity 7401 7407	S cm−1
+T4	Unit-conductivity 7483 7489	S cm−1
+T5	Value-conductivity 7008 7012	4500
+T6	Unit-conductivity 7013 7019	S cm−1
+T7	Value-conductivity 6924 6928	±225
+T8	Unit-conductivity 6929 6935	S cm−1
+T11	Value-conductivity 6572 6576	4000
+T12	Unit-conductivity 6577 6583	S cm−1
+T13	Value-conductivity 5684 5688	4011
+T14	Unit-conductivity 5689 5695	S cm−1
+T16	Unit-conductivity 5644 5650	S cm−1
+T17	Argument-others 5651 5671	after acid treatment
+T18	Value-conductivity 4345 4355	3250 ± 122
+T19	Unit-conductivity 4356 4362	S cm−1
+T20	Value-conductivity 4390 4400	4430 ± 168
+T21	Unit-conductivity 4401 4407	S cm−1
+T22	Argument-others 4368 4388	after acid treatment
+T23	Value-conductivity 1978 1982	4471
+T24	Unit-conductivity 1983 1989	S cm−1
+T25	Value-conductivity 2258 2262	4000
+T26	Unit-conductivity 2263 2269	S cm−1
+T27	Material-final 634 643	PEDOT:OTf
+T28	Material-final 384 393	PEDOT:OTf
+T29	Argument-others 394 398	film
+T30	Material-others 2220 2223	ITO
+T31	Material-final 4327 4336	PEDOT:Tof
+T32	Argument-others 5418 5462	use of the longest alcohol trialled, hexanol
+T33	Material-final 7035 7044	PEDOT:OTf
+T35	Material-final 7385 7394	PEDOT:OTf
+T36	Material-final 7345 7354	PEDOT:OTf
+T37	Argument-others 1721 1759	lowest concentration of 3 wt% Fe(OTf)3
+T38	Argument-others 4337 4343	before
+T39	Argument-others 5696 5707	for ethanol
+T40	Argument-air 6465 6471	vacuum
+T41	Argument-air 6599 6645	upon pressure increase to atmospheric pressure
+T42	Argument-air 6718 6741	under vacuum conditions
+T43	Argument-others 6689 6717	control of the water content
+T44	Material-others 7463 7466	ITO
+T3	Value-conductivity 5639 5643	2655
+T9	Value-conductivity 7478 7482	4000

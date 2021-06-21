@@ -1,0 +1,7 @@
+T1	Value-conductivity 454 465	1.79 × 10−2
+T2	Unit-conductivity 466 472	S cm−1
+T3	Material-final 349 362	His8.2⊂VNU-23
+T7	Material-final 404 417	His8.2⊂VNU-23
+T8	Argument-air 504 510	85% RH
+T9	Argument-temp 515 520	95 °C
+T10	Argument-time 559 594	without any loss for at least 120 h

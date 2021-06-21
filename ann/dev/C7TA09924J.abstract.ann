@@ -1,0 +1,14 @@
+T1	Unit-conductivity 1169 1175	S cm−1
+T2	Value-conductivity 1157 1168	1.35 × 10−5
+T3	Argument-temp 1176 1185	at 200 °C
+T4	Value-activation 1214 1218	0.53
+T5	Unit-activation 1219 1221	eV
+T6	Material-final 605 608	NHP
+T7	Material-final 593 603	NaHf2P3O12
+T8	Material-final 998 1001	NHP
+T11	Material-final 722 725	NHP
+T12	Material-final 1117 1120	NHP
+T13	Argument-others 1002 1012	thin films
+T14	Argument-others 1121 1126	films
+T15	Argument-others 1329 1339	thin films
+T16	Argument-others 1266 1273	pellets

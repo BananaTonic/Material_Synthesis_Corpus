@@ -1,0 +1,2 @@
+Conclusions
+In summary, an (Na2O + NaF)–TiO2–B2O3–P2O5–ZrF4 (NTBPZ) glass–ceramic electrolyte with an ionic conductivity up to 3 × 10−5 S cm−1 at room temperature is realized for the first time. The conduction activation energy of this electrolyte is 13.64 kJ mol−1. In addition, the NTBPZ glass–ceramic electrolyte has an excellent thermal stability below 500 °C and chemical stability under ambient conditions. The electrolyte is made with low-cost raw materials and simple preparation processes.

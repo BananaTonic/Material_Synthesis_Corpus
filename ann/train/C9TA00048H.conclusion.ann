@@ -1,0 +1,20 @@
+T1	Unit-conductivity 805 811	S cm−1
+T2	Value-conductivity 794 804	1.5 × 10−2
+T3	Value-conductivity 828 836	5 × 10−3
+T4	Unit-conductivity 837 843	S cm−1
+T5	Material-final 12 17	NZSPx
+T6	Argument-others 19 28	x = 0–0.6
+T7	Material-final 199 204	NZSPx
+T8	Argument-others 205 213	ceramics
+T9	Material-final 307 312	NZSPx
+T10	Argument-others 323 344	from x = 0 to x = 0.4
+T11	Argument-others 360 383	from x = 0.4 to x = 0.6
+T12	Argument-temp 759 767	At 25 °C
+T13	Material-final 769 776	NZSP0.4
+T14	Material-final 980 993	Na/NZSP0.4/Na
+T15	Material-final 1175 1182	NZSP0.4
+T16	Material-final 1220 1227	NZSP0.4
+T17	Argument-others 1228 1239	electrolyte
+T18	Material-final 1353 1398	NVP–NZSP0.4–carbon/NZSP0.4/NVP–NZSP0.4–carbon
+T21	Material-final 1244 1247	NVP
+T24	Argument-others 994 1008	symmetric cell

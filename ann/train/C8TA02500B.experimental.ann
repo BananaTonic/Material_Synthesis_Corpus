@@ -1,0 +1,24 @@
+T1	Material-final 30 53	phosphorylated graphene
+T2	Material-final 64 67	PGM
+T3	Material-final 194 197	PGM
+T4	Material-final 728 731	PGM
+T5	Material-final 820 827	PGM-x-y
+T6	Argument-others 829 905	where x and y represent the amount of ATMP (g) and the reaction times (hour)
+T8	Material-final 1485 1488	PGM
+T9	Material-final 2496 2499	PGM
+T10	Material-final 2440 2443	PGM
+T11	Material-final 3214 3217	PGM
+T12	Material-final 3461 3464	PGM
+T13	Material-final 3607 3610	PGM
+T14	Material-final 4182 4185	PGM
+T15	Material-final 2559 2582	Phosphorylated graphene
+T16	Material-final 2590 2594	PGFs
+T17	Argument-others 2583 2588	films
+T18	Argument-others 54 62	monolith
+T19	Material-final 936 959	phosphorylated graphene
+T20	Argument-others 960 964	film
+T21	Material-final 966 969	PGF
+T22	Material-final 1421 1424	PGF
+T23	Material-final 2723 2744	Nafion–PG film–Nafion
+T25	Material-final 3007 3014	N–PGF–N
+T26	Material-final 2746 2753	N–PGF–N

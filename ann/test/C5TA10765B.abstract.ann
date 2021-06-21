@@ -1,0 +1,13 @@
+T1	Material-final 921 938	[Zn3(tz)2(bdc)2]n
+T2	Material-final 940 946	FJU-31
+T3	Argument-others 948 998	Htz = 1H-1,2,3-triazole, H2bdc = terephthalic acid
+T4	Value-activation 1642 1646	0.18
+T5	Unit-activation 1647 1649	eV
+T6	Material-final 1474 1483	FJU-31@Hq
+T7	Value-conductivity 1594 1605	2.65 × 10−4
+T8	Unit-conductivity 1606 1612	S cm−1
+T9	Argument-others 916 920	FMOF
+T10	Argument-others 1212 1217	FMOFs
+T11	Material-final 1218 1234	Zn3(tz)2(bdc)2@G
+T12	Material-final 1236 1244	FJU-31@G
+T13	Argument-others 1246 1302	G = hydroquinone (Hq), cyclohexanol (Ch) or butanol (Bu)

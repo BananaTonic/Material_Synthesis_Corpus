@@ -1,0 +1,17 @@
+T1	Material-final 78 84	QPAF-4
+T2	Material-final 547 553	QPAF-4
+T3	Material-final 856 862	QPAF-4
+T4	Material-final 357 363	QPAF-4
+T5	Material-final 1074 1080	QPAF-4
+T6	Material-final 1392 1398	QPAF-4
+T7	Material-final 1582 1588	QPAF-4
+T8	Argument-others 1589 1597	membrane
+T9	Argument-others 1399 1407	membrane
+T10	Argument-others 1081 1090	membranes
+T11	Argument-others 863 871	membrane
+T12	Argument-others 554 563	membranes
+T13	Argument-others 364 374	copolymers
+T14	Value-conductivity 785 789	86.2
+T15	Unit-conductivity 790 797	mS cm−1
+T16	Argument-others 798 806	in water
+T17	Argument-temp 807 815	at 80 °C

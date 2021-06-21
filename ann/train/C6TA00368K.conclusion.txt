@@ -1,0 +1,7 @@
+4Conclusions
+In summary, we have designed, synthesized and characterized a novel polymeric protic ionic liquid for anhydrous proton transport. We have shown that:
+(1) The comb-like polymer electrolyte contains polymeric anions and highly dissociable cations which exhibit distinctly different molecular dynamics at all temperatures studied. The DSC results show two Tgs, which are attributed to the glass transition of the cations and polymeric anions, respectively.
+(2) The polymer exhibits a promising anhydrous proton conductivity of 3.1 × 10−4 S cm−1 at 120 °C. To the best of our knowledge, this value is amongst the highest anhydrous conductivities for all-solid polymeric PIL proton-conductors reported so far.
+(3) The high proton conductivity observed for the polymer system correlates with the highly dissociable cations which form nano-scale interconnecting channels with a diameter of 10 ± 3.0 nm and thereby facilitate rapid proton transport.
+(4) The cation mobility is decoupled from the dynamics of the polymer backbone. Rapid proton transport (together with the whole cation) has been observed at 85 °C which is well below the Tg of the polymer backbone. This feature endows the material with a high proton conductivity and a high mechanical strength simultaneously, which is highly desirable for practical application as PEMs.
+Through this work, we show that careful design of the polymer chemistry as well as the resulting nano-scale structure are both critical to the development of a high-performance anhydrous proton conductor.

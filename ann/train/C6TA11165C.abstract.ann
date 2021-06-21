@@ -1,0 +1,6 @@
+T1	Unit-conductivity 575 581	S cm−1
+T2	Value-conductivity 564 574	1.3 × 10−3
+T3	Argument-temp 525 541	room-temperature
+T4	Argument-others 332 357	hybrid solid electrolytes
+T5	Material-final 372 404	PEO20–NaClO4–5% SiO2–x% Emim FSI
+T6	Argument-others 406 416	x = 50, 70

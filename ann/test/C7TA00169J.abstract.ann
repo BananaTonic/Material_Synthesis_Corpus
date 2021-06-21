@@ -1,0 +1,11 @@
+T1	Value-conductivity 1406 1417	1.25 × 10−3
+T2	Unit-conductivity 1418 1424	S cm−1
+T3	Argument-temp 1425 1433	at 50 °C
+T4	Unit-conductivity 1056 1062	S cm−1
+T5	Value-conductivity 1044 1055	1.62 × 10−3
+T6	Argument-temp 1063 1071	at 80 °C
+T7	Material-final 808 815	JUC-200
+T8	Material-final 1255 1268	JUC-200@PVA-X
+T9	Material-final 1340 1354	JUC-200@PVA-10
+T10	Material-final 1151 1158	JUC-200
+T11	Material-final 919 926	JUC-200

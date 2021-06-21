@@ -1,0 +1,8 @@
+T1	Argument-air 658 675	in humidified air
+T2	Argument-temp 647 656	at 800 °C
+T3	Unit-conductivity 640 646	S cm−1
+T4	Value-conductivity 634 639	∼10−4
+T5	Material-final 276 290	LaNb0.9Sb0.1O4
+T6	Material-final 295 309	LaNb0.7Sb0.3O4
+T7	Material-final 208 230	lanthanum orthoniobate
+T8	Argument-others 231 274	substituted with 10 and 30 mol% of antimony

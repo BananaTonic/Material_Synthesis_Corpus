@@ -1,0 +1,17 @@
+T1	Value-conductivity 1030 1033	3.8
+T2	Unit-conductivity 1034 1041	mS cm−1
+T3	Value-conductivity 1158 1160	30
+T4	Unit-conductivity 1161 1167	S cm−1
+T5	Value-conductivity 1172 1175	100
+T6	Unit-conductivity 1176 1182	S cm−1
+T7	Argument-temp 1183 1192	at 800 °C
+T8	Material-final 985 988	LFM
+T9	Material-final 965 983	La0.95Fe0.8Mg0.2O3
+T10	Material-final 957 963	LaFeO3
+T11	Argument-others 944 956	B-site doped
+T12	Material-final 1232 1236	LFMT
+T13	Material-final 1209 1230	La0.95Fe0.8Mg0.05TiO3
+T14	Material-final 1242 1246	LFNT
+T15	Material-final 1280 1284	LFNT
+T16	Material-final 749 753	LFNT
+T17	Material-final 721 747	La0.95Fe0.80Ni0.05Ti0.15O3

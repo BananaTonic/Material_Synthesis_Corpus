@@ -1,0 +1,8 @@
+T1	Material-final 56 106	sulfonated multi-block poly(arylene ether sulfone)
+T2	Material-final 249 303	block sulfonated poly(arylene ether sulfone) copolymer
+T3	Material-final 305 310	SPAES
+T4	Argument-temp 633 641	at 80 °C
+T5	Argument-air 600 617	at 90% and 40% RH
+T6	Value-conductivity 578 582	0.48
+T7	Value-conductivity 587 592	0.035
+T8	Unit-conductivity 593 599	S cm−1

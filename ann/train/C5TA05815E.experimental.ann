@@ -1,0 +1,12 @@
+T1	Material-final 19444 19451	LSFCr-3
+T2	Value-conductivity 19481 19485	10−2
+T3	Unit-conductivity 19486 19492	S cm−1
+T4	Argument-temp 19493 19506	at 700–800 °C
+T5	Argument-temp 23053 23062	at 800 °C
+T6	Material-final 23002 23009	LSFCr-3
+T7	Value-conductivity 23023 23028	0.032
+T8	Value-conductivity 23030 23035	0.011
+T9	Value-conductivity 23040 23045	0.004
+T10	Unit-conductivity 23046 23052	S cm−1
+T11	Argument-temp 23064 23070	750 °C
+T12	Argument-temp 23075 23081	700 °C

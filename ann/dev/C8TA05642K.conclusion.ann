@@ -1,0 +1,9 @@
+T1	Value-conductivity 502 513	4.31 × 10−5
+T2	Unit-conductivity 514 520	S cm−1
+T3	Argument-temp 521 529	at 30 °C
+T4	Material-final 482 490	HSPE-1-8
+T5	Material-final 679 694	Li/HSPE-1-8/LFP
+T6	Material-final 1152 1167	Li/HSPE-1-8/LFP
+T7	Material-final 603 610	P-PEGDA
+T8	Argument-others 1168 1172	cell
+T9	Argument-others 695 700	cells

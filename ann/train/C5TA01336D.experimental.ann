@@ -1,0 +1,28 @@
+T1	Material-final 2952 2971	Nd0.9Sr0.1BaInO3.95
+T2	Argument-temp 2972 2981	at 858 °C
+T3	Value-conductivity 2987 2997	7.3 × 10−3
+T4	Unit-conductivity 2998 3004	S cm−1
+T5	Value-conductivity 3009 3019	7.7 × 10−4
+T6	Unit-conductivity 3020 3026	S cm−1
+T7	Material-final 3067 3075	NdBaInO4
+T8	Value-conductivity 3076 3086	1.0 × 10−3
+T9	Unit-conductivity 3087 3093	S cm−1
+T10	Value-conductivity 3098 3108	3.6 × 10−5
+T11	Unit-conductivity 3109 3115	S cm−1
+T12	Material-final 3182 3190	NdBaInO4
+T13	Material-final 3158 3177	Nd0.9Sr0.1BaInO3.95
+T14	Value-conductivity 3213 3223	6.5 × 10−3
+T15	Value-conductivity 3228 3238	9.6 × 10−4
+T16	Unit-conductivity 3239 3245	S cm−1
+T17	Argument-temp 3261 3270	at 858 °C
+T18	Material-final 3344 3363	Nd0.9Sr0.1BaInO3.95
+T19	Value-activation 3379 3388	0.795(10)
+T20	Value-activation 3394 3399	0.673
+T21	Unit-activation 3400 3402	eV
+T22	Value-activation 3369 3377	0.685(7)
+T23	Material-final 11129 11148	Nd0.9Sr0.1BaInO3.95
+T24	Value-activation 11150 11159	0.795(10)
+T25	Unit-activation 11160 11162	eV
+T26	Material-final 11178 11186	NdBaInO4
+T27	Value-activation 11188 11195	0.91(4)
+T28	Unit-activation 11196 11198	eV

@@ -1,0 +1,28 @@
+T1	Material-final 27 49	La0.8Sr0.2Ga0.8Mg0.2O3
+T2	Material-final 148 152	LSGM
+T3	Material-final 124 146	La0.8Sr0.2Ga0.8Mg0.2O3
+T4	Material-final 488 492	LSGM
+T5	Material-start 1396 1400	LSGM
+T6	Material-start 834 838	LSGM
+T8	Material-final 352 356	LSGM
+T9	Material-final 392 396	LSGM
+T11	Material-final 1333 1337	LSGM
+T12	Material-final 1459 1463	LSGM
+T13	Material-final 1129 1133	LSGM
+T16	Value-conductivity 1503 1509	∼0.075
+T17	Unit-conductivity 1510 1516	S cm−1
+T18	Argument-temp 1517 1526	at 800 °C
+T19	Argument-others 1464 1473	membranes
+T20	Argument-others 50 61	electrolyte
+T21	Argument-others 62 71	membranes
+T22	Argument-others 397 406	membranes
+T23	Argument-others 595 606	electrolyte
+T24	Argument-others 607 616	membranes
+T25	Argument-others 839 846	powders
+T26	Argument-others 1077 1085	deposits
+T27	Argument-others 1134 1141	deposit
+T28	Argument-others 1338 1345	deposit
+T29	Argument-others 1592 1603	electrolyte
+T30	Argument-others 1604 1613	membranes
+T31	Argument-others 1401 1408	powders
+T32	Argument-others 749 758	membranes

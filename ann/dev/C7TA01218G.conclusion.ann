@@ -1,0 +1,9 @@
+T1	Material-final 570 583	PSF-QuOH 2.23
+T2	Argument-others 584 592	membrane
+T3	Material-final 135 143	PSF-QuOH
+T4	Argument-others 144 153	membranes
+T5	Material-final 296 304	PSF-QuOH
+T6	Argument-others 305 309	AEMs
+T7	Value-conductivity 630 632	35
+T8	Unit-conductivity 633 640	mS cm−1
+T9	Argument-temp 641 649	at 20 °C

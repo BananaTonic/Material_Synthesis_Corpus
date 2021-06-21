@@ -1,0 +1,2 @@
+An anion-conductive microporous membrane composed of a rigid ladder polymer with a spirobiindane backboneElectronic supplementary information (ESI) available: Materials and methods, experimental details and analytical data. See DOI: 10.1039/c6ta07576b
+A free-standing membrane that consists of a newly synthesized spirobiindane-based microporous polymer carrying trimethylammonium hydroxide groups exhibited a good OH− conductivity of 65 mS cm−1 at 80 °C under 100% relative humidity, which demonstrates its potential for use in solid-state alkaline fuel cells.

@@ -1,0 +1,11 @@
+T1	Value-conductivity 800 810	5.2 × 10−3
+T2	Unit-conductivity 811 817	S cm−1
+T3	Argument-temp 818 826	at 30 °C
+T4	Value-conductivity 979 989	9.6 × 10−6
+T5	Unit-conductivity 990 996	S cm−1
+T6	Argument-temp 997 1005	at 30 °C
+T7	Argument-others 916 968	obtained the direction perpendicular to the freezing
+T8	Argument-others 827 868	in the direction parallel to the freezing
+T9	Material-final 17 70	ionic liquid-based nanocomposite polymer electrolytes
+T10	Material-final 469 535	ionic liquid (ILs)-based nanocomposite polymer electrolytes (NCPE)
+T11	Material-final 715 729	ILs-based NCPE

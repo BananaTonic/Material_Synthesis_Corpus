@@ -1,0 +1,7 @@
+T1	Value-conductivity 121 125	0.74
+T2	Unit-conductivity 126 133	mS cm−1
+T3	Argument-others 138 145	x = 0.1
+T4	Argument-temp 147 155	at 30 °C
+T5	Argument-others 85 99	glass-ceramics
+T6	Material-final 100 119	xNaI·(1 − x)Na3SbS4
+T7	Argument-others 58 79	superionic conductors

@@ -1,0 +1,12 @@
+T1	Material-final 422 427	NTBPZ
+T2	Material-final 565 570	NTBPZ
+T3	Argument-others 571 584	glass ceramic
+T4	Material-final 388 420	(Na2O + NaF)–TiO2–B2O3–P2O5–ZrF4
+T5	Value-activation 499 503	13.9
+T6	Unit-activation 504 512	kJ mol−1
+T7	Argument-temp 591 607	room-temperature
+T8	Value-conductivity 638 646	3 × 10−5
+T9	Unit-conductivity 647 653	S cm−1
+T10	Material-final 672 677	NTBPZ
+T11	Material-final 803 808	NTBPZ
+T12	Argument-others 678 689	electrolyte

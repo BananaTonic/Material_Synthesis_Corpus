@@ -1,0 +1,26 @@
+T1	Material-final 1312 1317	c-EME
+T2	Material-final 3618 3623	EME-1
+T3	Material-final 3625 3630	EME-2
+T4	Material-final 3632 3637	EME-3
+T5	Material-final 4019 4027	c-EME-5%
+T6	Material-final 4029 4038	c-EME-10%
+T7	Material-final 4040 4049	c-EME-15%
+T8	Material-final 4055 4064	c-EME-20%
+T9	Material-final 3642 3647	EME-4
+T10	Material-final 1304 1307	EME
+T11	Material-final 3596 3600	EMEs
+T12	Material-final 2433 2437	EMEs
+T13	Material-final 2442 2448	c-EMEs
+T14	Material-final 4001 4007	c-EMEs
+T15	Material-final 6607 6611	EMEs
+T16	Material-final 6849 6853	EMEs
+T17	Material-final 7224 7233	Li/EME/SS
+T18	Material-final 7662 7671	Li/EME/Li
+T19	Material-final 8110 8119	Li/EME/Li
+T20	Material-final 8314 8323	Li/EME/Li
+T21	Material-final 9022 9036	LiFePO4/EME/Li
+T22	Material-final 8975 8978	EME
+T23	Argument-others 7672 7676	cell
+T24	Argument-others 8120 8135	symmetric cells
+T25	Argument-others 8324 8329	cells
+T26	Argument-others 9037 9041	cell

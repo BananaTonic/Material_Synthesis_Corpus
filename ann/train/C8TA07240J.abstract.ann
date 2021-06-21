@@ -1,0 +1,8 @@
+T1	Value-conductivity 877 880	4.5
+T2	Unit-conductivity 881 888	mS cm−1
+T3	Argument-temp 889 897	at 25 °C
+T4	Value-activation 940 944	0.16
+T5	Unit-activation 945 947	eV
+T6	Material-final 811 837	Li6.25PTe0.125S5.125Cl0.75
+T7	Material-final 90 98	Li6PS5Cl
+T8	Material-final 638 646	Li6PS5Cl

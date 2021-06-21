@@ -1,0 +1,10 @@
+T1	Value-conductivity 800 804	84.9
+T2	Unit-conductivity 805 812	mS cm−1
+T3	Argument-temp 813 821	at 300 K
+T4	Material-final 721 725	LCPS
+T5	Material-final 223 231	Li2CuPS4
+T6	Material-final 233 237	LCPS
+T7	Material-final 466 470	LCPS
+T8	Material-final 357 361	LCPS
+T9	Material-final 2 10	Li2CuPS4
+T10	Argument-others 11 31	superionic conductor

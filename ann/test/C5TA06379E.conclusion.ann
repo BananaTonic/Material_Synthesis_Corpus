@@ -1,0 +1,8 @@
+T1	Material-final 13 32	Li1+xAlxTi2−x(PO4)3
+T2	Value-activation 681 685	0.26
+T3	Unit-activation 686 688	eV
+T4	Value-activation 841 861	from 0.33 eV to 0.37
+T5	Unit-activation 862 864	eV
+T6	Argument-temp 534 566	at temperatures lower than 215 K
+T7	Argument-others 594 630	Li ion transport through the lattice
+T8	Argument-others 757 780	grain boundary response

@@ -1,0 +1,12 @@
+T1	Value-conductivity 1113 1123	6.3 × 10−5
+T2	Unit-conductivity 1124 1130	S cm−1
+T3	Value-conductivity 1134 1144	1.1 × 10−4
+T4	Unit-conductivity 1145 1151	S cm−1
+T5	Material-final 605 618	LLZTO@PDA/PEO
+T6	Argument-others 619 630	electrolyte
+T7	Argument-others 595 604	composite
+T8	Material-final 20 45	Li6.4La3Zr1.4Ta0.6O12/PEO
+T9	Argument-others 2 19	dopamine modified
+T10	Argument-others 46 69	solid-state electrolyte
+T11	Argument-temp 1089 1097	at 30 °C
+T12	Argument-others 1015 1041	With dopamine modification

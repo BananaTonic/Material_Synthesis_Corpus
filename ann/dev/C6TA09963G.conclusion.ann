@@ -1,0 +1,37 @@
+T1	Material-final 925 937	La5.5MoO11.2
+T2	Material-final 946 954	Yb6MoO12
+T3	Argument-others 955 965	polymorphs
+T4	Argument-others 972 984	rhombohedral
+T5	Argument-others 986 989	R3̄
+T6	Argument-others 995 1003	bixbyite
+T7	Argument-others 1005 1009	Ia3̄
+T8	Material-final 1126 1139	La5.5MoO11.25
+T9	Material-final 1153 1163	Yb6MoO12−δ
+T10	Argument-others 1164 1169	(Ia3̄
+T11	Argument-others 1144 1152	bixbyite
+T12	Material-final 1229 1237	Yb6MoO12
+T13	Argument-others 1224 1227	R3̄
+T14	Argument-others 1210 1222	Rhombohedral
+T15	Material-final 1356 1369	La5.5MoO11.25
+T16	Value-conductivity 1439 1447	2 × 10−4
+T17	Unit-conductivity 1448 1454	S cm−1
+T18	Argument-others 1348 1355	undoped
+T19	Argument-others 1418 1430	rhombohedral
+T20	Argument-others 1490 1493	R3̄
+T21	Argument-others 1476 1488	rhombohedral
+T22	Material-final 1495 1503	Yb6MoO12
+T23	Argument-air 1504 1510	in air
+T24	Argument-temp 1511 1520	at 600 °C
+T25	Value-conductivity 1524 1532	1 × 10−4
+T26	Unit-conductivity 1533 1539	S cm−1
+T27	Argument-others 1552 1560	bixbyite
+T28	Material-final 1561 1571	Yb6MoO12−δ
+T29	Argument-temp 1572 1581	at 600 °C
+T30	Value-conductivity 1585 1593	1 × 10−5
+T31	Unit-conductivity 1594 1600	S cm−1
+T32	Material-final 1782 1794	Ln6−xMoO12−δ
+T33	Argument-others 1796 1831	Ln = Ho, Er, Tm, Yb, Lu; x = 0, 0.5
+T34	Material-final 766 778	Ln6−xMoO12−δ
+T35	Argument-others 780 807	Ln = Er, Tm, Yb; x = 0, 0.5
+T36	Material-final 66 78	Ln6−xMoO12−δ
+T37	Argument-others 80 127	Ln = La, Gd, Dy, Ho, Er, Tm, Yb, Lu; x = 0, 0.5

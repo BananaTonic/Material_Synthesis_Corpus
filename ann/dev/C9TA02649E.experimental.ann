@@ -1,0 +1,39 @@
+T1	Value-conductivity 20734 20745	6.88 × 10−2
+T2	Unit-conductivity 20746 20752	S cm−1
+T3	Value-conductivity 20756 20767	2.03 × 10−2
+T4	Unit-conductivity 20768 20774	S cm−1
+T5	Argument-others 20775 20781	for Na
+T6	Value-conductivity 20786 20797	5.16 × 10−4
+T7	Unit-conductivity 20798 20804	S cm−1
+T8	Value-conductivity 20808 20816	1 × 10−6
+T9	Unit-conductivity 20817 20823	S cm−1
+T10	Argument-others 20824 20830	for Li
+T11	Value-conductivity 21055 21064	2 × 10−12
+T12	Unit-conductivity 21065 21071	S cm−1
+T13	Unit-conductivity 21150 21156	S cm−1
+T14	Argument-others 21075 21078	Li+
+T15	Value-conductivity 21097 21107	2.4 × 10−8
+T16	Unit-conductivity 21108 21114	S cm−1
+T17	Argument-others 21118 21121	Li+
+T18	Value-conductivity 21139 21149	1.2 × 10−4
+T19	Argument-others 21160 21163	Li+
+T20	Value-conductivity 21180 21188	4 × 10−7
+T21	Unit-conductivity 21189 21195	S cm−1
+T22	Argument-others 21199 21202	Na+
+T23	Unit-conductivity 21256 21262	S cm−1
+T24	Unit-conductivity 21298 21304	S cm−1
+T25	Argument-others 21266 21269	Na+
+T26	Argument-others 21308 21311	Na+
+T27	Value-conductivity 21247 21255	4 × 10−3
+T28	Value-conductivity 21286 21297	1.16 × 10−3
+T29	Material-final 20686 20710	FeF2.2(OH)0.64O0.08□0.08
+T30	Material-final 20719 20732	FeF2.2(OH)0.8
+T31	Material-final 20915 20939	FeF2.2(OH)0.64O0.08□0.08
+T32	Material-others 21039 21053	α-Li6Zn(P2O7)2
+T33	Material-others 21083 21095	FeF3·0.33H2O
+T34	Material-others 21126 21137	Li10GeP2S12
+T35	Material-others 21168 21178	Na3TiP3O9N
+T36	Material-others 21220 21245	Na3.4Sc2(SiO4)0.4(PO4)2.6
+T37	Argument-others 21207 21219	NASICON-type
+T38	Material-others 21277 21284	Na3PSe4
+T39	Material-final 21362 21375	FeF2.2(OH)0.8

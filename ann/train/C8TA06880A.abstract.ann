@@ -1,0 +1,10 @@
+T1	Value-conductivity 989 999	2.2 × 10−5
+T2	Unit-conductivity 1000 1006	S cm−1
+T3	Argument-temp 976 985	at 280 °C
+T4	Material-final 79 87	Ln2LiHO3
+T5	Argument-others 89 104	Ln = La, Pr, Nd
+T6	Argument-others 106 117	oxyhydrides
+T7	Material-final 589 597	Ln2LiHO3
+T8	Argument-others 599 614	Ln = La, Pr, Nd
+T9	Material-final 847 855	Nd2LiHO3
+T10	Material-final 1057 1065	Ln2LiHO3

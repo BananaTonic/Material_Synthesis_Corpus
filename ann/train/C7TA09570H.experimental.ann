@@ -1,0 +1,10 @@
+T1	Unit-conductivity 24029 24035	S cm−1
+T2	Argument-others 24040 24049	x = 0.675
+T3	Argument-temp 24050 24059	at 1175 K
+T4	Value-conductivity 24025 24028	0.4
+T5	Value-activation 21454 21462	∼0.3–0.6
+T6	Unit-activation 21463 21465	eV
+T7	Argument-temp 21369 21378	523–773 K
+T8	Material-final 16810 16844	Ba(Zr0.7Ce0.2)1−(x/0.9)PrxY0.1O3−δ
+T9	Material-final 23881 23887	BZCY72
+T10	Argument-others 23872 23880	Pr-doped

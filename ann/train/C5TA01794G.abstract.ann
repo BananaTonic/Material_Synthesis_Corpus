@@ -1,0 +1,10 @@
+T1	Value-conductivity 1179 1182	510
+T2	Unit-conductivity 1183 1189	S cm−1
+T3	Argument-temp 1190 1198	at 300 K
+T4	Value-conductivity 1218 1221	840
+T5	Unit-conductivity 1222 1228	S cm−1
+T6	Argument-temp 1229 1237	at 775 K
+T7	Material-final 45 69	TixZr1−xNiSn0.975Ge0.025
+T8	Material-final 126 150	TixZr1−xNiSn0.975Ge0.025
+T9	Argument-others 152 177	x = 0, 0.1, 0.15 and 0.25
+T10	Argument-others 1096 1109	with x = 0.25

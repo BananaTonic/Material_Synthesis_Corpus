@@ -1,0 +1,10 @@
+5.Conclusions
+In this study, we proposed a working hypothesis to design precursor phosphate glasses used to obtain proton-conducting phosphate glasses exhibiting both high proton conductivity and high stability at intermediate temperatures after APS as follows:
+(i) The concentration of NaO1/2 in the precursor glass must be higher than 35 mol%.
+(ii) The O/P ratio of the glass composition cannot exceed 3.5.
+(iii) The glass network modifier oxides need to contain cations with low electronegativity.
+(iv) The glass must contain a sufficient amount of glass network modifiers and intermediate oxides, such as alkaline-earth oxides, Al2O3, Y2O3, La2O3, WO3, Nb2O5, and Ta2O5.
+(v) The glass should consist of more than four or five components.
+(vi) The glass needs to contain a small amount of GeO2 and/or B2O3.
+Based on this working hypothesis, we obtained 36H-glass by APS. The proton conductivity of 36H-glass was 1 × 10−3 S cm−1 at 280 °C and remained stable for a long time under fuel cell operating conditions. The proton conductivity of 36H-glass is the highest reported for a proton-conducting phosphate glass that works around 300 °C, indicating that the working hypothesis developed here is useful to develop new proton-conducting glass electrolytes that work at intermediate temperatures.
+The proton conductivity of 36H-glass is still an order of magnitude smaller than that required for practical electrolytes of ITFCs; however, the glass exhibits pure proton conduction even in air, resulting in no leakage current, unlike the case for BZY and BCY. This feature should enable fabrication of fuel cells consisting of electrode-supported electrolytes with a very thin thickness, such as one micrometer or less, because the glass thickness can easily be decreased using various techniques; this will achieve very low electrolyte resistance. Consequently, proton-conducting phosphate glasses may be an important material to realize ITFCs, although some of their properties still need to be improved.

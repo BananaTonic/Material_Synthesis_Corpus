@@ -1,0 +1,16 @@
+T1	Value-conductivity 260 269	3.6 × 103
+T2	Unit-conductivity 270 276	S cm−1
+T3	Argument-temp 277 296	at room temperature
+T4	Material-final 50 63	C6H4NH2CuBr2I
+T5	Material-final 185 198	C6H4NH2CuBr2I
+T6	Material-final 383 396	C6H4NH2CuBr2I
+T7	Material-final 699 712	C6H4NH2CuBr2I
+T8	Material-final 1033 1046	C6H4NH2CuBr2I
+T9	Material-final 1214 1227	C6H4NH2CuBr2I
+T10	Argument-others 1228 1232	film
+T11	Argument-others 1047 1051	film
+T12	Material-final 1383 1396	C6H4NH2CuBr2I
+T13	Argument-others 1397 1401	film
+T14	Material-final 2033 2046	C6H4NH2CuBr2I
+T15	Material-final 2077 2090	C6H4NH2CuBr2I
+T16	Material-final 2212 2231	Au/C6H4NH2CuBr2I/Au

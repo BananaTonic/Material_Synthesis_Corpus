@@ -1,0 +1,8 @@
+T1	Value-conductivity 1288 1290	25
+T2	Unit-conductivity 1291 1298	mS cm−1
+T3	Argument-temp 1299 1308	at 160 °C
+T4	Value-activation 1347 1349	35
+T5	Unit-activation 1350 1358	kJ mol−1
+T6	Material-final 1193 1200	TZ-PEEN
+T7	Material-final 1023 1030	TZ-PEEN
+T8	Argument-others 1223 1248	PA uptake was ca. 110 wt%

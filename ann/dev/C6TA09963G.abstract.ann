@@ -1,0 +1,30 @@
+T1	Value-activation 1464 1473	0.53–0.58
+T2	Unit-activation 1474 1476	eV
+T3	Argument-others 1394 1406	rhombohedral
+T4	Material-final 1413 1421	Yb6MoO12
+T5	Argument-others 1505 1517	rhombohedral
+T6	Material-final 1524 1532	Yb6MoO12
+T7	Unit-conductivity 1621 1627	S cm−1
+T8	Value-conductivity 1612 1620	3 × 10−5
+T9	Argument-temp 1628 1637	at 500 °C
+T10	Material-final 30 42	Ln6−xMoO12−δ
+T11	Argument-others 44 70	Ln = La, Gd–Lu; x = 0, 0.5
+T12	Material-final 133 145	Ln6−xMoO12−δ
+T13	Argument-others 147 194	Ln = La, Gd, Dy, Ho, Er, Tm, Yb, Lu; x = 0, 0.5
+T14	Material-final 407 419	Ln6−xMoO12−δ
+T15	Argument-others 421 447	Ln = La, Gd–Lu; x = 0, 0.5
+T16	Material-final 670 682	Ln6−xMoO12−δ
+T17	Argument-others 684 710	Ln = La, Gd–Lu; x = 0, 0.5
+T18	Argument-others 770 797	Ln = Er, Tm, Yb; x = 0, 0.5
+T19	Material-final 756 768	Ln6−xMoO12−δ
+T20	Material-final 1113 1125	Ln6−xMoO12−δ
+T21	Argument-others 1127 1146	Ln = Er, Tm, Yb, Lu
+T22	Material-final 1235 1248	La5.5MoO11.25
+T23	Value-conductivity 1250 1258	2 × 10−4
+T24	Unit-conductivity 1259 1265	S cm−1
+T25	Argument-temp 1266 1275	at 600 °C
+T26	Argument-air 1276 1286	in wet air
+T27	Material-final 1319 1329	Yb6MoO12−δ
+T28	Argument-others 1408 1411	R3̄
+T29	Argument-others 1519 1522	R3̄
+T30	Material-final 1558 1568	Yb6MoO12−δ

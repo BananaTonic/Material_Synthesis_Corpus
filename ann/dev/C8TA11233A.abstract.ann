@@ -1,0 +1,15 @@
+T1	Value-conductivity 713 718	∼0.01
+T2	Unit-conductivity 719 725	S cm−1
+T3	Value-activation 774 779	0.066
+T4	Unit-activation 780 782	eV
+T5	Material-final 318 322	V2O5
+T6	Material-final 470 474	V2O5
+T7	Material-final 866 870	V2O5
+T8	Material-final 1024 1028	V2O5
+T9	Material-final 1313 1317	V2O5
+T10	Material-final 1492 1496	V2O5
+T11	Material-final 1158 1162	V2O5
+T12	Material-final 32 50	vanadium pentoxide
+T13	Argument-others 51 71	nanofluidic membrane
+T14	Material-final 667 671	V2O5
+T15	Argument-others 1163 1172	membranes

@@ -1,0 +1,13 @@
+T1	Argument-temp 1673 1696	at temperatures ≤950 °C
+T2	Unit-conductivity 1666 1672	S cm−1
+T3	Value-conductivity 1658 1665	&gt;100
+T4	Material-final 38 65	SrVO3-based anode materials
+T5	Material-final 568 589	Sr0.8Ln0.2V1−yNbyO3−δ
+T6	Argument-others 591 615	Ln = La or Y, y = 0–0.10
+T7	Argument-others 617 632	solid solutions
+T8	Material-final 770 784	Sr0.8Y0.2VO3−δ
+T9	Material-final 1462 1482	SrVO3−δ-based anodes
+T10	Material-final 1342 1363	Sr0.8Ln0.2V1−yNbyO3−δ
+T11	Material-final 821 836	Sr0.8La0.2VO3−δ
+T12	Material-final 175 211	Strontium vanadate-based perovskites
+T13	Argument-others 22 37	perovskite-like

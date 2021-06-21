@@ -1,0 +1,14 @@
+T1	Value-conductivity 1050 1054	10−9
+T2	Unit-conductivity 1055 1061	S cm−1
+T3	Value-conductivity 977 981	0.07
+T4	Unit-conductivity 982 988	S cm−1
+T5	Value-conductivity 1005 1013	2 × 10−4
+T6	Unit-conductivity 1014 1020	S cm−1
+T7	Material-final 938 945	cryogel
+T8	Argument-others 946 975	swollen with an acid solution
+T9	Material-final 1029 1036	aerogel
+T10	Argument-others 1062 1093	as the carbonization progressed
+T13	Material-final 33 64	polyaniline/poly(vinyl alcohol)
+T14	Argument-others 65 73	aerogels
+T15	Argument-others 11 21	carbonized
+T16	Argument-others 22 32	conducting

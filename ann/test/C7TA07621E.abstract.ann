@@ -1,0 +1,8 @@
+T1	Unit-conductivity 1323 1329	S cm−1
+T2	Value-conductivity 1318 1322	0.02
+T3	Argument-temp 1330 1339	at 500 °C
+T4	Material-final 1220 1237	Ln1+xSr1−xGa3O7+δ
+T5	Argument-others 1239 1256	Ln = Eu, Gd or Tb
+T6	Argument-others 1201 1219	non-stoichiometric
+T7	Argument-others 1258 1266	melilite
+T8	Argument-others 1267 1275	ceramics

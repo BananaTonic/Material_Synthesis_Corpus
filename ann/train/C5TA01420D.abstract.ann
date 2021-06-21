@@ -1,0 +1,9 @@
+T1	Value-conductivity 1012 1020	above 14
+T2	Unit-conductivity 1021 1028	mS cm−1
+T3	Value-conductivity 1183 1193	up to 56.5
+T4	Unit-conductivity 1194 1201	mS cm−1
+T5	Argument-temp 1202 1210	at 80 °C
+T6	Argument-others 1212 1235	water uptake = 21.1 wt%
+T7	Material-final 1068 1089	crosslinked membranes
+T8	Argument-temp 1043 1062	at room temperature
+T9	Material-final 758 764	PP-AEM

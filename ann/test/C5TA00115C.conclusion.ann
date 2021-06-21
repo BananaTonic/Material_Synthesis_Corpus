@@ -1,0 +1,9 @@
+T1	Material-final 509 516	TI-BDF2
+T2	Material-final 379 386	TI-BDFs
+T3	Material-final 871 878	TI-BDF2
+T4	Material-final 758 765	TI-BDF1
+T5	Value-conductivity 1021 1025	0.40
+T6	Unit-conductivity 1026 1032	S cm−1
+T7	Argument-others 518 552	with 3-decylpentadecyl side-chains
+T8	Argument-others 767 801	with 2-decyltetradecyl side-chains
+T10	Argument-others 930 974	doped by a thermally stable phosphonium salt

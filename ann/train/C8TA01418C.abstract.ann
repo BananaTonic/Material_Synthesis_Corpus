@@ -1,0 +1,16 @@
+T1	Value-activation 911 915	0.08
+T2	Unit-activation 916 918	eV
+T3	Value-conductivity 695 705	5.0 × 10−2
+T4	Unit-conductivity 706 712	S cm−1
+T5	Argument-temp 713 732	at room temperature
+T6	Value-conductivity 825 834	3.5 × 102
+T7	Unit-conductivity 835 841	S cm−1
+T8	Argument-temp 842 850	at 25 °C
+T9	Value-conductivity 855 864	5.0 × 102
+T10	Unit-conductivity 865 871	S cm−1
+T11	Argument-temp 872 881	at 500 °C
+T12	Material-final 2 9	K2Fe4O7
+T13	Material-final 289 296	K2Fe4O7
+T14	Material-final 298 299	1
+T15	Argument-others 252 287	3D open-framework potassium ferrite
+T16	Material-final 384 385	1

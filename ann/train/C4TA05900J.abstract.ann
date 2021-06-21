@@ -1,0 +1,9 @@
+T1	Material-final 81 96	LiMn0.9Fe0.1PO4
+T2	Material-final 789 802	LiMn1−xFexPO4
+T3	Argument-others 804 817	x = 0 and 0.1
+T4	Material-final 898 939	LiMn0.9Fe0.1PO4–polyacene (PAS) composite
+T5	Value-conductivity 970 974	0.15
+T6	Unit-conductivity 975 981	S cm−1
+T7	Material-final 1052 1081	LiMn0.9Fe0.1PO4–PAS composite
+T8	Material-final 1601 1639	iron-doped lithium manganese phosphate
+T9	Material-final 1238 1253	LiMn0.9Fe0.1PO4

@@ -1,0 +1,13 @@
+T1	Value-conductivity 133 138	∼3828
+T2	Unit-conductivity 139 145	S cm−1
+T3	Material-final 70 79	PEDOT:PSS
+T4	Argument-others 80 86	fibers
+T5	Material-final 203 212	PEDOT:PSS
+T6	Argument-others 213 218	films
+T7	Argument-others 190 202	100 nm-thick
+T8	Material-final 434 443	PEDOT:PSS
+T9	Argument-others 444 450	fibers
+T10	Material-final 790 799	PEDOT:PSS
+T11	Argument-others 800 806	fibers
+T12	Material-final 1287 1296	PEDOT:PSS
+T13	Argument-others 1297 1303	fibers

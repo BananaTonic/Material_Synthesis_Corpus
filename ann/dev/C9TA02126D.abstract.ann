@@ -1,0 +1,17 @@
+T1	Value-conductivity 288 289	1
+T2	Unit-conductivity 290 297	mS cm−1
+T3	Argument-temp 298 317	at room temperature
+T4	Argument-temp 523 539	room temperature
+T5	Value-conductivity 560 571	2.58 × 10−3
+T6	Unit-conductivity 572 578	S cm−1
+T7	Material-final 10 18	Li6PS5Br
+T8	Material-final 257 265	Li6PS5Br
+T9	Material-final 583 591	Li6PS5Br
+T10	Material-final 969 977	Li6PS5Br
+T11	Material-final 1576 1584	Li6PS5Br
+T12	Material-final 1222 1230	Li6PS5Br
+T13	Material-final 1479 1487	Li6PS5Br
+T14	Material-final 1335 1343	Li6PS5Br
+T15	Argument-temp 610 639	optimal annealing temperature
+T16	Material-final 1136 1163	S–C–Li6PS5Br/Li6PS5Br/Li–In
+T17	Argument-others 1164 1171	battery

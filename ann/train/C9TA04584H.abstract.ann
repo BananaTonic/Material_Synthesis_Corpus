@@ -1,0 +1,11 @@
+T1	Value-conductivity 658 663	∼10−3
+T2	Unit-conductivity 664 670	S cm−1
+T3	Argument-temp 671 680	at 400 °C
+T4	Argument-air 681 709	under humidified atmospheres
+T5	Material-final 512 527	BaCe0.9Y0.1O3−δ
+T6	Material-final 529 534	BCY10
+T7	Argument-air 711 726	pH2O ∼ 10−2 atm
+T8	Material-final 483 510	yttrium-doped barium cerate
+T9	Material-final 742 747	BCY10
+T10	Material-final 23 50	yttrium-doped barium cerate
+T11	Material-final 1193 1198	BCY10

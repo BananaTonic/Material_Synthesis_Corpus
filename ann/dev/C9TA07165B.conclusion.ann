@@ -1,0 +1,7 @@
+T1	Value-conductivity 222 233	1.26 × 10−4
+T2	Unit-conductivity 234 240	S cm−1
+T3	Argument-temp 241 249	at 30 °C
+T4	Material-final 303 312	SPE-14-15
+T5	Material-final 774 790	Li|SPE-14-15|LFP
+T6	Argument-others 791 795	cell
+T7	Argument-others 313 324	electrolyte

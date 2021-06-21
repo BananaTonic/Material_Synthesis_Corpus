@@ -1,0 +1,9 @@
+T1	Unit-conductivity 586 592	S cm−1
+T2	Value-conductivity 559 585	0.17 × 10−3 to 1.01 × 10−3
+T3	Argument-temp 593 604	at 25–90 °C
+T4	Material-final 658 664	SICSPE
+T5	Material-final 294 300	SICSPE
+T6	Material-final 91 97	SICSPE
+T7	Material-final 518 524	SICSPE
+T8	Material-final 411 417	SICSPE
+T9	Argument-others 665 673	membrane

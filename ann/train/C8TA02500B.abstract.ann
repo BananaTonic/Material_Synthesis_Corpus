@@ -1,0 +1,10 @@
+T1	Value-conductivity 933 937	0.13
+T2	Unit-conductivity 938 944	S cm−1
+T3	Value-conductivity 973 978	0.265
+T4	Unit-conductivity 979 985	S cm−1
+T5	Argument-air 1000 1009	at 98% RH
+T6	Argument-temp 1014 1019	35 °C
+T7	Material-final 0 23	Phosphorylated graphene
+T8	Argument-others 912 931	proton conductivity
+T9	Argument-others 950 971	electron conductivity
+T10	Argument-others 24 33	monoliths

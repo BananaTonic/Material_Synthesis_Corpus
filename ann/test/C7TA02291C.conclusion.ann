@@ -1,0 +1,10 @@
+T1	Material-final 14 21	PDMP-Li
+T2	Argument-others 22 25	GPE
+T3	Material-final 212 219	PDMP-Li
+T4	Argument-others 220 223	GPE
+T5	Material-final 438 466	LiFePO4/PDMP-Li GPE/graphite
+T6	Argument-others 467 482	pouch-type cell
+T7	Material-final 665 672	PDMP-Li
+T8	Argument-others 673 676	GPE
+T9	Value-conductivity 265 276	8.88 × 10−3
+T10	Unit-conductivity 277 283	S cm−1

@@ -1,0 +1,11 @@
+T1	Material-final 25 37	Ln6−xMoO12−δ
+T2	Argument-others 39 86	Ln = La, Gd, Dy, Ho, Er, Tm, Yb, Lu; x = 0, 0.5
+T3	Material-final 4723 4735	Ln6−xMoO12−δ
+T4	Argument-others 4737 4760	Ln = La, Yb; x = 0, 0.5
+T5	Material-final 5842 5850	Yb6MoO12
+T6	Argument-others 5851 5859	bixbyite
+T7	Argument-others 5861 5865	Ia3̄
+T8	Material-final 5871 5879	Yb6MoO12
+T9	Argument-others 5880 5892	rhombohedral
+T10	Argument-others 5894 5897	R3̄
+T11	Material-final 5097 5110	La5.5MoO11.25

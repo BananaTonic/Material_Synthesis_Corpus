@@ -1,0 +1,55 @@
+T1	Value-activation 14013 14015	39
+T2	Unit-activation 14016 14024	kJ mol−1
+T3	Value-activation 14029 14031	35
+T4	Unit-activation 14032 14040	kJ mol−1
+T5	Material-final 13944 13949	PON-1
+T6	Material-final 13951 13956	PON-2
+T7	Material-final 13961 13966	PON-4
+T8	Value-activation 13767 13778	0.1 and 0.4
+T9	Value-activation 13783 13791	9.6–38.6
+T10	Unit-activation 13779 13781	eV
+T11	Unit-activation 13792 13800	kJ mol−1
+T12	Value-activation 13888 13899	0.5 and 0.9
+T13	Unit-activation 13900 13902	eV
+T14	Value-activation 13904 13913	48.2–86.8
+T15	Unit-activation 13914 13922	kJ mol−1
+T16	Argument-others 13696 13715	Grotthuss mechanism
+T17	Argument-others 13832 13854	vehicle type mechanism
+T18	Value-conductivity 12656 12673	from 10−6 to 10−7
+T19	Unit-conductivity 12674 12680	S cm−1
+T20	Material-final 12602 12618	PON-3, -4 and -6
+T21	Material-final 12696 12701	PON-5
+T22	Material-final 12706 12711	PON-2
+T23	Value-conductivity 12742 12746	10−5
+T24	Unit-conductivity 12747 12753	S cm−1
+T25	Material-final 12786 12791	PON-1
+T26	Value-conductivity 12793 12803	5.2 × 10−4
+T27	Unit-conductivity 12804 12810	S cm−1
+T28	Value-conductivity 12904 12915	4.37 × 10−3
+T29	Unit-conductivity 12916 12922	S cm−1
+T30	Argument-temp 12924 12930	130 °C
+T31	Value-conductivity 12949 12959	9.9 × 10−4
+T32	Unit-conductivity 12960 12966	S cm−1
+T33	Argument-temp 12968 12973	70 °C
+T34	Value-conductivity 12992 13003	3.49 × 10−4
+T35	Unit-conductivity 13004 13010	S cm−1
+T36	Argument-temp 13012 13017	90 °C
+T37	Material-others 12933 12945	H3PO4@TP-Azo
+T38	Material-others 12885 12900	Im@TPB-DMTP-COF
+T39	Material-others 12979 12988	Im@Td-PPI
+T40	Value-activation 14397 14399	58
+T41	Unit-activation 14400 14408	kJ mol−1
+T42	Material-final 14359 14364	PON-6
+T43	Material-final 14366 14371	PON-3
+T44	Material-final 14376 14381	PON-4
+T45	Value-activation 14386 14388	44
+T46	Value-activation 14390 14392	53
+T47	Material-final 16759 16764	PON-5
+T48	Value-activation 16766 16769	−35
+T49	Unit-activation 16770 16778	kJ mol−1
+T50	Material-final 16678 16683	PON-6
+T51	Unit-activation 16668 16676	kJ mol−1
+T52	Value-activation 16664 16667	−44
+T53	Value-activation 16639 16642	−58
+T54	Material-final 16653 16658	PON-4
+T55	Unit-activation 16643 16651	kJ mol−1

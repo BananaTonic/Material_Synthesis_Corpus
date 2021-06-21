@@ -1,0 +1,11 @@
+T1	Material-final 97 105	HyMoO3−x
+T2	Argument-others 107 117	thin films
+T3	Material-final 66 95	hydrogenated molybdenum oxide
+T4	Material-final 161 169	HyMoO3−x
+T5	Argument-others 170 175	layer
+T6	Material-final 545 553	HyMoO3−x
+T7	Argument-others 554 557	HTL
+T8	Material-final 687 695	HyMoO3−x
+T9	Material-final 848 856	HyMoO3−x
+T10	Value-conductivity 316 319	9.9
+T11	Unit-conductivity 320 327	μS cm−1

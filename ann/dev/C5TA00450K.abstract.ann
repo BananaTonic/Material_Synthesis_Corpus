@@ -1,0 +1,8 @@
+T1	Value-conductivity 490 499	0.01–0.06
+T2	Unit-conductivity 500 506	S cm−1
+T3	Material-final 298 339	BaCe0.2Zr0.7Y0.1O3−δ/Sr0.95Ti0.9Nb0.1O3−δ
+T4	Material-final 341 353	BCZY27/STN95
+T5	Argument-air 520 551	in moist (+1% H2O) H2/inert gas
+T6	Argument-temp 552 567	from 600–800 °C
+T7	Argument-others 568 588	for 50 volume% STN95
+T8	Material-final 355 359	BS27

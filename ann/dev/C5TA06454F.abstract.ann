@@ -1,0 +1,9 @@
+T1	Value-conductivity 1004 1008	95.5
+T2	Unit-conductivity 1009 1016	mS cm−1
+T3	Argument-others 1017 1025	in water
+T4	Argument-temp 1026 1034	at 80 °C
+T5	Material-final 887 891	QPAF
+T6	Material-final 325 330	QPAFs
+T7	Argument-others 892 900	membrane
+T8	Material-final 293 323	ammonium-containing copolymers
+T9	Material-final 37 105	perfluoroalkylene chains and ammonium-functionalized oligophenylenes

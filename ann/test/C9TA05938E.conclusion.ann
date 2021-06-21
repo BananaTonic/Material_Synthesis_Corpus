@@ -1,0 +1,9 @@
+T1	Value-conductivity 354 364	8.4 × 10−4
+T2	Unit-conductivity 365 371	S cm−1
+T3	Argument-temp 372 380	at 30 °C
+T4	Material-final 303 310	3D-BGPE
+T5	Material-final 30 37	3D-BGPE
+T6	Material-final 534 547	Li/3D-BGPE/Li
+T7	Material-final 657 675	LiFePO4/3D-BGPE/Li
+T8	Argument-others 548 562	symmetric cell
+T9	Argument-others 676 680	cell

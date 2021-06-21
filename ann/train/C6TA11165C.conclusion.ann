@@ -1,0 +1,13 @@
+T1	Value-conductivity 730 740	1.3 × 10−3
+T2	Unit-conductivity 741 747	S cm−1
+T3	Argument-temp 748 770	at ambient temperature
+T4	Value-conductivity 820 828	7 × 10−4
+T5	Unit-conductivity 829 835	S cm−1
+T6	Material-final 985 1018	PEO20–NaClO4–5% SiO2–70% Emim FSI
+T7	Material-final 1073 1106	PEO20–NaClO4–5% SiO2–70% Emim FSI
+T8	Material-final 25 57	PEO20–NaClO4–5% SiO2–x% Emim FSI
+T9	Argument-others 59 69	x = 50, 70
+T10	Argument-others 71 89	solid electrolytes
+T11	Material-final 519 552	PEO20–NaClO4–5% SiO2–70% Emim FSI
+T12	Argument-others 553 570	solid electrolyte
+T13	Argument-temp 784 803	ambient-temperature

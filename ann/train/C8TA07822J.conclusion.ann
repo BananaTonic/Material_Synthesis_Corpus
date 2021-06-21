@@ -1,0 +1,28 @@
+T1	Value-conductivity 795 799	10−7
+T2	Unit-conductivity 800 806	S cm−1
+T3	Value-conductivity 811 815	10−4
+T4	Unit-conductivity 816 822	S cm−1
+T5	Argument-temp 823 832	at 130 °C
+T6	Value-conductivity 891 901	5.2 × 10−4
+T7	Unit-conductivity 902 908	S cm−1
+T8	Argument-temp 909 918	at 130 °C
+T9	Material-final 884 889	PON-1
+T10	Value-conductivity 1000 1011	4.73 × 10−3
+T11	Unit-conductivity 1012 1018	S cm−1
+T12	Argument-temp 1019 1028	at 130 °C
+T13	Material-others 981 996	Im@TPB-DMTP-COF
+T15	Value-conductivity 1043 1054	3.49 × 10−4
+T16	Unit-conductivity 1055 1061	S cm−1
+T17	Argument-temp 1062 1070	at 90 °C
+T18	Material-final 105 116	PON-1–PON-3
+T19	Material-final 136 147	PON-4–PON-6
+T20	Material-final 402 407	PON-1
+T21	Material-final 463 468	PON-2
+T22	Material-final 378 383	PON-3
+T23	Material-final 1624 1635	PON-4–PON-6
+T24	Value-activation 1158 1161	−39
+T25	Unit-activation 1162 1170	kJ mol−1
+T26	Value-activation 1174 1177	−58
+T27	Unit-activation 1178 1186	kJ mol−1
+T28	Argument-others 833 859	under anhydrous conditions
+T29	Material-final 601 606	PON-1

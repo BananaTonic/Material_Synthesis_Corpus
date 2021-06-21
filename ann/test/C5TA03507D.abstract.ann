@@ -1,0 +1,6 @@
+T1	Value-conductivity 646 650	0.28
+T2	Unit-conductivity 651 657	S cm−1
+T3	Argument-temp 658 667	at 120 °C
+T4	Argument-air 672 678	40% RH
+T5	Material-final 572 594	ZIF-8@GO/Nafion hybrid
+T6	Argument-others 595 603	membrane

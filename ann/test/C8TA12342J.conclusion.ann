@@ -1,0 +1,16 @@
+T1	Value-conductivity 106 111	∼6100
+T2	Unit-conductivity 112 118	S cm−1
+T3	Material-final 967 975	20-Au-CF
+T4	Material-final 48 53	Au-CF
+T5	Material-start 379 390	m-GOx/Au-CF
+T6	Material-final 213 218	Au-CF
+T7	Material-final 565 570	Au-CF
+T8	Material-final 944 956	20-GOx/Au-CF
+T9	Argument-others 27 47	LbL-assembled hybrid
+T10	Argument-others 391 400	electrode
+T11	Argument-others 976 983	cathode
+T12	Argument-others 957 962	anode
+T13	Argument-others 219 229	electrodes
+T14	Argument-others 571 580	electrode
+T15	Argument-others 928 943	a LbL-assembled
+T16	Argument-others 54 64	electrodes

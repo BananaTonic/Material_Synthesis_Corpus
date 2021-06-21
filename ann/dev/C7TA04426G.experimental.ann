@@ -1,0 +1,11 @@
+T1	Material-final 126 144	LiFe1−x−yMgxTiyPO4
+T2	Argument-others 146 171	x = 0, 0.005; y = 0, 0.01
+T3	Material-final 639 646	LiFePO4
+T4	Material-final 1270 1273	LFP
+T5	Material-final 1278 1284	MT-LFP
+T6	Material-final 1238 1245	LiFePO4
+T7	Argument-others 1223 1237	Mg–Ti co-doped
+T8	Argument-others 1211 1218	undoped
+T9	Material-final 1343 1350	LiFePO4
+T10	Material-final 1502 1505	LFP
+T11	Material-final 1668 1671	LFP

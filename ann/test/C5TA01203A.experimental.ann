@@ -1,0 +1,37 @@
+T1	Argument-temp 33430 33439	at 800 °C
+T2	Unit-conductivity 33423 33429	S cm−1
+T3	Value-conductivity 33416 33422	∼0.096
+T4	Material-final 33288 33292	LSGM
+T5	Argument-others 33310 33314	bulk
+T6	Argument-others 33363 33371	sintered
+T7	Value-conductivity 33792 33797	0.004
+T8	Unit-conductivity 33798 33804	S cm−1
+T9	Value-conductivity 33943 33948	0.075
+T10	Unit-conductivity 33949 33955	S cm−1
+T11	Value-activation 34170 34175	∼1.02
+T12	Unit-activation 34176 34178	eV
+T13	Material-final 34150 34154	LSGM
+T14	Argument-others 34155 34159	bulk
+T15	Argument-others 33757 33787	deposit prepared from powder A
+T16	Argument-others 33904 33934	deposit prepared from powder B
+T17	Argument-temp 33716 33725	at 800 °C
+T18	Value-activation 34280 34285	∼1.04
+T19	Unit-activation 34286 34288	eV
+T20	Argument-others 34236 34266	deposit prepared from powder B
+T21	Argument-others 34363 34393	deposit prepared from powder A
+T22	Value-activation 34397 34402	∼0.97
+T23	Unit-activation 34403 34405	eV
+T24	Argument-temp 36165 36174	At 800 °C
+T25	Value-conductivity 36194 36199	0.075
+T26	Unit-conductivity 36200 36206	S cm−1
+T27	Argument-others 36133 36163	deposit prepared from powder B
+T28	Value-conductivity 37210 37215	0.075
+T29	Unit-conductivity 37216 37222	S cm−1
+T30	Argument-temp 37223 37232	at 800 °C
+T31	Material-final 37171 37175	LSGM
+T32	Argument-others 37176 37187	electrolyte
+T33	Argument-others 37161 37170	optimized
+T34	Material-final 35362 35366	LSGM
+T35	Argument-others 35347 35361	plasma-sprayed
+T36	Argument-others 35367 35387	electrolyte membrane
+T38	Argument-others 33372 33376	bulk

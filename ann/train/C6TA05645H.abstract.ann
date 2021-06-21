@@ -1,0 +1,13 @@
+T1	Material-final 13 23	(Sn, Ti)O2
+T2	Argument-others 0 5	Black
+T3	Argument-others 6 12	rutile
+T4	Argument-others 481 501	core–shell structure
+T5	Material-final 502 527	SnxTi1−xO2@SnxTi1−xO2−yHy
+T6	Value-conductivity 802 805	0.1
+T7	Unit-conductivity 814 821	μS cm−1
+T8	Value-conductivity 809 813	35.7
+T9	Material-final 1332 1342	(Sn, Ti)O2
+T10	Argument-others 1326 1331	black
+T11	Argument-others 444 449	black
+T12	Material-final 450 460	(Sn, Ti)O2
+T13	Argument-others 461 475	solid solution

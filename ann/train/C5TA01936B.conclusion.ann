@@ -1,0 +1,10 @@
+T1	Material-final 675 682	TZ-PEEN
+T2	Material-final 767 774	TZ-PEEN
+T3	Material-final 939 946	TZ-PEEN
+T4	Material-final 916 923	TZ-PEEN
+T5	Value-activation 1081 1083	35
+T6	Unit-activation 1084 1092	kJ mol−1
+T7	Value-conductivity 1011 1013	25
+T8	Unit-conductivity 1014 1021	mS cm−1
+T9	Argument-temp 1022 1031	at 160 °C
+T10	Argument-others 947 965	doped to a 110% PA

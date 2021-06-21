@@ -1,0 +1,13 @@
+T1	Value-conductivity 460 463	3.1
+T2	Unit-conductivity 464 471	mS cm−1
+T3	Argument-temp 472 480	at 25 °C
+T4	Unit-conductivity 1107 1114	mS cm−1
+T6	Material-final 50 58	Li6PS5Br
+T7	Material-final 190 198	Li6PS5Br
+T8	Argument-others 199 216	solid electrolyte
+T9	Material-final 411 419	Li6PS5Br
+T10	Material-final 545 553	Li6PS5Br
+T11	Material-final 1059 1067	Li6PS5Br
+T12	Argument-others 1068 1074	powder
+T14	Material-final 621 629	Li6PS5Br
+T5	Value-conductivity 1105 1106	1

@@ -1,0 +1,12 @@
+T1	Material-final 217 239	Ammonium polyphosphate
+T2	Material-final 241 247	NH4PO3
+T3	Unit-conductivity 1117 1123	S cm−1
+T4	Value-conductivity 1128 1153	2.2 × 10−5 to 2.69 × 10−3
+T5	Value-conductivity 1091 1116	1.2 × 10−5 to 2.61 × 10−3
+T6	Argument-air 1026 1038	in humid air
+T7	Argument-air 1043 1045	H2
+T8	Material-final 1049 1055	NH4PO3
+T9	Material-final 364 370	NH4PO3
+T10	Material-final 737 743	NH4PO3
+T13	Unit-conductivity 1154 1160	S cm−1
+T14	Argument-temp 1176 1219	in the temperature range of 50 °C to 275 °C

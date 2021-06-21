@@ -1,0 +1,14 @@
+T1	Value-conductivity 294 299	∼10−2
+T2	Unit-conductivity 300 306	S cm−1
+T3	Material-others 225 248	porous organic polymers
+T4	Unit-conductivity 928 934	S cm−1
+T5	Argument-temp 935 943	at 80 °C
+T6	Value-conductivity 916 927	1.59 × 10−1
+T7	Argument-air 948 954	90% RH
+T8	Material-final 752 755	1ES
+T9	Material-final 716 718	1E
+T10	Material-final 446 448	1E
+T11	Material-final 786 789	1ES
+T12	Material-final 840 842	1E
+T13	Material-final 904 907	1ES
+T14	Argument-others 400 442	biphenyl-based organic polymeric framework

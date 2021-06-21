@@ -1,0 +1,20 @@
+T2	Unit-conductivity 1264 1270	S cm−1
+T3	Argument-temp 1271 1280	at 1173 K
+T4	Material-final 67 87	BaZr0.7Ce0.2Y0.1O3−δ
+T5	Argument-others 52 66	Pr-substituted
+T6	Material-final 222 242	BaZr0.7Ce0.2Y0.1O3−δ
+T7	Material-final 244 250	BZCY72
+T8	Material-final 256 271	BaPr0.9Y0.1O3−δ
+T9	Material-final 273 276	BPY
+T10	Argument-others 1285 1294	x = 0.675
+T11	Material-final 1620 1626	BZCY72
+T12	Argument-temp 1585 1594	523–773 K
+T13	Value-activation 1610 1612	∼1
+T14	Unit-activation 1613 1615	eV
+T15	Value-activation 1630 1634	∼0.4
+T16	Unit-activation 1635 1637	eV
+T17	Argument-temp 1642 1651	x = 0.675
+T18	Argument-air 1565 1571	in air
+T19	Material-final 385 419	Ba(Zr0.7Ce0.2)1−(x/0.9)PrxY0.1O3−δ
+T20	Argument-others 1202 1220	x = 0.225 to 0.675
+T1	Value-conductivity 1260 1263	0.4

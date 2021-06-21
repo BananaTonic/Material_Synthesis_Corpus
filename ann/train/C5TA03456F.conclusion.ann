@@ -1,0 +1,9 @@
+T1	Value-conductivity 282 298	from 10−3 to 101
+T2	Unit-conductivity 299 305	S cm−1
+T3	Material-final 272 281	PEDOT:PSS
+T4	Argument-others 182 225	solution deposition of perovskite materials
+T5	Material-final 735 744	PEDOT:PSS
+T6	Material-final 130 139	PEDOT:PSS
+T7	Material-final 555 564	PEDOT:PSS
+T8	Material-final 828 837	PEDOT:PSS
+T9	Argument-others 838 850	buffer layer

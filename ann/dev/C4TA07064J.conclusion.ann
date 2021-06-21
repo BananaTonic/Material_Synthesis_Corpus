@@ -1,0 +1,17 @@
+T1	Material-final 98 111	Pt_C/PANI:CSA
+T2	Material-final 40 96	platinum decorated carbon nanoparticle embedded PANI:CSA
+T3	Material-final 190 203	Pt_C/PANI:CSA
+T4	Value-conductivity 247 250	792
+T5	Unit-conductivity 251 257	S cm−1
+T6	Value-conductivity 295 298	121
+T7	Unit-conductivity 299 305	S cm−1
+T8	Material-intermedium 310 314	Pt_C
+T9	Value-conductivity 316 319	580
+T10	Unit-conductivity 320 326	S cm−1
+T11	Material-intermedium 331 339	PANI:CSA
+T12	Value-conductivity 341 344	656
+T13	Unit-conductivity 345 351	S cm−1
+T14	Material-intermedium 356 366	C/PANI:CSA
+T15	Material-final 840 878	Pt_C/PANI:CSA-based flexible electrode
+T16	Material-final 457 470	Pt_C/PANI:CSA
+T17	Argument-others 113 118	paste

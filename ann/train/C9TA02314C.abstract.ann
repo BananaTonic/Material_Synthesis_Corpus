@@ -1,0 +1,13 @@
+T1	Value-conductivity 913 918	0.123
+T2	Unit-conductivity 919 925	S cm−1
+T3	Argument-temp 926 945	at room temperature
+T4	Material-final 846 852	PGG-GP
+T5	Argument-others 853 861	membrane
+T6	Material-final 823 829	PGG-GP
+T7	Material-final 1332 1338	PGG-GP
+T8	Argument-others 1339 1358	polymer electrolyte
+T9	Material-final 1126 1132	PGG-GP
+T10	Argument-others 1133 1141	membrane
+T11	Material-final 1480 1486	PGG-GP
+T12	Argument-others 1487 1495	membrane
+T13	Material-final 765 821	poly(vinyl alcohol)/guar hydroxypropyltrimonium chloride

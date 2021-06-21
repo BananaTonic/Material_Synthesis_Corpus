@@ -1,0 +1,14 @@
+T1	Unit-conductivity 1058 1064	S cm−1
+T3	Value-conductivity 1049 1057	5 × 10−6
+T4	Material-final 949 974	Nb-doped titanium dioxide
+T5	Argument-others 975 985	nanofibers
+T6	Argument-others 937 948	carbon-free
+T7	Argument-others 917 932	carbon-embedded
+T8	Material-final 27 40	Nb-doped TiO2
+T9	Argument-others 41 51	nanofibers
+T10	Argument-others 0 26	Carbon-embedded mesoporous
+T11	Argument-others 711 721	mesoporous
+T12	Material-final 722 747	Nb-doped titanium dioxide
+T13	Material-final 749 761	NbxTi(1−x)O2
+T14	Argument-others 763 778	x = 0.1 or 0.25
+T15	Argument-others 780 790	nanofibers

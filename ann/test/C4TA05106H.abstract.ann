@@ -1,0 +1,7 @@
+T1	Value-conductivity 1251 1255	10−4
+T2	Unit-conductivity 1256 1262	S cm−1
+T3	Argument-temp 1263 1289	at low–medium temperatures
+T4	Material-final 1033 1057	PIL-LiTFSI-IM(2o2)11TFSI
+T5	Material-final 538 634	poly(N,N,N-trimethyl-N-(1-vinlyimidazolium-3-ethyl)-ammonium bis(trifluoromethanesulfonyl)imide)
+T6	Material-final 957 970	IM(2o2)11TFSI
+T7	Material-final 882 955	1,2-dimethyl-3-ethoxyethyl imidazolium bis(trifluoromethanesulfonyl)imide

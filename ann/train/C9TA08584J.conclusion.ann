@@ -1,0 +1,14 @@
+T1	Value-conductivity 275 280	8.167
+T2	Unit-conductivity 281 288	mS cm−1
+T3	Argument-temp 289 297	at 300 K
+T4	Value-conductivity 302 306	1.31
+T5	Unit-conductivity 307 314	mS cm−1
+T6	Argument-temp 315 323	at 223 K
+T7	Argument-temp 325 331	−50 °C
+T9	Value-activation 373 378	0.137
+T10	Material-final 35 42	Na3AO4X
+T11	Argument-others 44 62	A = S/Se, X = F/Cl
+T12	Material-final 254 270	Na3SeO4F0.5Cl0.5
+T13	Material-final 408 415	Na3AO4X
+T14	Argument-others 416 428	electrolytes
+T8	Unit-activation 379 381	eV

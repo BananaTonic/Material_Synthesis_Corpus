@@ -1,0 +1,19 @@
+T1	Value-conductivity 332 343	0.2 to 1055
+T2	Unit-conductivity 344 350	S cm−1
+T3	Value-conductivity 1428 1432	1821
+T4	Unit-conductivity 1433 1439	S cm−1
+T5	Material-final 33 42	PEDOT:PSS
+T6	Argument-others 43 48	films
+T7	Material-final 281 290	PEDOT:PSS
+T8	Argument-others 291 296	films
+T9	Material-final 466 475	PEDOT:PSS
+T10	Argument-others 476 481	films
+T11	Argument-others 448 465	cosolvent-treated
+T12	Material-final 963 972	PEDOT:PSS
+T13	Argument-others 973 978	films
+T14	Material-final 1162 1171	PEDOT:PSS
+T15	Material-final 1393 1402	PEDOT:PSS
+T16	Argument-others 1403 1408	films
+T17	Material-final 1622 1631	PEDOT:PSS
+T18	Argument-others 1632 1637	films
+T19	Argument-others 171 244	treatment with cosolvents of 80% organic solvents and 20% water at 120 °C

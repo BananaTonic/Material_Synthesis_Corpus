@@ -1,0 +1,6 @@
+T1	Value-conductivity 1480 1484	0.24
+T2	Unit-conductivity 1485 1492	mS cm−1
+T3	Argument-temp 1493 1501	at 30 °C
+T4	Material-final 1423 1452	quasi-solid state electrolyte
+T5	Argument-others 1355 1407	10 mol% of a conductive pyrrolidinium FSI-based OIPC
+T6	Argument-others 1290 1339	90 mol% lithium bis(fluorosulfonyl)imide, Li[FSI]

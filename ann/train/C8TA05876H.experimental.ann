@@ -1,0 +1,43 @@
+T1	Value-activation 12493 12514	between 13.0 and 18.7
+T2	Unit-activation 12515 12523	kJ mol−1
+T3	Value-activation 12556 12561	10–23
+T4	Unit-activation 12562 12570	kJ mol−1
+T5	Value-conductivity 10579 10584	0.058
+T6	Unit-conductivity 10585 10591	S cm−1
+T7	Argument-temp 10592 10600	at 30 °C
+T8	Value-conductivity 11059 11064	0.028
+T9	Unit-conductivity 11065 11071	S cm−1
+T10	Value-conductivity 11244 11249	0.033
+T11	Unit-conductivity 11250 11256	S cm−1
+T12	Argument-temp 11257 11265	at 20 °C
+T13	Value-conductivity 11563 11568	0.029
+T14	Unit-conductivity 11569 11575	S cm−1
+T15	Argument-temp 11576 11584	at 30 °C
+T16	Value-conductivity 10870 10875	0.024
+T17	Unit-conductivity 10876 10882	S cm−1
+T18	Argument-temp 10883 10891	at 30 °C
+T19	Value-conductivity 12175 12178	0.1
+T20	Unit-conductivity 12179 12185	S cm−1
+T21	Argument-temp 12186 12194	at 80 °C
+T22	Value-conductivity 12998 13002	0.01
+T23	Unit-conductivity 13003 13009	S cm−1
+T24	Material-final 12612 12625	D-SC-paAE100%
+T25	Material-final 12957 12970	D-SC-paAE100%
+T26	Material-final 12975 12988	L-SC-paAE100%
+T27	Material-final 12721 12734	D-SC-paAE100%
+T28	Material-final 12883 12896	D-SC-paAE100%
+T29	Material-final 12148 12161	D-SC-paAE100%
+T30	Argument-temp 13017 13071	common operational temperature range of 50 °C to 80 °C
+T31	Material-final 10500 10513	D-SC-paAE100%
+T32	Argument-others 10514 10542	with an IEC of 2.41 mmol g−1
+T33	Argument-others 10893 10912	IEC = 2.93 mmol g−1
+T34	Material-others 10825 10828	AEM
+T35	Argument-others 10687 10805	Bae et al. explored fluorene-based polymers with six –CH2– groups incorporated between the backbones and the QA groups
+T36	Argument-others 10917 10936	Lin et al. reported
+T37	Material-others 10939 10962	typical QA based SC AEM
+T38	Argument-others 11073 11092	IEC = 1.48 mmol g−1
+T39	Argument-others 11186 11213	reported by Jannasch et al.
+T40	Material-final 11287 11290	AEM
+T41	Material-final 12230 12243	L-SC-paAE100%
+T47	Material-final 11489 11502	D-SC-paAE100%
+T48	Material-final 11441 11454	L-SC-paAE100%

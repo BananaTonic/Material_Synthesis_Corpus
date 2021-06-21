@@ -1,0 +1,6 @@
+T1	Value-conductivity 435 437	65
+T2	Unit-conductivity 438 445	mS cm−1
+T3	Argument-temp 446 454	at 80 °C
+T4	Argument-air 455 483	under 100% relative humidity
+T5	Material-final 268 276	membrane
+T6	Argument-others 314 353	spirobiindane-based microporous polymer

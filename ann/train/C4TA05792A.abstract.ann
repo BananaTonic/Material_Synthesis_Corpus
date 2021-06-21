@@ -1,0 +1,10 @@
+T1	Value-conductivity 1245 1249	10−3
+T2	Unit-conductivity 1250 1256	S cm−1
+T3	Argument-temp 1257 1266	at 100 °C
+T4	Value-conductivity 1305 1309	10−6
+T5	Unit-conductivity 1310 1316	S cm−1
+T6	Value-conductivity 1376 1380	10−5
+T7	Unit-conductivity 1381 1387	S cm−1
+T8	Material-others 1342 1374	amorphous citrate ionic networks
+T9	Material-final 1277 1303	crystalline ionic networks
+T10	Material-final 1172 1196	amorphous ionic networks

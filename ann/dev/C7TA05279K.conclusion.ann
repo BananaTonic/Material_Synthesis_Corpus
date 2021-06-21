@@ -1,0 +1,10 @@
+T1	Unit-conductivity 310 316	S cm−1
+T2	Value-conductivity 298 309	1.59 × 10−1
+T3	Argument-temp 317 325	at 80 °C
+T4	Argument-air 330 336	90% RH
+T5	Material-final 293 296	1ES
+T6	Material-final 34 36	1E
+T7	Material-final 41 44	1ES
+T8	Material-final 110 112	1E
+T9	Material-final 200 203	1ES
+T10	Argument-others 28 32	POPs

@@ -1,0 +1,8 @@
+T1	Material-final 31 81	poly(propylene carbonate)/Li6.75La3Zr1.75Ta0.25O12
+T2	Argument-others 82 109	composite solid electrolyte
+T3	Material-final 421 471	poly(propylene carbonate)/Li6.75La3Zr1.75Ta0.25O12
+T4	Argument-others 472 499	composite solid electrolyte
+T5	Value-conductivity 683 693	5.2 × 10−4
+T6	Unit-conductivity 694 700	S cm−1
+T7	Argument-temp 702 710	at 20 °C
+T8	Material-final 1466 1516	poly(propylene carbonate)/Li6.75La3Zr1.75Ta0.25O12

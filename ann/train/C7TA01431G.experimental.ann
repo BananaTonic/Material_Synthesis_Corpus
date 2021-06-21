@@ -1,0 +1,17 @@
+T1	Value-conductivity 18192 18201	10−7–10−5
+T2	Unit-conductivity 18202 18208	S cm−1
+T3	Value-conductivity 18362 18373	∼10−8–10 −7
+T4	Unit-conductivity 18374 18380	S cm−1
+T5	Material-others 18287 18296	P(SPM·K+)
+T6	Material-others 18301 18311	P(SPM·Li+)
+T7	Material-others 18098 18109	P(SPM−·Li+)
+T8	Argument-others 18111 18121	EO/Li = 25
+T9	Argument-others 18053 18061	Semi-IPN
+T10	Argument-others 18266 18286	anionic homopolymers
+T11	Value-conductivity 20138 20143	∼10−4
+T12	Unit-conductivity 20144 20150	S cm−1
+T13	Material-final 19979 19997	PEG-PU/P(SPM−·Li+)
+T14	Value-conductivity 34771 34776	∼10−7
+T15	Unit-conductivity 34777 34783	S cm−1
+T16	Argument-temp 34784 34792	at 45 °C
+T17	Material-others 34479 34600	BAB triblock copolymer of poly(styrene trifluoromethane sulphonylimide lithium salt) P(STFSILi) with poly(ethylene oxide)

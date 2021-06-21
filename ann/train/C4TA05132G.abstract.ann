@@ -1,0 +1,9 @@
+T1	Unit-conductivity 1023 1029	S cm−1
+T2	Value-conductivity 1016 1022	∼0.036
+T3	Argument-others 1030 1057	perpendicular to the c axis
+T4	Value-conductivity 976 982	∼0.008
+T5	Unit-conductivity 983 989	S cm−1
+T6	Argument-others 990 1011	along the c direction
+T7	Material-final 643 671	[A1+xB1−x]2[Ga]2[Ga2O7+x/2]2
+T8	Argument-others 673 684	0 ≤ x ≤ 0.5
+T9	Argument-others 687 709	A = La, Nd; B = Ca, Sr

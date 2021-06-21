@@ -1,0 +1,6 @@
+T1	Value-conductivity 778 786	&gt;10−5
+T2	Material-final 868 895	Na|[Na0.9(P1i444)0.1]FSI|Na
+T3	Material-final 1002 1029	Na|[Na0.6(P1i444)0.4]FSI|Na
+T4	Unit-conductivity 787 793	S cm−1
+T5	Argument-temp 795 803	at 20 °C
+T6	Material-final 238 354	Mixtures of triisobutylmethylphosphonium bis(fluorosulfonyl)imide (P1i444FSI) with different concentrations of NaFSI

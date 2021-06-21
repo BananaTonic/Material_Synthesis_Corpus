@@ -1,0 +1,9 @@
+T1	Value-conductivity 247 257	2.5 × 10−4
+T2	Unit-conductivity 258 264	S cm−1
+T3	Argument-temp 266 274	at 25 °C
+T4	Value-conductivity 204 214	1.6 × 10−3
+T5	Unit-conductivity 215 221	S cm−1
+T6	Material-final 24 32	LiTa2PO8
+T7	Material-final 539 547	LiTa2PO8
+T8	Argument-others 185 189	bulk
+T9	Argument-others 227 232	total

@@ -1,0 +1,15 @@
+T1	Material-final 9 18	Li2S–P2S5
+T2	Argument-others 19 44	glass-ceramic electrolyte
+T3	Argument-others 48 59	MoS2 doping
+T4	Material-final 434 454	MoS2-doped Li2S–P2S5
+T5	Argument-others 455 480	glass-ceramic electrolyte
+T6	Material-final 482 501	Li7P2.9S10.85Mo0.01
+T7	Material-final 611 630	Li7P2.9S10.85Mo0.01
+T8	Value-conductivity 669 672	4.8
+T9	Unit-conductivity 673 680	mS cm−1
+T10	Argument-temp 681 700	at room temperature
+T11	Material-final 1085 1093	Li7P3S11
+T12	Argument-others 1094 1105	electrolyte
+T13	Material-final 962 981	Li7P2.9S10.85Mo0.01
+T14	Argument-others 982 993	electrolyte
+T15	Material-final 873 881	Li7P3S11

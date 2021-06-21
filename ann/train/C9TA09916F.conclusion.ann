@@ -1,0 +1,10 @@
+T1	Value-conductivity 266 270	0.01
+T2	Unit-conductivity 271 277	S cm−1
+T3	Value-conductivity 639 642	100
+T4	Unit-conductivity 643 649	S cm−1
+T5	Material-final 869 873	LFNT
+T6	Material-final 670 674	LFNT
+T7	Material-final 617 621	LFNT
+T8	Argument-others 622 632	perovskite
+T9	Argument-others 874 879	anode
+T10	Argument-others 675 680	anode

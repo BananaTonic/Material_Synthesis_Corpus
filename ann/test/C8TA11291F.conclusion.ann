@@ -1,0 +1,19 @@
+T1	Value-conductivity 312 317	93.88
+T2	Unit-conductivity 318 325	mS cm−1
+T3	Argument-temp 326 334	at 80 °C
+T4	Value-conductivity 410 415	49.08
+T5	Value-conductivity 420 425	42.94
+T6	Unit-conductivity 426 433	mS cm−1
+T7	Argument-temp 434 442	at 80 °C
+T8	Material-final 248 253	QAPIB
+T9	Argument-others 254 262	membrane
+T10	Material-final 345 351	PyrPIB
+T11	Material-final 356 362	PipPIB
+T12	Argument-others 363 372	membranes
+T13	Material-final 595 601	PipPIB
+T14	Material-final 741 747	PyrPIB
+T15	Material-final 752 758	PipPIB
+T16	Argument-others 759 768	membranes
+T17	Argument-others 602 610	membrane
+T18	Material-final 1019 1025	PipPIB
+T19	Argument-others 1026 1034	membrane

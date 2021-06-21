@@ -1,0 +1,18 @@
+T1	Value-conductivity 897 902	0.009
+T2	Unit-conductivity 903 909	S cm−1
+T3	Argument-air 911 923	under 30% RH
+T4	Value-conductivity 678 689	0.001–0.009
+T5	Value-conductivity 694 705	0.108–0.431
+T6	Unit-conductivity 706 712	S cm−1
+T7	Argument-air 655 672	at 30% and 95% RH
+T8	Material-final 268 339	Poly(ether ether ketone)-based graft-type polymer electrolyte membranes
+T9	Material-final 341 350	PEEK-PEMs
+T10	Argument-others 352 396	with wide ion exchange capacity (IEC) ranges
+T11	Argument-others 631 654	1.73–3.08 mmol g−1 IECs
+T12	Material-final 824 833	PEEK-PEMs
+T13	Argument-others 834 862	with IECs &gt; 3.08 mmol g−1
+T14	Material-final 1056 1064	PEEK-PEM
+T15	Argument-others 1065 1089	with IEC = 2.45 mmol g−1
+T16	Material-final 1232 1240	PEEK-PEM
+T17	Material-final 1489 1509	graft-type PEEK-PEMs
+T18	Material-final 0 78	Poly(ether ether ketone) (PEEK)-based graft-type polymer electrolyte membranes

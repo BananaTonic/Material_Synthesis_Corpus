@@ -1,0 +1,22 @@
+T1	Value-conductivity 920 924	38.7
+T2	Value-conductivity 911 915	29.0
+T3	Unit-conductivity 925 932	mS cm−1
+T4	Argument-temp 933 941	at 20 °C
+T5	Material-final 903 908	LSCQA
+T6	Material-final 981 986	LSCQA
+T7	Material-final 795 800	LSCPi
+T8	Material-final 593 598	LSCPi
+T9	Material-final 1176 1181	LSCPi
+T10	Material-final 1229 1234	LSCPi
+T11	Material-final 1209 1214	LSCQA
+T12	Argument-others 1235 1243	membrane
+T13	Argument-others 1215 1223	membrane
+T14	Argument-others 1182 1190	membrane
+T15	Argument-others 801 809	membrane
+T16	Material-final 300 305	LSCPi
+T17	Material-final 271 275	SCPi
+T18	Material-final 650 653	BPi
+T19	Material-final 641 645	SCPi
+T20	Argument-others 654 663	membranes
+T21	Material-final 321 350	benzylmethylpiperidinium AEMs
+T22	Material-final 352 355	BPi

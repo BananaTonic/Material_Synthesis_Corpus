@@ -1,0 +1,8 @@
+T1	Value-conductivity 698 701	4.5
+T2	Unit-conductivity 702 709	mS cm−1
+T3	Argument-temp 710 718	at 25 °C
+T4	Value-conductivity 723 726	1.6
+T5	Unit-conductivity 727 734	mS cm−1
+T6	Argument-temp 735 744	at −20 °C
+T7	Material-final 664 690	Li6.25PTe0.125S5.125Cl0.75
+T8	Material-final 171 179	Li6PS5Cl

@@ -1,0 +1,6 @@
+T1	Value-conductivity 1037 1039	35
+T2	Unit-conductivity 1040 1047	mS cm−1
+T3	Material-final 651 659	PSF-QuOH
+T4	Argument-others 660 668	membrane
+T5	Material-final 416 424	PSF-QuOH
+T6	Argument-others 425 429	AEMs

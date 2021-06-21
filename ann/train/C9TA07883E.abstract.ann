@@ -1,0 +1,12 @@
+T1	Value-conductivity 669 672	0.4
+T2	Unit-conductivity 673 679	S cm−1
+T3	Argument-temp 680 688	at 80 °C
+T4	Argument-air 693 699	95% RH
+T5	Material-final 642 654	NPGOM-10-CNF
+T6	Material-final 792 814	NPGOM-10-CNF-based MEA
+T7	Material-final 972 981	NPGOM-CNF
+T8	Material-final 398 407	NPGOM-CNF
+T9	Material-final 321 370	functionalized graphene oxide–cellulose nanofiber
+T10	Argument-others 371 396	solid proton electrolytes
+T11	Material-final 7 56	functionalized graphene oxide–cellulose nanofiber
+T12	Argument-others 57 75	solid electrolytes

@@ -1,0 +1,9 @@
+T1	Material-final 926 958	solid-like composite electrolyte
+T2	Material-final 960 964	SLCE
+T3	Material-final 1764 1768	SLCE
+T4	Material-final 1385 1389	SLCE
+T5	Material-final 1268 1272	SLCE
+T6	Value-conductivity 1413 1423	1.2 × 10−3
+T7	Unit-conductivity 1424 1430	S cm−1
+T8	Value-conductivity 1402 1403	1
+T9	Unit-conductivity 1404 1411	mS cm−1

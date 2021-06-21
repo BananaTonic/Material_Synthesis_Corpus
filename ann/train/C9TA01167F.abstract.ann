@@ -1,0 +1,20 @@
+T1	Argument-temp 994 1002	at 20 °C
+T2	Unit-conductivity 986 993	mS cm−1
+T4	Material-final 973 978	LSCQA
+T5	Value-conductivity 796 800	29.0
+T6	Unit-conductivity 801 808	mS cm−1
+T7	Argument-temp 809 817	at 20 °C
+T8	Material-final 596 601	LSCPi
+T9	Material-final 1370 1375	LSCPi
+T10	Material-final 1533 1538	LSCPi
+T11	Material-final 1078 1083	LSCPi
+T12	Argument-others 1084 1092	membrane
+T13	Argument-others 1376 1385	membranes
+T14	Argument-others 1539 1547	membrane
+T15	Material-final 569 594	long side-chain-type AEMs
+T16	Material-final 958 971	QA-based AEMs
+T17	Material-final 762 765	BPi
+T18	Material-final 730 760	benzylmethyl piperidinium AEMs
+T19	Material-final 711 715	SCPi
+T20	Material-final 1361 1365	SCPi
+T3	Value-conductivity 981 985	38.7

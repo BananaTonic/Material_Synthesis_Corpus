@@ -1,0 +1,20 @@
+T1	Value-conductivity 1544 1547	290
+T2	Unit-conductivity 1548 1554	S cm−1
+T3	Argument-temp 1555 1564	at 900 °C
+T4	Argument-air 1565 1571	in air
+T5	Material-final 1391 1405	Nd2−xSrxNiO4−δ
+T6	Argument-others 1586 1593	x = 1.2
+T7	Argument-others 1406 1414	ceramics
+T8	Material-final 66 80	Nd2−xSrxNiO4−δ
+T9	Argument-others 82 93	x = 1.0–1.6
+T10	Argument-others 37 65	oxygen-deficient K2NiF4-type
+T11	Argument-others 286 297	x = 1.0–1.6
+T12	Material-final 270 284	Nd2−xSrxNiO4−δ
+T13	Argument-others 235 269	oxygen-deficient Ruddlesden–Popper
+T14	Material-final 530 544	Nd2−xSrxNiO4−δ
+T15	Argument-others 545 553	ceramics
+T16	Material-final 1046 1060	Nd2−xSrxNiO4−δ
+T17	Argument-others 1061 1069	ceramics
+T18	Material-final 1642 1656	Nd2−xSrxNiO4−δ
+T19	Argument-others 1634 1641	Sr-rich
+T20	Argument-others 1485 1511	under oxidizing conditions

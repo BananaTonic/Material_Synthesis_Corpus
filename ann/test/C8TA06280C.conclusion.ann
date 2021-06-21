@@ -1,0 +1,17 @@
+T1	Value-conductivity 1031 1035	0.01
+T2	Unit-conductivity 1036 1042	S cm−1
+T3	Argument-temp 1060 1069	at 500 °C
+T4	Material-final 312 317	BZY10
+T5	Material-final 319 324	BZY15
+T6	Material-final 329 334	BZY20
+T7	Material-final 781 786	BZY10
+T8	Material-final 549 554	BZY10
+T9	Material-final 472 477	BZY15
+T10	Material-final 482 487	BZY20
+T11	Material-final 875 880	BZY10
+T12	Material-final 248 261	BaZr1−xYxO3−δ
+T13	Material-final 209 222	BaZr1−xYxO3−δ
+T14	Argument-others 224 237	x = 0.10–0.15
+T15	Argument-others 263 276	x = 0.16–0.25
+T16	Material-final 636 641	BZY10
+T17	Argument-others 974 1000	Y content is above 15 mol%

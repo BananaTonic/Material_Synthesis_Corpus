@@ -1,0 +1,11 @@
+T1	Value-conductivity 892 896	1.43
+T2	Unit-conductivity 897 904	mS cm−1
+T3	Value-conductivity 912 916	2.58
+T4	Unit-conductivity 917 924	mS cm−1
+T5	Value-conductivity 935 937	15
+T6	Unit-conductivity 938 945	mS cm−1
+T7	Material-final 909 910	1
+T8	Material-final 929 930	2
+T9	Material-final 950 951	3
+T10	Argument-temp 952 960	at 95 °C
+T11	Argument-air 965 971	97% RH

@@ -1,0 +1,17 @@
+T1	Material-final 770 803	HMTA mono-quaternized polysulfone
+T2	Argument-others 804 813	membranes
+T3	Material-final 815 823	PSF-QuOH
+T4	Material-final 1444 1477	HMTA mono-quaternized polysulfone
+T5	Argument-others 1478 1487	membranes
+T6	Material-final 1489 1497	PSF-QuOH
+T7	Argument-others 1890 1940	where xx is the IEC value of the PSF-QuOH membrane
+T9	Material-final 1877 1888	PSF-QuOH xx
+T10	Material-final 3092 3100	PSF-QuOH
+T11	Material-final 3033 3041	PSF-QuOH
+T12	Argument-others 3042 3051	membranes
+T13	Material-final 3529 3537	PSF-QuOH
+T14	Argument-others 3538 3547	membranes
+T15	Material-final 5399 5407	PSF-QuOH
+T16	Material-final 6081 6089	PSF-QuOH
+T17	Material-final 5786 5794	PSF-QuOH
+T18	Argument-others 3101 3110	membranes

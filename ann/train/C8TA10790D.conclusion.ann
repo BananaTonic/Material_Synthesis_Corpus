@@ -1,0 +1,11 @@
+T1	Value-conductivity 624 628	10−3
+T2	Unit-conductivity 629 635	S cm−1
+T3	Material-final 90 103	Li7+xMxP1−xS6
+T4	Argument-others 105 115	M = Si, Ge
+T5	Material-final 293 307	Li7+xSixP1−xS6
+T6	Material-final 312 326	Li7+xGexP1−xS6
+T7	Material-final 580 593	Li7+xMxP1−xS6
+T8	Material-final 845 858	Li7+xMxP1−xS6
+T9	Argument-others 829 844	argyrodite-type
+T10	Argument-others 254 268	0 &lt; x ≤ 0.4
+T11	Argument-others 273 288	0 &lt; x ≤ 0.35

@@ -1,0 +1,26 @@
+T1	Value-conductivity 1839 1850	5.16 × 10−4
+T2	Unit-conductivity 1851 1857	S cm−1
+T3	Value-conductivity 1861 1869	1 × 10−6
+T4	Unit-conductivity 1870 1876	S cm−1
+T5	Value-conductivity 1885 1896	6.88 × 10−2
+T6	Unit-conductivity 1897 1903	S cm−1
+T7	Value-conductivity 1907 1918	2.03 × 10−2
+T8	Unit-conductivity 1919 1925	S cm−1
+T9	Argument-others 1926 1932	for Na
+T10	Argument-others 1877 1883	for Li
+T11	Material-final 1824 1837	FeF2.2(OH)0.8
+T12	Material-final 1787 1811	FeF2.2(OH)0.64O0.08□0.08
+T13	Material-final 1948 1972	FeF2.2(OH)0.64O0.08□0.08
+T14	Material-final 2046 2059	FeF2.2(OH)0.8
+T15	Material-final 2373 2386	FeF2.2(OH)0.8
+T16	Material-final 2176 2200	FeF2.2(OH)0.64O0.08□0.08
+T17	Material-final 2391 2415	FeF2.2(OH)0.64O0.08□0.08
+T18	Material-final 2502 2539	FeF2.2(OH)0.8-based cathode materials
+T19	Material-final 40 53	FeF2.2(OH)0.8
+T20	Material-final 199 212	FeF2.2(OH)0.8
+T21	Material-final 498 511	FeF2.2(OH)0.8
+T22	Material-final 754 767	FeF2.2(OH)0.8
+T23	Material-final 1183 1196	FeF2.2(OH)0.8
+T24	Material-final 1236 1260	FeF2.2(OH)0.64O0.08□0.08
+T25	Material-final 1373 1386	FeF2.2(OH)0.8
+T26	Material-final 1610 1623	FeF2.2(OH)0.8

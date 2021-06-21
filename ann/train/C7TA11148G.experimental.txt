@@ -1,0 +1,6 @@
+Experimental
+Materials and treatment of PEDOT:PSS films
+PEDOT:PSS aqueous solution (Clevios PH1000) was purchased from Heraeus. The concentration of PEDOT:PSS was 1.3% by weight, and the weight ratio of PEDOT to PSS was 1 : 2.5 in solution. MAI was purchased from Dysol. All other chemicals were obtained from Sigma-Aldrich. All the chemicals were used as received.
+PEDOT:PSS films were prepared by spin-coating the PEDOT:PSS aqueous solution on 1.3 × 1.3 cm2 glass substrates, which were pre-cleaned successively with detergent, de-ionized (DI) water, acetone and IPA. After spin coating, the PEDOT:PSS films were dried at 120 °C on a hot plate for 20 min. The post-treatments were conducted by dropping 100 μL of a cosolvent or solution onto a PEDOT:PSS film on a hot plate at 120 °C. After 4 min, the film was cooled down to room temperature. It was then rinsed with DI water or its corresponding cosolvents three times and dried again on the hot plate. More detailed procedures for treatment can be found in our previous studies.21,23,36
+Characterization
+Information about the sample characterization can be found in the ESI.

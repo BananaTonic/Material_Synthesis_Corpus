@@ -1,0 +1,16 @@
+T1	Value-conductivity 1412 1422	4.8 × 10−4
+T2	Unit-conductivity 1423 1429	S cm−1
+T3	Material-final 38 60	Li3xLa2/3−x□1/3−2xTiO3
+T4	Argument-others 61 79	solid-electrolytes
+T5	Argument-others 27 37	perovskite
+T6	Material-final 584 610	Li3xLa(2/3)−x□(1/3)−2xTiO3
+T7	Material-final 612 617	LLTOs
+T8	Argument-others 540 555	Perovskite-type
+T9	Material-final 769 774	LLTOs
+T10	Material-final 960 964	LLTO
+T11	Material-final 1017 1022	LLTOs
+T12	Material-final 1607 1611	LLTO
+T13	Argument-others 1612 1630	solid electrolytes
+T14	Argument-others 1591 1606	perovskite-type
+T15	Argument-others 965 976	perovskites
+T16	Material-final 556 583	lithium lanthanum titanates

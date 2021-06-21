@@ -1,0 +1,43 @@
+T1	Unit-conductivity 1301 1307	S cm−1
+T2	Material-final 1129 1134	H-PDI
+T3	Material-final 233 238	X-PDI
+T4	Argument-others 240 261	where X = H, F, or Br
+T5	Argument-others 214 231	perylene diimides
+T6	Material-final 1136 1141	F-PDI
+T7	Material-final 1143 1149	Br-PDI
+T8	Material-final 1210 1215	H-PDI
+T9	Material-final 1217 1222	F-PDI
+T10	Material-others 1155 1161	PC61BM
+T11	Material-final 1224 1230	Br-PDI
+T12	Material-others 1236 1242	PC61BM
+T13	Value-conductivity 1247 1258	8.71 × 10−8
+T14	Value-conductivity 1260 1271	1.18 × 10−9
+T15	Value-conductivity 1273 1283	2.2 × 10−6
+T16	Value-conductivity 1289 1300	8.42 × 10−6
+T17	Material-final 1353 1358	H-PDI
+T18	Material-final 1360 1365	F-PDI
+T19	Material-final 1367 1373	Br-PDI
+T20	Material-others 1379 1385	PC61BM
+T21	Material-final 1625 1630	H-PDI
+T22	Material-final 1634 1639	F-PDI
+T23	Material-final 1763 1769	Br-PDI
+T24	Material-others 1773 1779	PC61BM
+T25	Material-final 1920 1925	F-PDI
+T26	Material-final 1927 1932	H-PDI
+T27	Material-final 1938 1944	Br-PDI
+T28	Material-final 2070 2075	F-PDI
+T29	Material-final 2078 2083	H-PDI
+T30	Material-final 2089 2095	Br-PDI
+T31	Material-final 2170 2175	F-PDI
+T32	Material-final 2181 2186	H-PDI
+T33	Material-final 2192 2198	Br-PDI
+T34	Material-others 2201 2207	PC61BM
+T35	Material-final 2316 2321	H-PDI
+T36	Material-final 2323 2328	F-PDI
+T37	Material-final 2330 2336	Br-PDI
+T38	Material-others 2342 2348	PC61BM
+T39	Material-final 2459 2464	H-PDI
+T40	Material-final 2466 2471	F-PDI
+T41	Material-final 2473 2479	Br-PDI
+T42	Material-final 2485 2491	PC61BM
+T43	Material-final 2613 2619	Br-PDI

@@ -1,0 +1,6 @@
+T1	Value-conductivity 316 320	2120
+T2	Unit-conductivity 321 327	S cm−1
+T3	Value-conductivity 583 587	1732
+T4	Unit-conductivity 588 594	S cm−1
+T5	Material-final 222 238	PSSH/A-PEDOT:PSS
+T6	Material-final 487 505	PSSNa/BA-PEDOT:PSS

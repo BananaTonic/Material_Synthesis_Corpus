@@ -1,0 +1,24 @@
+T1	Material-final 99 104	X-PDI
+T2	Argument-others 106 121	X = H, F, or Br
+T3	Argument-others 74 91	perylene diimides
+T4	Material-final 222 227	H-PDI
+T5	Material-final 231 236	F-PDI
+T6	Material-final 290 296	Br-PDI
+T7	Material-others 369 375	PC61BM
+T8	Material-final 500 505	F-PDI
+T9	Material-final 614 619	F-PDI
+T10	Material-final 660 665	F-PDI
+T11	Material-final 739 745	Br-PDI
+T12	Material-final 751 756	H-PDI
+T13	Material-final 871 876	X-PDI
+T14	Material-final 878 896	Br-PDI-based PVSCs
+T15	Material-others 924 942	PC61BM-based PVSCs
+T16	Material-final 955 960	F-PDI
+T17	Material-final 989 994	X-PDI
+T18	Material-others 998 1004	PC61BM
+T19	Material-final 1231 1236	H-PDI
+T20	Material-final 1238 1244	Br-PDI
+T21	Material-others 1249 1255	PC61BM
+T22	Argument-others 1256 1265	thin film
+T23	Material-final 1378 1383	F-PDI
+T24	Material-final 1569 1574	F-PDI

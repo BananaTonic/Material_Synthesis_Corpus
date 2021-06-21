@@ -1,0 +1,7 @@
+T1	Unit-conductivity 979 985	S cm−1
+T2	Argument-temp 986 994	at 95 °C
+T3	Value-conductivity 967 978	1.79 × 10−2
+T4	Argument-time 1021 1083	without any appreciable loss of performance for at least 120 h
+T5	Argument-air 999 1020	85% relative humidity
+T6	Argument-others 794 838	to dock the proton transfer agent, histamine
+T11	Material-final 863 869	VNU-23
