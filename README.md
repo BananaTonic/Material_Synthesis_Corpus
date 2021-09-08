@@ -10,7 +10,7 @@ This code and data is a companion to the paper, "Analyzing Research Trends in In
 This dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation.
 
 # Citation
-If you use this code for your research, please cite our paper.
+If you use this corpus for your research, please cite our paper.
 ```
 @article{Kuniyoshi2021AnalyzingRT,
   title={Analyzing Research Trends in Inorganic Materials Literature Using NLP},
