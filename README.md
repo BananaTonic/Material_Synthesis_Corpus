@@ -1,6 +1,6 @@
 ![C4TA04910A_experimental](https://user-images.githubusercontent.com/12994311/132538133-dd1161f3-796d-4c7a-b94c-c1cd6eea8bf2.png)
 
-# Annotated IOB-corpus for NER
+# Annotated IOB-corpus for Analyzing Material Research Trends
 This code and data is a companion to the paper, "Analyzing Research Trends in Inorganic Materials Literature Using NLP".
 
 `corpus/*.tsv` contains tokenized and labelled information for 301 synthesis process. Each annotated process are splited as "train.tsv", "devel.tsv", or "test.tsv". This annotated documents contains equal-length arrays of tokens and their respective labels.
