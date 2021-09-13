@@ -19,4 +19,11 @@ If you use this corpus for your research, please cite our paper.
   year={2021},
   volume={abs/2106.14157}
 }
+
+@inproceedings{Kuniyoshi2020AnnotatingAE,
+  title={Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature},
+  author={Fusataka Kuniyoshi and Kohei Makino and J. Ozawa and Makoto Miwa},
+  booktitle={LREC},
+  year={2020}
+}
 ```
